@@ -1,0 +1,25 @@
+{% assign post = site.posts.first %}
+<div class="c-cover">
+  <article class="c-cover__item t-initial--{{ post.title | split: '' | first | downcase }}">
+    <div class="o-container o-wrapper">
+      <h1 class="c-cover__title">{{ post.title }}</h1>
+      <div class="c-cover__excerpt">
+        {% if post.intro %} 
+          {{ post.intro }} 
+        {% else %} 
+          {{post.excerpt | remove: "<p>" | remove: "</p>" }} 
+        {% endif %}  
+      </div>
+      <nav class="c-cover__nav">
+        <ul class="c-cover__nav-list">
+          <li class="c-cover__nav-item">
+            <a class="c-cover__nav-link" href="{{ post.url }}">Read this</a>    
+          </li>
+          <li class="c-cover__nav-item">
+            <a class="c-cover__nav-link" href="/blog">More posts</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </article>
+</div>

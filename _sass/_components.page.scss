@@ -1,0 +1,99 @@
+/*------------------------------------*\
+  #PAGE
+\*------------------------------------*/
+
+/**
+ * About this file
+ */
+
+$color__page--bg: #212121 !default;
+
+.c-page__boundary {
+  background-color: #ffffff;
+  padding: 1.5rem;
+
+  &::before {
+    display: none;
+  }
+}
+
+.c-page__title {
+  text-transform: uppercase;
+}
+
+.c-page__nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.c-page__nav-item {
+  margin: 2rem 0;
+}
+
+.c-page__nav-excerpt {
+  margin: 1rem 0 4rem 0;
+}
+
+.c-page__nav-date {
+  display: block;
+}
+
+.c-page__back {
+  -moz-transition: 500ms;
+  -webkit-transition: 500ms;
+  border: solid 1px $color__page--bg;
+  color: #212121;
+  display: inline-block;
+  line-height: 3.8rem;
+  padding: 0 1rem;
+  text-decoration: none;
+  transition: 500ms;
+
+  &::before {
+    content: '\261C\00A0';
+  }
+
+  &:hover {
+    background-color: darken($color__page--bg, 10);
+    color: #ffffff;
+  }
+}
+
+@include media-query(md) {
+
+  .c-page__background {
+    background-color: $color__page--bg;
+    height: 140px;
+  }
+
+  .c-page__boundary {
+    -webkit-box-shadow: 0 30px 50px 0 rgba(1,1,1,.15);
+    box-shadow: 0 30px 50px 0 rgba(1,1,1,.15);
+    padding: 8rem 12rem;
+    top: -5rem;
+    z-index: 0;
+
+    &::before {
+      color: darken(#212121, 10);
+      display: block;
+      font-size: 70vh;
+      font-weight: 600;
+      left: 0;
+      opacity: .1;
+      padding: 4rem;
+      position: absolute;
+      top: 0;
+      z-index: -1000;
+    }
+  }
+
+  .c-page__article {
+    font-size: $font-size + .3;
+  }
+
+  .c-page__nav-date {
+    display: inline;
+  }
+
+}

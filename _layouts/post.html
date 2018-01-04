@@ -1,0 +1,15 @@
+---
+layout: page
+---
+<article class="c-page__article">
+  <header>
+    <h1 class="c-page__title">{{ page.title }}</h1>
+    <p class="c-page__meta">Posted {{ page.date | date: "%b %-d, %Y" }}</p>
+  </header>
+  <section>
+    {{ content }}
+  </section>
+  <aside>
+    <a class="c-page__back" href="/blog/">Back to the blog</a>
+  </aside>
+</article>

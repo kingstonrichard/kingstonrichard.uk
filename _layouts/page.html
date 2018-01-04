@@ -1,0 +1,12 @@
+---
+layout: master
+---
+
+<div class="c-page__background"></div>
+<div class="o-container o-wrapper c-page__boundary t-initial--{{ page.title | split: '' | first | downcase }}">
+  {{ content }}
+</div>
+
+{% include _components.footer.html %}
+
+<script src="{{ "/scripts/scripts.js" | prepend: site.baseurl }}"></script>

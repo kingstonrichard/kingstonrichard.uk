@@ -1,0 +1,6 @@
+{
+  "C_Cpp.intelliSenseEngineFallback": "Disabled",
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/richardkingston/.platformio/penv/bin:/Users/richardkingston/.rvm/gems/ruby-2.1.0/bin:/Users/richardkingston/.rvm/gems/ruby-2.1.0@global/bin:/Users/richardkingston/.rvm/rubies/ruby-2.1.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/share/dotnet:/usr/local/git/bin:/Users/richardkingston/.rvm/bin"
+  }
+}

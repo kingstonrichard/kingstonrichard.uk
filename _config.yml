@@ -1,0 +1,14 @@
+# Site settings
+title: Richard Kingston
+email: hello@kingstonrichard.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  These are the musings of a local gov IT manager, a web developer, an electronics tinkerer, a MTB rider, a DIY experimenter and a 
+  practising father of two. Just finding my way through life, learning as I go.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kingstonrichard.co.uk" # the base hostname & protocol for your site
+twitter_username: kingstonrichard
+github_username:  kingstonrichard
+permalink: /blog/:title/
+
+# Build settings
+markdown: kramdown

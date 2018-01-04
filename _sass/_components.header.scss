@@ -1,0 +1,150 @@
+/*------------------------------------*\
+  #HEADER
+\*------------------------------------*/
+
+/**
+ * The site’s masthead is a horizontal strip that sits along the top of the site
+ * holding a H1 logo on the left and an inline unordered list for navigation on
+ * the right on screens sized medium and over. On mobiles the inline list makes
+ * way for a burger menu that expands a the list as a block element. There is a 
+ * transition to gracefully lower the navigation block when requested and to
+ * also hide the header when the window is scrolled.
+ *
+ * Designed using guidance from https://codepen.io/JoelSutherland/pen/DzbfE and
+ * https://jsfiddle.net/mariusc23/s6mLJ/31/ but built mobile first in this
+ * implementation.
+ */
+
+$color__header--bg: #212121 !default;
+$color__header--fg: #e5e5e5 !default;
+$color__nav--bg: darken($color__header--bg, 10) !default;
+$color__nav--fg: $color__header--fg !default;
+
+.c-header {
+  -moz-transform: scaleY(0);
+  -moz-transition: 500ms;
+  -moz-transition-timing-function: ease-in-out;
+  -webkit-transform: scaleY(0);
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;
+  background-color: $color__header--bg;
+  color: $color__header--fg;
+  height: 5rem;
+  line-height: 5rem; // ensures vertical alignment (middle)
+  position: fixed;
+  top: 0;
+  transform: translateY(0);
+  transform-origin: top center;
+  transition: 500ms;
+  transition-timing-function: ease-in-out;
+  width: 100%;
+  z-index: 1000;
+}
+
+.c-header--hidden {
+  transform: translateY(-110%); // Extra 10% covers box-shadow
+}
+
+.c-header__logo {
+  font-weight: 300;
+  padding: 0 1rem;
+  text-transform: lowercase;
+  word-spacing: -.7rem;
+}
+
+.c-header__nav {
+  height: 0;
+  position: absolute;
+  right: 0;
+  top: 4.6rem;
+  width: 100%;
+
+  &::before {
+    content: '\2630';
+    cursor: pointer;
+    position: absolute;
+    right: 1rem;
+    top: -4.5rem;
+  }
+}
+
+.c-header__nav--open {
+  &::before {
+    content: '\2715';
+  }
+}
+
+.c-header__nav-list {
+  -moz-transform: scaleY(0);
+  -moz-transition: 500ms;
+  -moz-transition-timing-function: ease-in-out;
+  -webkit-transform: scaleY(0);
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;
+  background-color: $color__nav--bg;
+  border-bottom: solid 1rem $color__header--bg;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  transform: scaleY(0);
+  transform-origin: top center;
+  transition: 500ms;
+  transition-timing-function: ease-in-out;
+  width: 100%;
+}
+
+.c-header__nav-list--open {
+  -moz-transform: scaleY(1);
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+}
+
+.c-header__nav-item {
+  border-bottom: solid 1px lighten($color__nav--bg, 6);
+  float: none;
+
+  &:last-of-type {
+    border: 0;
+  }
+}
+
+.c-header__nav-link {
+  -moz-transition: 500ms;
+  -webkit-transition: 500ms;
+  color: $color__nav--fg;
+  display: block;
+  line-height: 3.8rem;
+  padding: 0 1rem;
+  text-decoration: none;
+  transition: 500ms;
+
+  &:hover {
+    background-color: $color__nav--bg;
+  }
+}
+
+@include media-query(md) {
+
+  .c-header__nav {
+    right: 0;
+    top: 0;
+    width: auto;
+  }
+
+  .c-header__nav-list {
+    border: 0;
+    transform: none;
+    -moz-transform: none;
+    -webkit-transform: none;
+  }
+
+  .c-header__nav-item {
+    border: 0;
+    float: left;
+  }
+
+  .c-header__nav-link {
+    line-height: 5rem;
+  }
+
+}

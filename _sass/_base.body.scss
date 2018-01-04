@@ -1,0 +1,27 @@
+/*------------------------------------*\
+  #BODY
+\*------------------------------------*/
+
+/**
+ * This file sets out the basic stylings of the body element and some of the 
+ * inherited values from that.
+ */
+
+$font-size: 1.2rem !default;
+
+body {
+  background-color:   $color--body;
+  color:              $color--text;
+  font-family:        $font-family;
+  font-size:          $font-size;
+  margin:             5rem 0 0;
+  padding:            0;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  margin-bottom: 3rem;
+}
