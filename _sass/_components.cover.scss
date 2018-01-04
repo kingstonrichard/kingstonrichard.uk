@@ -48,6 +48,10 @@ $color__nav--fg: $color__cover--fg !default;
   text-transform: uppercase;
 }
 
+.c-cover__excerpt {
+  margin: 2rem auto;
+}
+
 .c-cover__nav-list {
   list-style: none;
   margin: 0;
@@ -85,8 +89,7 @@ $color__nav--fg: $color__cover--fg !default;
   }
 
   .c-cover__excerpt {
-    margin: 2rem auto;
-    width: 50%;
+    width: 80%;
   }
 
 }
