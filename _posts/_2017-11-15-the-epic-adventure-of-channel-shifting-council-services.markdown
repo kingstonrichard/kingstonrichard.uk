@@ -3,6 +3,7 @@ layout: post
 title:  "The epic adventure of channel shifting council services"
 date:   2017-11-15
 categories: work services interactions eForms
+intro: With almost 2,000 services to channel shift in Barnsley alone, it needs a gargantuan effort of design, development and testing to pull off... or a new and innovative approach!
 ---
 
 In England and Wales, local council's are delivering 986 individual services between them, each of which can be interacted with in up to 32 different ways.
