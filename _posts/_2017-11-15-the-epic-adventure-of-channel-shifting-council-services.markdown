@@ -20,7 +20,7 @@ And so after 14 years in this game, it’s rather frustrating, although entirely
 
 Accepting that digitising services is still the appropriate thing to do, in response to ever increasing customer demand and new emerging technologies, how on earth do we ever actually get there? If we continue the way we are doing, decades will pass and by the time we finish, there’ll be a whole new set of demands to cater to. There has to be a new way of thinking.
 
----
+# So, what do we know?
 
 Back in 2003, to support councils with this, the Local Government Association rolled out an Electronic Service Delivery (ESD) Toolkit. Amongst other things, it provided a maintained lists of all the council services offered in England & Wales and the ways in which customers could interact with them. Today it recognises 986 services and 32 interactions that can be mapped together. Interactions range from ‘making an application’ to ‘reporting an issue’ to ‘receiving a benefit’.
 
@@ -32,26 +32,27 @@ We've employed two distinctly separate approaches in our attempts to do that as 
 Buying from suppliers:
 
 * Relatively quick
-** Introduces technical constraints
-** Changes can be expensive
-** Can require workarounds where functionality is missing
-** Includes support and maintenance
-** Doesn’t use up internal resource
-** To include ALL services means buying from MANY suppliers
-*Building in-house 
-** Relatively lengthy
-** Can be fully customised
-** Changes can be made in-house
-** Core functionality can be amended as needed
-** Must be supported internally
-** Entirely uses up internal resource
-** Can be grown to include all required services in one solution
+  * Introduces technical constraints
+  * Changes can be expensive
+  * Can require workarounds where functionality is missing
+  * Includes support and maintenance
+  * Doesn’t use up internal resource
+  * To include ALL services means buying from MANY suppliers
+  
+* Building in-house 
+  * Relatively lengthy
+  * Can be fully customised
+  * Changes can be made in-house
+  * Core functionality can be amended as needed
+  * Must be supported internally
+  * Entirely uses up internal resource
+  * Can be grown to include all required services in one solution
 
 We’ve tended in both cases to focus on digitising small groups of services at a time, prioritised by usage volumes and political feeling at the time. That’s allowed us to make sure each process is designed well, built right and tested thoroughly which is important and we’ve been able to include bespoke integrations with back office systems too in most cases.
 
 But, where we’ve built, we have consistency in terms of the branding, usability and accessibility of the services we’ve enabled regardless of the devices our customers are using. Where we’ve bought, we’ve been at the mercy of the chosen supplier to achieve those things. We find ourselves today with our customers using several sets of bespoke branding, needing many different login credentials, working with different accessibility levels, seeing inconsistent usability practices, having limited integrations between the services they’re using and we have no concept of a single customer record.
 
----
+#Then, what can we do?
 
 It’s suggested that we take learning from the Government Digital Service and their approach with the Government as a Platform solution, making use of the Digital First initiative as a disruptive force, we should work up and implement a suitable plan to:
 
