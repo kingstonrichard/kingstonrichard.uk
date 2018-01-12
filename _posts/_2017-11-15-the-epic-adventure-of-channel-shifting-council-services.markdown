@@ -3,51 +3,56 @@ layout: post
 title:  "The epic adventure of channel shifting council services"
 date:   2017-11-15
 categories: work services interactions eForms
-intro: With almost 2,000 services to channel shift in Barnsley alone, it needs a gargantuan effort of design, development and testing to pull off... or a new and innovative approach!
+intro: Today, council's up and down the country share a common ambition - to offer a full and inclusive self-service access channel to their residents, businesses and visitors. That's no small feat!
 ---
 
-In England and Wales, local council's are delivering 986 individual services between them, each of which can be interacted with in up to 32 different ways.
+There has been a long standing drive amongst local authorities to be able to offer their services online, digitally. Originally incentivised by a central government initiative back in 2003, they recognised a significant opportunity in doing so, to meet rising customer demand, generate efficiencies and reduce operating costs.
 
-From accepting applications, to receiving reports, to taking bookings, to processing payments, etc. there is a potential for there to be more than 31,000 different ways to handle requests from residents, businesses and visitors.
+It was estimated that typical face to face service-interactions with customers attracted average costs of £8.21. By comparison, calls to contact centres came in at just £2.59 and self-service transactions on websites, at only £0.09. Providing digital access channels, supported by a marketing plan to shift customers, therefore made good financial sense!
 
-Of course not every type of interaction applies to every council service. It wouldn't make sense for example to be processing payments for abandoned vehicles. But we would legitimately expect to be taking reports about them and perhaps dealing with complaints too. There might even be status checks while we wait for the tow truck to arrive.
+And so a journey began, to design e-enabled versions of traditional paper based business processes, to publish them online, and to encouraging their use. In the fullness of time, public offices were closed, staff in call centres were reduced, investments in websites increased and today much progress has been made. But… one could argue not nearly enough.
 
-Very handily for us, the Local Government Association has put a lot of time and effort into developing a realistic mapping of these service/interaction relationships and making them available for us to review. They can be downloaded from the [ESD Standards](https://standards.esd.org.uk) website free of charge.
+While it sounds simple enough, redesigning business processes does not come easy. I won’t go into the where’s the whyfores (the GovUK Service Manual has them covered) but there is much more to it than you might at first think. People need to be retrained. Technology has to be implemented. Supplier and policy constraints must be overcome. Security and information governance arrangements require review. It’s a tall order.
 
-![Screenshot of the ESD Standards page on November 15th 2017](https://lh3.googleusercontent.com/CNMz1zCp2-tKQtCivtVDOA--h77CpmDDArsU2p_ibLxGkLtWlvbi7c8B8fJv7kE_kaddDIcqXDpF6t7-ve-Alm1wWUA5e8ZbDfUrY6zi6CUM_GrF-9Fx8DaZWB1nFDYHl9gVFpmB0EI)
+Then there are the digitally excluded to consider - a business process can’t simply be put online and the more traditional access channels closed down - there will always be a need for mediated support amongst the less technically savvy of customers. There will always be those who simply need a reassuring voice rather than a “Thanks for your enquiry” message on screen.
 
-These mappings won't ever be perfect in an ever changing environment, but they do give us a strong insight into the challenge that council's face as they attempt to channel shift their customers online. Each mapping represents a real interaction that should be catered for in that access channel.
+And so after 14 years in this game, it’s rather frustrating, although entirely understandable, that in Barnsley at least, we’ve only managed to deliver a small proportion of what’s ultimately required. And in many cases, we’ve just gone out and bought a third party products to do it for us - to save time (though that comes with its own set of issues).
 
-I say "should" because there will always be services that don't lend themselves to being online. Those that necessitate a face to face conversation in order to be effective - the delivery of certain adult or children's health care services spring to mind here.
+Accepting that digitising services is still the appropriate thing to do, in response to ever increasing customer demand and new emerging technologies, how on earth do we ever actually get there? If we continue the way we are doing, decades will pass and by the time we finish, there’ll be a whole new set of demands to cater to. There has to be a new way of thinking.
 
-That said, the LGA have included 1,830 mappings in their list covering interactions that will have historically (and currently) been accessed via face to face or telephony channels. The business processes underpinning them will be geared towards those and likely won't be in a good position to support a new online approach.
+---
 
-They certainly won't be digital processes for the most part (parts of them may be) and the staff undertaking them are unlikely to be thinking digitally by default. They'll be focussed on giving customers are good experience in the way they traditionally know how.
+Back in 2003, to support councils with this, the Local Government Association rolled out an Electronic Service Delivery (ESD) Toolkit. Amongst other things, it provided a maintained lists of all the council services offered in England & Wales and the ways in which customers could interact with them. Today it recognises 986 services and 32 interactions that can be mapped together. Interactions range from ‘making an application’ to ‘reporting an issue’ to ‘receiving a benefit’.
 
-One thousand, eight hundred and thirty times, council's will need therefore need to challenge and consider:
+Not all council’s deliver all of those services and not all interactions apply to every service either. You wouldn’t ‘Make a Payment’ (interaction) when ‘Reporting an abandoned vehicle’ (service) for example. Also not all service-interaction combinations are suited to being online – some homelessness services for example have to be delivered face to face.
 
-* Adaptation of existing business processes to support an increase in uptake of a new online channel, and reduction of transactions made in person or over the phone;
-* Development of new software solutions to enable customer self-service online, including the necessary security and information safeguards that goes with that (think login portals);
-* Retraining of key personnel to ensure new online requests are processed quickly and efficiently, where possible streamlining and simplifying the approach using more technology;
-* Communications and marketing strategies to actively encourage and incentivise a channel shift amongst customers
+In Barnsley, the offer includes 619 of those services and with an average of 3 interactions each. There are also some generic interactions that apply to all services, for example ‘Making a complaint’ which customers are entitled to do about anything. That leaves us with a little over 1,850 processes to digitise and publish.
 
-It may be possible to offset some of the cost of these efforts with the savings made where transactions volumes are typically high. According to the Society of IT Managers (SOCITM), it costs a council typically £8.21 to process a face to face interaction, £2.59 when that is handled over the phone and as little as £0.09 when the customer serves themselves online. Take a service running 100,000 transactions per year and the savings could be as much as £812,000 to reinvest.
+We've employed two distinctly separate approaches in our attempts to do that as I suspect many other council's have too:
+Buying from suppliers:
 
-And reinvest they will need to. As the development of each new online interaction comes to the fore, council's must consider:
+* Relatively quick
+** Introduces technical constraints
+** Changes can be expensive
+** Can require workarounds where functionality is missing
+** Includes support and maintenance
+** Doesn’t use up internal resource
+** To include ALL services means buying from MANY suppliers
+*Building in-house 
+** Relatively lengthy
+** Can be fully customised
+** Changes can be made in-house
+** Core functionality can be amended as needed
+** Must be supported internally
+** Entirely uses up internal resource
+** Can be grown to include all required services in one solution
 
-* 
+We’ve tended in both cases to focus on digitising small groups of services at a time, prioritised by usage volumes and political feeling at the time. That’s allowed us to make sure each process is designed well, built right and tested thoroughly which is important and we’ve been able to include bespoke integrations with back office systems too in most cases.
 
-Considering that each self-service solution will have it's own specific requirements in regards to checking customer eligiblity, capturing the right data from them, following appropriate business logic, integrating into a back office system and ideally keeping the customer informed, the ask here on council's is enormous.
+But, where we’ve built, we have consistency in terms of the branding, usability and accessibility of the services we’ve enabled regardless of the devices our customers are using. Where we’ve bought, we’ve been at the mercy of the chosen supplier to achieve those things. We find ourselves today with our customers using several sets of bespoke branding, needing many different login credentials, working with different accessibility levels, seeing inconsistent usability practices, having limited integrations between the services they’re using and we have no concept of a single customer record.
 
-And this is where the question of buy vs. build legitimately comes into play. With such a long roadmap ahead, it's very tempting and somewhat obvious to look to the market to buy a ready-made solution. Something that can be quickly and easily implemented. 
+---
 
-Sales people will say that their solution is the fastest way to achieve these channel shift goals with minimal impact to operational staff. They'll show examples of where they've achieved great success and they'll demonstrate the art of the possible with their product suite.
+It’s suggested that we take learning from the Government Digital Service and their approach with the Government as a Platform solution, making use of the Digital First initiative as a disruptive force, we should work up and implement a suitable plan to:
 
-What they won't say is that they too haven't delivered on the entire roadmap. Each provider will lay out a set of interactions that they've managed to deliver over the last few years which is great, but far from a complete set.
-
-So what options do council's have. Do they go at it with their own software development teams (where they have them), keeping costs relatively low but taking a long time to deliver. Or do they buy from the market and achieve some quick wins, but then be tied to a specific platform to attempt to develop and deliver the rest. Or perhaps they buy from multiple vendors in the hope of piecing together as big as set of completed interactions as possible?
-
-The truth of the matter here is that it's highly unlikely any council will truly achieve 100% self-service capabilities for their customers via any of these methods. Instead they'll focus on putting their most popular services online, relying on their phone contact centres to pick up the rest. They'll likely buy for this reason, to get to that point as quickly as possible.
-
-But in this scenario "quickly" is a relative term. Business processes will still have to change, regardless of the method a council takes to achieve some self-service. Even ready-made products need to sit on top of prepared business process and so time will still be required to adapt those.
 
