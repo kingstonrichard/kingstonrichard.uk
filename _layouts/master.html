@@ -13,10 +13,11 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   </head>
   <body>
+    
     {% include _components.header.html %}
     {{ content }}
     
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script src="{{ "/scripts/scripts.js" | prepend: site.baseurl }}"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-72755780-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
