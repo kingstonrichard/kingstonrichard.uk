@@ -2,8 +2,7 @@
 title: Richard Kingston
 email: hello@kingstonrichard.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Here are the thoughts of a local gov IT manager, a web developer, an electronics tinkerer, a MTB rider, a DIY experimenter and a 
-  practising father of two. If you don't like any of those things, you'll find these posts extremely painful to read, I'm sure.
+  Here are the thoughts of a local gov IT manager, web developer, electronics hobbyist, MTB rider, and father of two.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kingstonrichard.uk" # the base hostname & protocol for your site
 twitter_username: kingstonrichard
