@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My inbox is open for business"
+title:  "Why I won't close my inbox again"
 date:   2018-02-27
 categories: work productivity time efficiency
 intro: I learned a lot from closing my inbox over the half term week. Not all of it good. Here's what I've ultimately made of it all.
