@@ -3,6 +3,7 @@ layout: post
 title:  "Council knows what's 'appnin'"
 date:   2017-09-15
 categories: work web app mobile progressive umbraco
+intro: There's nothing quite like delivering customer value that's fit for the future, scalable and miles ahead of any other council looking to do the same thing ;-)
 ---
 Today I made it into the local paper with some members of my team. Not all of them could make the photo call but for those that did, we're now immortalised in ink and digital print forever more.
 
