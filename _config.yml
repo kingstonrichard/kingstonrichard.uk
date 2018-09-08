@@ -9,6 +9,10 @@ twitter_username: kingstonrichard
 github_username:  kingstonrichard
 permalink: /blog/:title/
 
+# Gems
+plugins:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 safe: false

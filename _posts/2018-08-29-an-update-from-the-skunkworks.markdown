@@ -3,7 +3,7 @@ layout: post
 title:  "An update from the Skunkworks"
 date:   2018-08-29
 categories: work skunkworks innovation
-alias: r/dom-proto
+redirect_from: r/dom-proto
 intro: Our desk occupancy monitor prototypes are built and ready to rollout after only three sessions putting them together.
 ---
 ​There's been a lot of talk at work recently about hotdesking, particularly in the Workforce Mobilisation theme of our Digital First Programme. With that in mind our Skunkworks (innovation group) has been busy working up a prototype solution that can show where busy / free desks are in real-time, thanks to a great idea from [Paul Bell](https://twitter.com/Paul81708531).
