@@ -11,3 +11,4 @@ permalink: /blog/:title/
 
 # Build settings
 markdown: kramdown
+safe: false
