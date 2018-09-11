@@ -1,5 +1,6 @@
 ---
 layout: page
+comments: true
 ---
 <article class="c-page__article">
   <header>
@@ -9,6 +10,9 @@ layout: page
   <section>
     {{ content }}
   </section>
+  <aside>
+    {% include _components.disqus.html %}
+  </aside>
   <aside>
     <a class="c-page__back" href="/blog/">Back to the blog</a>
   </aside>

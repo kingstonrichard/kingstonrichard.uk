@@ -4,7 +4,7 @@ email: hello@kingstonrichard.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   Here are the thoughts of a local gov IT manager, web developer, electronics hobbyist, MTB rider, and father of two.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://kingstonrichard.uk" # the base hostname & protocol for your site
+url: "https://kingstonrichard.uk" # the base hostname & protocol for your site
 twitter_username: kingstonrichard
 github_username:  kingstonrichard
 permalink: /blog/:title/

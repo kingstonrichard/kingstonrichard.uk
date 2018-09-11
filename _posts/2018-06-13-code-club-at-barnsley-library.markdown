@@ -3,7 +3,8 @@ layout: post
 title:  "Code Club at Barnsley Library"
 date:   2018-06-13
 categories: work life other
-intro: 
+intro: I gave up some of my Saturday this week to attend something called a Code Club.
+
 ---
 I gave up some of my Saturday this week to attend something called a Code Club at Barnsley Library. It's an event that runs weekly for 5-8 year olds, teaching them how to code and work with electronics - I was blown away by what I saw!
 
