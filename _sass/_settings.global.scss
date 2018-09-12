@@ -38,8 +38,11 @@ $spacing--gg: ($spacing * 4);     // Gigantic
   #FONTS
 \*------------------------------------*/
 
-$font-family: 'Josefin Sans', sans-serif;
+$font-family: 'Lato', 'open-sans', sans-serif;
+$font-family--headings: 'Exo', 'open-sans', sans-serif;
 $font-size: 1.2rem;
+$font-weight: 400;
+$font-weight--heavy: 600;
 $font-size--ty: ($font-size / 4);     // Tiny
 $font-size--sm: ($font-size / 2);     // Small
 $font-size--lg: ($font-size * 1.8);   // Large
