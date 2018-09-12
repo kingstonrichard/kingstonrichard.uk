@@ -24,3 +24,10 @@ $(function(){
   });
 
 });
+
+
+$("article").progressBar({
+  progressBarHeight: 10,
+  progressBarColor: '#34495E',
+  progressBarValueColor: '#E74C3C'
+});
