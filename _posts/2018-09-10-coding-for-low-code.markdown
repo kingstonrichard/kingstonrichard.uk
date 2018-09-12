@@ -3,6 +3,7 @@ layout: post
 title:  "Coding for low-code"
 date:   2018-09-10
 categories: coding
+redirect_from: r/low-code
 tags: work life other
 intro: We're building our own low-code solution and when we're finished, we're going to open it up as a SaaS platform for other council's to use.
 ---
