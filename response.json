@@ -1,39 +1,28 @@
-﻿{
-  "version": "string",
+{
+  "version": "1.0",
   "sessionAttributes": {
-    "key": "value"
+    "supportedHoroscopePeriods": {
+      "daily": true,
+      "weekly": false,
+      "monthly": false
+    }
   },
   "response": {
     "outputSpeech": {
       "type": "PlainText",
-      "text": "Tomorrow",
-      "ssml": "<speak>Tomorrow</speak>",
-      "playBehavior": "REPLACE_ENQUEUED"      
+      "text": "Tomorrow"
     },
     "card": {
-      "type": "Standard",
-      "title": "Title of the card",
-      "content": "Content of a simple card",
-      "text": "Text content for a standard card",
-      "image": {
-        "smallImageUrl": "https://url-to-small-card-image...",
-        "largeImageUrl": "https://url-to-large-card-image..."
-      }
+      "type": "Simple",
+      "title": "Horoscope",
+      "content": "Tomorrow"
     },
     "reprompt": {
       "outputSpeech": {
         "type": "PlainText",
-        "text": "Say again",
-        "ssml": "<speak>Say again</speak>",
-        "playBehavior": "REPLACE_ENQUEUED"             
+        "text": "Say again?"
       }
     },
-    "directives": [
-      {
-        "type": "InterfaceName.Directive"
-        (...properties depend on the directive type)
-      }
-    ],
-    "shouldEndSession": true
+    "shouldEndSession": false
   }
 }
