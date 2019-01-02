@@ -45,4 +45,4 @@ That said, we're conscious of the GovPay offer from the Government Digital Servi
 
 The other big consideration in all of this is that the risk of failure is now entirely ours. Procuring big software products from big software suppliers provides an element of security. It buys a comfort blanket, applies penalties to failures, transfers costs and risks of ownership out of the organisation - all things we now don't have the luxury of doing with our Income Management function. But honestly, we're 9 months in and enjoying the fruit of our efforts. Maintenance is minimal. Support calls are minimal. Change requests are... we haven't had one for 6 months. Transaction counts are up. 
 
-What we've done here is satisfy our own business needs, make significant ongoing savings and opened what we see as an opportunty to work with others in a collaborative way, improving the solution as we go.
+What we've done here is satisfy our business needs in a generic way that we think will work for others, make significant ongoing savings and opened what we see as an opportunty to work with others in a collaborative way, improving the solution as we go.
