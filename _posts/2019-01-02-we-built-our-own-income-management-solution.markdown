@@ -2,6 +2,7 @@
 layout: post
 title: "We built our own Income Management solution"
 date: 2019-01-02
+redirect_from: r/ims-build
 categories: work
 intro: We recently took the decision to develop our own critical software solution, over renewing an incumbent contract. This is how it happened and what we learned.
 ---
