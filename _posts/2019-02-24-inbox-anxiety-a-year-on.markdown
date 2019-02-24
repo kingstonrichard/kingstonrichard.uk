@@ -27,8 +27,8 @@ So that's 162 emails received (down 29 from 191 last year) and 53 that are valid
 * 20 were sent to me and others - so potentially others will have responded to them already
 * 15 were only CC’d to me - so I assume these are just for information and I can treat them much the same as I will my subscriptions and notifications.
 
-That then means that at least 18 emails need my attention (it was 11 last year) and up to 38 might (it was 38 last year too). Worst case, of the 162 received that's 23%, so not much change from last year at all. A slight increase but that's still a lot of unecessary noise to be dealing with.
+That then means that at least 18 emails need my attention (it was 11 last year) and up to 38 might (it was 38 last year too). Worst case, of the 162 received that's 23% I'll need to do something with, so not much change from last year at all. A slight increase but there's still a lot of unecessary noise that can be cut out.
 
-Just for complete comparison, I also received only 2 missed calls which is down 10 from the 12 last year). There were no SMS messages (down from 3) and no voicemails (down from 1) which is great!
+Just for complete comparison, I also received only 2 missed calls which is down 10 from the 12 last year). There were no SMS messages (down from 3) and no voicemails (down from 1). That's good from the perspective that I was on leave, but is it bad that email then seems to be people's primary tool for communication still? I know our Digital First programme is trying to tackle that - to help with the entire point of this series of posts incidentally.
 
-Interesting to note if nothing else, but I think over the next 12 month I ought to be looking at taking some decisive action to try and reduce this down as far as possible.
+Interesting to note then if nothing else, but I think over the next 12 month I ought to be looking at taking some decisive action to try and reduce the noise down as far as possible.
