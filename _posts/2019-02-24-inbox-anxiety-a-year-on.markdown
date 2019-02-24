@@ -9,11 +9,11 @@ A year ago, [I closed my inbox for a week](/blog/i-closed-my-inbox-for-a-week/) 
 
 So, I came up with the idea of using my out of office automatic replies to inform people that while I was on leave my inbox was too. Their email wouldn't be kept and rather they should send it to me again when I got back if it was still important by then. That would allow me to return to work fresh, ready and raring to go, without a mountain of work piled up, free of any "inbox anxiety". My holiday would truly be a relaxing holiday.
 
-Whilst I told people that was I doing that I actually kept all of the emails I was sent and when I returned I spent a bit of time analysing them. The upshot was that only 20% of all of them needed my attention. The rest were essentially just noise adding pressure to my workload that wasn't necessary. Could I extend that analysis out to my general working day and use it to improve how effective I was being - use my time in better places? Maybe.
+Whilst I told people that was I doing that, I actually kept all of the emails I was sent and when I returned I spent a bit of time analysing them. The upshot was that only 20% of all of them needed my attention. The rest were essentially just noise adding pressure to my workload that wasn't necessary. Could I extend that analysis out to my general working day and use it to improve how effective I was being - use my time in better places? Maybe.
 
 It was defintiely an interesting exercise but I did later realise that it wasn't entirely fair on colleagues to take the approach I did of claiming my inbox was closed - I made a follow up post about that titled [Why I won't close my inbox again](/blog/why-i-wont-close-my-inbox-again/) which is worth a read.
 
-To the point of this point though! I'm returning to work from the 2019 February half term holiday tomorrow morning and so I thought, a year on, why not review the situation again. Has anything changed? Have I chilled out a little since last year? I certainly don't feel as pulled around as I did so maybe something has stuck. Conducting the same analysis, here's what I received for the week:
+To the point of this post though! I'm returning to work from the 2019 February half term holiday tomorrow morning and so I thought, a year on, why not review the situation again. Has anything changed? Have I chilled out a little since last year? I certainly don't feel as pulled around as I did so maybe something has stuck. Conducting the same analysis, here's what I received for the week:
 
 * 25 subscription messages - mailing lists items I’d actually asked for
 * 59 notifications from systems - alerts that I need to receive, for example updates from our change control system
