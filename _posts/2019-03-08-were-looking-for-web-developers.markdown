@@ -54,7 +54,7 @@ You will:
 
 ## Location
 
-The main office location is at Gateway Plaza, Sackville Street, Barnsley, S70 2RD. We support flexible working arrangements there and in our nearby sister building at Westgate Plaza One, Westgate, Barnsley and the Town Hall, Church Street, Barnsley. These buildings are open from 7am to 7pm. You’ll also have access various outreach buildings with the opportunity to work from home occasionally.
+The main office location is at Gateway Plaza, Sackville Street, Barnsley, S70 2RD. We support flexible working arrangements there and in our nearby sister building at Westgate Plaza One, Westgate, Barnsley and the Town Hall, Church Street, Barnsley. These buildings are open from 7am to 7pm. You’ll also have access various outreach buildings with the opportunity to work from home and indeed anywhere with connectivity.
 
 ## Hours 
 
@@ -70,7 +70,7 @@ We’re thrilled to have achieved Investors in People (IIP) Gold status for how 
 
 ## Your role in our journey
 
-As a front end web developer, you’ll provide vital technical support across a range of Information and Communication Technology services. Crucially, at this time of change and beyond, you’ll play a key role in developing, testing and deploying new digital services. We will look to you to make sure our systems comply with best practice, policies and procedures, and are fully monitored and controlled. From troubleshooting and fault finding, to information gathering, data analysis and reporting, a wide range of people will rely on your expertise and dedication.
+As a digital / web developer, you’ll provide vital technical support across a range of Information and Communication Technology services. Crucially, at this time of change and beyond, you’ll play a key role in developing, testing and deploying new digital services. We will look to you to make sure our systems comply with best practice, policies and procedures, and are fully monitored and controlled. From troubleshooting and fault finding, to information gathering, data analysis and reporting, a wide range of people will rely on your expertise and dedication.
 
 ## What you’ll need
 
