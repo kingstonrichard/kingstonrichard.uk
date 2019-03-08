@@ -8,6 +8,8 @@ intro: We'll be hiring soon and here's a sneaky peak of what we'll be looking fo
 ---
 In a week's time our advert for 3x web developers will go live on our organisations recruitment system at [https://barnsley.gov.uk/jobs](https://barnsley.gov.uk/jobs). Here is a sneaky peak of what we're looking for. I'd love to hear what you think about the job, the advert, parts that make you want to apply, parts that scare you off, is there anything missing, etc. Tweet or DM [@kingstonrichard](https://twitter.com/kingstonrichard).
 
+It's a very exciting time for our team right now as we build our MyBarnsley Account for citizens and release new digital services using our continually improving, in-house developed low-code solution. Voice assistant services are just around the corner, as are huge improvements to our progressive web app and potential opportunity for [collaboration with Gov.UK product teams](https://twitter.com/kingstonrichard/status/1101549517235724291).
+
 ## Digital / Web Developer
 
 We are looking for candidates with strong knowledge and substantial demonstrable experience in the following:
