@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We're looking for a new web developer"
+title:  "We're looking for web developers"
 date:   2019-03-08
 redirect_from: r/hiring
 categories: work
