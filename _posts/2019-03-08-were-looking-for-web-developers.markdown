@@ -66,4 +66,4 @@ In return for your commitment, the successful Web Developer will receive £34,10
 * Cycle to work scheme 
 * And many more!
 
-If you would like to join us in Barnsley then please visit our jobs site today at [https://barnsley.gov.uk/jobs](https://barnsley.gov.uk/jobs) for further instructions of how to continue with your application.
+If you would like to join us in Barnsley then please visit our jobs site today at [https://barnsley.gov.uk/jobs](https://barnsley.gov.uk/jobs) for further instructions of how to continue with your application. There you'll find our list of current vacancies ([including this one](https://barnsley.engageats.co.uk/ViewVacancyV2.aspx?enc=mEgrBL4XQK0+ld8aNkwYmMiNvD5Mcaf8avjt8Z6dgxDH5VURHYkPKM7L9rzD1D2HezDAcy4Fvm2OUoovG/409wPSlA8aWowReNSh3aVMyeffpiEIbI1O1gv+sdEmQ7g/LMbGlq3wDZmoe2Or1EdzaA==)) and importantly advice on [how to complete an application](http://bit.ly/2O7gXY3).
