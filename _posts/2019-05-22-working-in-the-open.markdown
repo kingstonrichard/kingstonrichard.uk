@@ -19,6 +19,6 @@ My understanding is that while carrying out their research they identified a com
 
 Ultimately we'd love to see our system operating in a multi-tenanted Software as a Service capacity on the [Gov.UK Platform as a Service](https://www.cloud.service.gov.uk/) offer, with the code available open-source and perhaps a cohort of local government colleagues holding responsibility for accepting/rejecting pull requests into its core. There's a lot of work to be done between here and there and that's where a funded Alpha project would undoubtedly help.
 
-I do hope that happens and in the meantime we'll continue to release new iterations of the product. We have 3 gaps to fill with regards to meeting the 12-factors that Gov.UK PaaS requires and we'd like to consider using an alternative database to Microsoft SQL Server. The system is currently built in .NET but not Core as that wasn't available at the time we started - we see benefit migrating to that.
+I do hope that happens and in the meantime we'll continue to release new iterations of the product. We have 3 gaps to fill with regards to meeting the [12-factors](https://12factor.net/) that Gov.UK PaaS requires and we'd like to consider using an alternative database to Microsoft SQL Server. The system is currently built in .NET but not Core as that wasn't available at the time we started - we see benefit migrating to that.
 
 Lots to consider and very exciting times.
