@@ -5,8 +5,8 @@ $.fn.progressBar = function () {
     throttleTime: options.throttleLimit || 100,
     debounceTime: options.debounceTime || 200,
     progressBarHeight: options.progressBarHeight || 10,
-    progressBarColor: options.progressBarColor || '#F1F1F1',
-    progressBarValueColor: options.progressBarValueColor || '#A1A1A1',
+    progressBarColor: options.progressBarColor || '#1B4D97',
+    progressBarValueColor: options.progressBarValueColor || '#567EBB',
     progressBarTopPosition: options.progressBarTopPosition || 0
   };
   var article = $(this)[0],
