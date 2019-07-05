@@ -13,11 +13,7 @@ title: Blog
         <li class="c-page__nav-item">
             <a class="c-page__nav-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="c-page__nav-date">({{ post.date | date: "%b %d, %Y" }})</span>
             <p class="c-page__nav-excerpt">
-              {% if post.intro %} 
-                {{ post.intro }} 
-              {% else %} 
                 {{post.excerpt | remove: "<p>" | remove: "</p>" }} 
-              {% endif %}
             </p>
         </li>
       {% endfor %}
