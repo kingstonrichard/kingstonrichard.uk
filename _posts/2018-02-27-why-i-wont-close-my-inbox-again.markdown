@@ -4,11 +4,10 @@ title:  "Why I won't close my inbox again"
 date:   2018-02-27
 categories: work productivity time efficiency
 intro: I learned a lot from closing my inbox over the half term week. Not all of it good. Here's what I've ultimately made of it all.
-redirect_from:
-  - /openinbox
-  - /20180227
+redirect_from: /openinbox
+permalink: /20180227
 ---
-Not so long ago I wrote about how [I closed my inbox for a week](/blog/i-closed-my-inbox-for-a-week/) in an attempt to take back control of some of my time. I was inefficiently spending way too much of it dealing with a backlog of emails after holidays, rather than getting things done, as I saw it. I had a great response to that post and I understand that my employers are even now having conversations about how something similar could be used to benefit all staff in the future - which is great! Also, our arms lengths housing management organisation have taken an interest too.
+Not so long ago I wrote about how [I closed my inbox for a week](/20180219/) in an attempt to take back control of some of my time. I was inefficiently spending way too much of it dealing with a backlog of emails after holidays, rather than getting things done, as I saw it. I had a great response to that post and I understand that my employers are even now having conversations about how something similar could be used to benefit all staff in the future - which is great! Also, our arms lengths housing management organisation have taken an interest too.
 
 On reflection though it was a pretty extreme thing to do and here's the kicker... it's probably not something I'll do again. There's no denying that the results were excellent. They certainly highlighted one or two issues. But I am really very conscious of the impact it could have potentially had on my colleagues - in particular those trusted friends who just wanted to make sure I was aware of something, only for me to turn around and effectively say "I'm on holiday so I don't care - talk to me later". Of course that's not what I was saying, and I certainly don't want them to think that, but the situation could oh so easily be misunderstood and taken out of context.
 
