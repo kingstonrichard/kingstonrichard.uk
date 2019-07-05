@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Long live the Income Management System!"
-categories: #DigitalFirst #DigitalBarnsley #IncomeManagement
+title: Long live the Income Management System!
 redirect_from:
   - /newims
   - /20180423
