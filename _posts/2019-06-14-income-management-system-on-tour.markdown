@@ -3,10 +3,11 @@ layout: post
 title:  "Income Management System on Tour"
 date:   2019-06-14
 categories: #DigitalFirst #DigitalBarnsley #IncomeManagement
-intro: Today I visited the Home Office, following up on the conversation about rolling out our Income Management System further.
 redirect_from:
   - /20190614
 ---
+
+Today I visited the Home Office, following up on the conversation about rolling out our Income Management System further.
 
 [Dave](https://twitter.com/davidrob2002) and I met with colleagues from the Local Gov Collaboration Unit (part of the Ministry of Housing, Culture and Local Government) and the Gov.UK Pay Product Team (part of the Government Digital Service) today - specifically [Ben Cheetham](https://twitter.com/bforben), [Adam Thoulass](https://twitter.com/AdamThoulass), [Egle Uzkuraityte](https://twitter.com/egle_a_ieva), [Katie Bates](https://uk.linkedin.com/in/katie-bates-a053b236), [Miriam Raines](https://twitter.com/MiriamAliceR) and [Richard Blake](https://uk.linkedin.com/in/richardblake86) joined via Google Hangout.
 
