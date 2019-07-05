@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Why I won't close my inbox again"
-categories: #DigitalBanrsley #WorkLifeBalance
+title: Why I won't close my inbox again
 redirect_from: 
   - /openinbox
   - /20180227
