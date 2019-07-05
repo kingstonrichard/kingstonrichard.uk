@@ -2,7 +2,7 @@
 layout: post
 title:  "I closed my inbox for a week"
 date:   2018-02-19
-categories: work email holiday efficiency productivity spam
+categories: #DigitalBarnsley #WorkLifeBalance
 intro: Inbox anxiety is real, especially when returning to work after a holiday. I decided to take action recently and here's how I got on.
 redirect_from:
   - /closedinbox
