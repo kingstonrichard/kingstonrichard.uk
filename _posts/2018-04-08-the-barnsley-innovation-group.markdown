@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "The Barnsley Innovation Group"
-categories: #DigitalBarnsley #DigitalFirst #InnovationGroup
+title: The Barnsley Innovation Group
 redirect_from:
   - /innogroup
   - /20180608
