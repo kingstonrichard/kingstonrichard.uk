@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Skype meetings for the win!"
-date:   2017-08-31
-categories: work skype video-conferencing
-intro: We've been piloting Skype as a video conferencing tool and recently I had a chance to see it earn it's keep. Very much a fan of the opportunities it brings.
+title: Skype meetings for the win!
 ---
+We've been piloting Skype as a video conferencing tool and recently I had a chance to see it earn it's keep. Very much a fan of the opportunities it brings.
 
 So yesterday we held a crisis meeting with one of our technology suppliers.
 
