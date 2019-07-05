@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "The challenge of digitising council services"
-date:   2017-11-15
 categories: #DigitalBarnsley #DigitalFirst #BarnsleyGovUK
-intro: Council's up and down the country share a common ambition - to offer full and inclusive self-service access channels to their residents, businesses and visitors. But how will they ever achieve it?!
 redirect_from:
   - /digitalchallenge
   - /20171115
 ---
+Council's up and down the country share a common ambition - to offer full and inclusive self-service access channels to their residents, businesses and visitors. But how will they ever achieve it?!
 
 There has been a long standing ambition amongst local government authorities to be able to offer their services to their residents, businesses and visitors digitally. As far back as 2002 there was an [eGovernment Strategy](https://joinup.ec.europa.eu/document/national-strategy-local-egovernment-england-localegov) encouraging them to do so, recognising a significant opportunity at the time to meet rising customer demand and to generate efficiency savings.
 
