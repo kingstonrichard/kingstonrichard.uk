@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Income Management System on Tour"
-categories: #DigitalFirst #DigitalBarnsley #IncomeManagement
+title: Income Management System on Tour
 redirect_from:
   - /20190614
 ---
