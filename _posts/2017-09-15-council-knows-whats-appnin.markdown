@@ -3,12 +3,11 @@ layout:         post
 title:          "Council knows what's 'appnin'"
 date:           2017-09-15
 categories:     DigitalBarnsley, DigitalFirst, WebApp
+intro:          There's nothing quite like delivering customer value that's fit for the future, scalable and miles ahead of the curve ;-)
 redirect_from:
   - r/newapp
   - 20170915
 ---
-There's nothing quite like delivering customer value that's fit for the future, scalable and miles ahead of the curve ;-)
-
 Today I made it into the local paper with some members of my team. Not all of them could make the photo call but for those that did, we're now immortalised in ink and digital print forever more.
 
 ![Coun Jenny Platts with the IT team Richard Kingston, Sudipa Das, Mathew Booth, Dan Roddis, Aidan Minton and Andras Revesz](http://cdn.barnsleychronicle.com/8e69e7a2-2672-4e85-86b1-a10ae0659f7d.jpg?v=442903)
