@@ -2,6 +2,7 @@
 layout: post
 title:  "Long live the Income Management System!"
 date:   2018-04-23
+categories: #DigitalFirst #DigitalBarnsley #IncomeManagement
 intro:  This morning, under the expert guidance of Louise Kilner, the final piece of the Income Management puzzle slotted perfectly into place.
 redirect_from:
   - /newims
