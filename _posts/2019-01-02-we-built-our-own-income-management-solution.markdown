@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "We built our own Income Management solution"
-date: 2019-01-02
 categories: #DigitalBarnsley #DigitalFirst #IncomeManagement
-intro: We recently took the decision to develop our own critical software solution, over renewing an incumbent contract. This is how it happened.
 redirect_from: 
   - /r/ims-build
   - /20190102
 ---
+We recently took the decision to develop our own critical software solution, over renewing an incumbent contract. This is how it happened.
+
 Let me start by saying we didn't take the decision to "build over buy" lightly. We were in somewhat of a sticky situation with limited options. Ultimately, it was a good call and we're now enjoying the benefits, but there was a lot of nervousness given how complex a beast the function of income management is.
 
 I suppose I should briefly explain that for those unfamiliar with the inside of local government. It is precisely what it sounds like, but you might not appreciate that it presents a significant challenge in terms of logistics. Monies are continually arriving from a variety of different sources (citizens, businesses, partners, etc.) for many different reasons (taxes, fines, services delivered, etc.) via many different methods (cash, cheque, card, electronic, etc.) and through many different channels (direct debit, standing order, bank transfer, automated telephone service, etc.). Digital transactions happen quickly - immediately even. Physical cash transactions can be recorded immediately but not reconciled until days later. In any given hour on any given day there are potentially hundreds if not thousands of incoming transactions that need to be taken care of.
