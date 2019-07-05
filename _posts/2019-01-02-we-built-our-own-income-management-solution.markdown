@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "We built our own Income Management solution"
-categories: #DigitalBarnsley #DigitalFirst #IncomeManagement
+title: We built our own Income Management solution
 redirect_from: 
   - /r/ims-build
   - /20190102
