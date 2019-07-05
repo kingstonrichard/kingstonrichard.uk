@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Working in the open"
-categories: #DigitalBarnsley #DigitalFirst #IncomeManagement
+title: Working in the open
 redirect_from:
   - /20190522
 ---
