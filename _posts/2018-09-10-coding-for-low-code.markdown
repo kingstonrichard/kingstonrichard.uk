@@ -2,10 +2,11 @@
 layout: post
 title:  "Coding for low-code"
 date:   2018-09-10
-categories: coding
-redirect_from: r/low-code
-tags: work life other
+categories: #DigitalBarnsley #DigitalFirst #DigitalCustomerServicePlatform
 intro: We're building our own low-code solution and when we're finished, we think we could open it up as a SaaS platform for other council's to use.
+redirect_from: 
+  - /r/low-code
+  - /20180910
 ---
 In Barnsley, we're very lucky that we have an in-house web development team. They're the people behind [our website](https://www.barnsley.gov.uk), our eForms and our CRM amongst other things. They're responsible for building accessible, compliant solutions that meet the needs of our citizens and our departmental staff and they do that very well. I manage that team and I'm incredibly proud to say so.
 
