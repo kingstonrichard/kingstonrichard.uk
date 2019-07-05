@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Long live the Income Management System!"
-date:   2018-04-23
 categories: #DigitalFirst #DigitalBarnsley #IncomeManagement
-intro:  This morning, under the expert guidance of Louise Kilner, the final piece of the Income Management puzzle slotted perfectly into place.
 redirect_from:
   - /newims
   - /20180423
 ---
+This morning, under the expert guidance of Louise Kilner, the final piece of the Income Management puzzle slotted perfectly into place.
+
 Over the last 7 months the technical team made up of Zoe Crosby, [Mathew Booth](https://twitter.com/mpb87), [Dan Roddis](https://twitter.com/danroddis) and Dean Swift have been working tirelessly to make the dream a reality – and today they succeeded!
 
 The Income Management is dead! Long live the Income Management System! Yes, I know it's not very imaginatively named, but when anyone talks about it you'll know exactly what it is and exactly what it does.
