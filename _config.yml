@@ -8,6 +8,7 @@ url: "https://kingstonrichard.uk" # the base hostname & protocol for your site
 twitter_username: kingstonrichard
 github_username:  kingstonrichard
 permalink: /blog/:title/
+redirect_from: /:date | date: "%Y%m%d"
 
 # Build settings
 markdown: kramdown
