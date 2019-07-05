@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Coding for low-code"
-categories: #DigitalBarnsley #DigitalFirst #DigitalCustomerServicePlatform
+title: Coding for low-code
 redirect_from: 
   - /r/low-code
   - /20180910
