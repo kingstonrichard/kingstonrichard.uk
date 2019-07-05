@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Council software backed for national rollout"
-date:   2019-05-31
 categories: #DigitalFirst #DigitalBarnsley #IncomeManagement
-intro: Our local paper published a story about our [Income Management system](/blog/working-in-the-open/) today and the potential for it's future rollout.
 redirect_from:
   - /20190531
 ---
+Our local paper published a story about our [Income Management system](/blog/working-in-the-open/) today and the potential for it's future rollout.
+
 Continuing the conversation about our Income Management System, the Chronicle released an article today about it and its potential to be rolled out into other local government organisations.
 
 [The article](https://www.barnsleychronicle.com/article/council-software-backed-for-national-roll-out) is a little presumptious in it's title but correctly highlights that conversations are happening to see if we can make that a reality.
