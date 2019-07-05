@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "The challenge of digitising council services"
-categories: #DigitalBarnsley #DigitalFirst #BarnsleyGovUK
+title: The challenge of digitising council services
 redirect_from:
   - /digitalchallenge
   - /20171115
