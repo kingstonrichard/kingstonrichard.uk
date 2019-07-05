@@ -2,8 +2,10 @@
 layout: post
 title:  "Working in the open"
 date:   2019-05-22
-categories: work
+categories: #DigitalBarnsley #DigitalFirst #IncomeManagement
 intro: Yesterday we held our first *external* show and tell session as a product team, demonstrating the features of our in-house developed Income Management System.
+redirect_from:
+  - /20190522
 ---
 I've [blogged about our Income Management System before](/blog/we-built-our-own-income-management-solution/) and how thrilled we are that we took the plunge and invested our energies into creating it. It's a fantastic solution that we're thrilled with and we're always happy to talk about it and sing it's praises.
 
