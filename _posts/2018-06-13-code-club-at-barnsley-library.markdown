@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Code Club at Barnsley Library"
-categories: #DigitalBarnsley #BarnsleyMakers #CodeClub
+title: Code Club at Barnsley Library
 redirect_from:
   - /20180613
 ---
