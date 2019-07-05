@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "The Barnsley Innovation Group"
-date:   2018-06-08
 categories: #DigitalBarnsley #DigitalFirst #InnovationGroup
-intro: A few weeks ago I was challenged by the head of our department to create and drive forward what he described as an innovation hub within the workforce.
 redirect_from:
   - /innogroup
   - /20180608
 ---
+A few weeks ago I was challenged by the head of our department to create and drive forward what he described as an innovation hub within the workforce.
 
 This week I brought to order the first meeting of Barnsley Council's new innovation group. It's aim... to stimulate digital, cross departmental innovation, by example - taking on some exciting projects to implement new prototype technology solutions and excite the workforce with the art of the possible.
 
