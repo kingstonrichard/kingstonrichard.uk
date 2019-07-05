@@ -2,8 +2,10 @@
 layout: post
 title:  "Launch of Barnsley's TechTown Action Plan"
 date:   2018-06-21
-categories: work life digital techtown barnsley
+categories: #DigitalBarnsley #TechTown
 intro: Yesterday I had the great pleasure of presenting our Skunkworks activity at the launch event for Barnsley's TechTown Action Plan - A Digital Campus down at the DMC.
+redirect_from:
+  - /20180621
 ---
 
 ![TechTown, Digital City Futures presented on a large screen](https://pbs.twimg.com/media/DgILGQLX4AAxgD7.jpg)
