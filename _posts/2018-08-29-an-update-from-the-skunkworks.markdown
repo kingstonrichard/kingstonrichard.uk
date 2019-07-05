@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "An update from the innovation group"
-categories: #DigitalBarnsley #DigitalFirst #InnovationGroup
+title: An update from the innovation group
 redirect_from: 
    - /r/dom-proto
    - /2180829
