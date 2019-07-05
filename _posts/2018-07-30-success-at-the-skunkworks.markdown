@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Success at the Skunkworks"
-date:   2018-07-30
+title:  "Success at the Innovation Group"
 categories: #DigitalBarnsley #DigitalFirst #InnovationGroup
-intro: Our skunkworks held it's first official hackday today and I'm pleased to say it went amazingly well and has already produced the makings of its first prototype.
 redirect_from:
   - /20180730
 ---
-On Thursday last week, the [Barnsley Skunkworks](https://barnsleyskunk.works) group spent seven solid hours, designing, making and prototyping down at the [Barnsley Digital Media Centre](https://www.barnsleydmc.co.uk) into which we took soldering irons, glue guns, electrical components, laptops, eInk screens, Wi-Fi microcontrollers, batteries, and a whole host of other bits and pieces that would be too long to list.
+Our innovation group held it's first official hackday today and I'm pleased to say it went amazingly well and has already produced the makings of its first prototype.
+
+On Thursday last week, the innovation group group spent seven solid hours, designing, making and prototyping down at the [Barnsley Digital Media Centre](https://www.barnsleydmc.co.uk) into which we took soldering irons, glue guns, electrical components, laptops, eInk screens, Wi-Fi microcontrollers, batteries, and a whole host of other bits and pieces that would be too long to list.
 
 ![Boxes of electronic components spread across a desk](https://pbs.twimg.com/media/DjC-mgQXgAMTldK.jpg:large)
 
