@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Council knows what's 'appnin'"
+title: Council knows what's 'appnin'
 redirect_from:
   - /webapp
   - /20170915
