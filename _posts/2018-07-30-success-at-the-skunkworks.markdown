@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Success at the Innovation Group"
-categories: #DigitalBarnsley #DigitalFirst #InnovationGroup
+title: Success at the Innovation Group
 redirect_from:
   - /20180730
 ---
