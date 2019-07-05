@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "We're looking for web developers"
-date:   2019-03-08
 categories: #DigitalBarnsley #DigitalFirst #Jobs
-intro: And we're hiring right now!
 redirect_from: 
   - /r/hiring
   - /20190308
 ---
+We're hiring right now!
+
 Our advert for 3x web developers is live on our organisations recruitment system at [https://barnsley.gov.uk/jobs](https://barnsley.gov.uk/jobs). Here is a quick peak at the advert.
 
 It's a very exciting time for our team right now as we build our MyBarnsley Account for citizens and release new digital services using our continually improving, in-house developed low-code solution. Voice assistant services are just around the corner, as are huge improvements to our progressive web app and potential opportunity for [collaboration with Gov.UK product teams](https://twitter.com/kingstonrichard/status/1101549517235724291).
