@@ -2,7 +2,7 @@
 layout: post
 title:  "The Barnsley Innovation Group"
 date:   2018-06-08
-categories: work skunkworks innovation
+categories: #DigitalBarnsley #DigitalFirst #InnovationGroup
 intro: A few weeks ago I was challenged by the head of our department to create and drive forward what he described as an innovation hub within the workforce.
 redirect_from:
   - /innogroup
