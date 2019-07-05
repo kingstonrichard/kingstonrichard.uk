@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Launch of Barnsley's TechTown Action Plan"
-categories: #DigitalBarnsley #TechTown
+title: Launch of Barnsley's TechTown Action Plan
 redirect_from:
   - /20180621
 ---
