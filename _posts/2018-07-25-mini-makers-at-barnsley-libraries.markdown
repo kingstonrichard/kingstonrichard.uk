@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Mini Makers at Barnsley Library"
-date:   2018-07-25
 categories: #DigitalBarnsley #BarnsleyMakers
-intro: The Mini Maker event at Barnsley Libraries has been a fantastic opportunity to spend time making things with my boy
 redirect_from:
   - /20180725
 ---
+The Mini Maker event at Barnsley Libraries has been a fantastic opportunity to spend time making things with my boy
+
 This morning I've spent a couple of hours down at Central Library​ with my 5 year old, taking part in one of the Summer [Mini Makers](https://www.barnsley.gov.uk/services/libraries/mini-makers-at-barnsley-libraries/) workshops that are being run right over the 6 week holidays. 
 
 They're moving between our various library buildings and are designed to encourage children to get involved in STEAM (science, technology, engineering, arts and mathematics) activities.
