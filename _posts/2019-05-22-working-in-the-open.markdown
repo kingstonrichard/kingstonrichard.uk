@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Working in the open"
-date:   2019-05-22
 categories: #DigitalBarnsley #DigitalFirst #IncomeManagement
-intro: Yesterday we held our first *external* show and tell session as a product team, demonstrating the features of our in-house developed Income Management System.
 redirect_from:
   - /20190522
 ---
+Yesterday we held our first *external* show and tell session as a product team, demonstrating the features of our in-house developed Income Management System.
+
 I've [blogged about our Income Management System before](/blog/we-built-our-own-income-management-solution/) and how thrilled we are that we took the plunge and invested our energies into creating it. It's a fantastic solution that we're thrilled with and we're always happy to talk about it and sing it's praises.
 
 We're used to running show and tell sessions around our developments - we've been following Scrum practices for a couple of years now - but those have always been with internal colleagues and so presenting externally yesterday was very different. As a remote Google Hangout, we couldn't see the people we were presenting to once we'd gotten started and that made it difficult to gauge the "room" and to tailor what we were saying. In hindsight, we ought to have had a second screen on standby to hold the main Hangout window, so there's a lesson learned.
