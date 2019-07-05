@@ -29,4 +29,4 @@ Also, this approach allows our residents to install the app by simply visiting [
 
 As we develop new digital customer services in the future, we'll do so with both the website and the app in mind, making sure that the most benefit is given to both. I'm looking forward to planning those next steps.
 
-If you'd like to know more, see our [Introducing the Barnsley Council App video] (https://www.barnsley.gov.uk/services/get-online-with-us/introducing-barnsley-council-app/).
+If you'd like to know more, see our [Introducing the Barnsley Council App video](https://www.barnsley.gov.uk/services/get-online-with-us/introducing-barnsley-council-app/).
