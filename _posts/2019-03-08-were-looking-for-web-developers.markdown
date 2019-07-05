@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "We're looking for web developers"
-categories: #DigitalBarnsley #DigitalFirst #Jobs
+title: We're looking for web developers
 redirect_from: 
   - /r/hiring
   - /20190308
