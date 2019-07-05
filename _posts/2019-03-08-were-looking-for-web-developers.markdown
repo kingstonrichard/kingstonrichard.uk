@@ -2,9 +2,11 @@
 layout: post
 title:  "We're looking for web developers"
 date:   2019-03-08
-redirect_from: r/hiring
-categories: work
+categories: #DigitalBarnsley #DigitalFirst #Jobs
 intro: And we're hiring right now!
+redirect_from: 
+  - /r/hiring
+  - /20190308
 ---
 Our advert for 3x web developers is live on our organisations recruitment system at [https://barnsley.gov.uk/jobs](https://barnsley.gov.uk/jobs). Here is a quick peak at the advert.
 
