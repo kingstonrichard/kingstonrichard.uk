@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Council knows what's 'appnin'"
-date:   2017-09-15
+layout:         post
+title:          "Council knows what's 'appnin'"
+date:           2017-09-15
+categories:     DigitalBarnsley, DigitalFirst, WebApp
 redirect_from:
   - r/newapp
   - 20170915
