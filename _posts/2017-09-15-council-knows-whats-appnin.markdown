@@ -2,7 +2,7 @@
 layout:         post
 title:          "Council knows what's 'appnin'"
 date:           2017-09-15
-categories:     DigitalBarnsley, DigitalFirst, WebApp
+categories:     DigitalBarnsley DigitalFirst WebApp
 intro:          There's nothing quite like delivering customer value that's fit for the future, scalable and miles ahead of the curve ;-)
 redirect_from:
   - r/newapp
