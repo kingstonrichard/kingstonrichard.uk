@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "An update from the Skunkworks"
-date:   2018-08-29
+title:  "An update from the innovation group"
 categories: #DigitalBarnsley #DigitalFirst #InnovationGroup
-intro: Our desk occupancy monitor prototypes are built and ready to rollout after only three sessions putting them together.
 redirect_from: 
    - /r/dom-proto
    - /2180829
 ---
-​There's been a lot of talk at work recently about hotdesking, particularly in the Workforce Mobilisation theme of our Digital First Programme. With that in mind our Skunkworks (innovation group) has been busy working up a prototype solution that can show where busy / free desks are in real-time, thanks to a great idea from [Paul Bell](https://twitter.com/Paul81708531).
+Our desk occupancy monitor prototypes are built and ready to rollout after only three sessions putting them together.
+
+There's been a lot of talk at work recently about hotdesking, particularly in the Workforce Mobilisation theme of our Digital First Programme. With that in mind our innovation group has been busy working up a prototype solution that can show where busy / free desks are in real-time, thanks to a great idea from [Paul Bell](https://twitter.com/Paul81708531).
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_M49EzU3EnU?rel=0&amp;showinfo=0" frameborder="0"></iframe> 
 
@@ -26,6 +26,6 @@ We’re hoping to pilot these devices over the next few weeks (PAT testing is bo
 
 ![Pic of 9 devices running side by side](https://pbs.twimg.com/media/DlxgvtkXsAA603H.jpg)
 
-For me this has a lot of potential as a solution and more so it demonstrates the value of the #skunkworks concept within our organisation and within local gov as a whole. Made possible with superb support from [Dave Robinson](https://twitter.com/DavidRob2002), [Riley Marsden](https://twitter.com/rileymarsden), [Tracey Johnson](https://twitter.com/Cr8tveBarnsley) at [Barnsley DMC](https://www.barnsleydmc.co.uk) and [Matt Brailsford](https://twitter.com/mattbrailsford) at [Barnsley IO](https://barnsley.io), plus everyone who has been involved hands-on. It's been and continues to be a real collaborative piece of work with all kinds of people providing all kinds of input.
+For me this has a lot of potential as a solution and more so it demonstrates the value of the innovation group concept within our organisation and within local gov as a whole. Made possible with superb support from [Dave Robinson](https://twitter.com/DavidRob2002), [Riley Marsden](https://twitter.com/rileymarsden), [Tracey Johnson](https://twitter.com/Cr8tveBarnsley) at [Barnsley DMC](https://www.barnsleydmc.co.uk) and [Matt Brailsford](https://twitter.com/mattbrailsford) at [Barnsley IO](https://barnsley.io), plus everyone who has been involved hands-on. It's been and continues to be a real collaborative piece of work with all kinds of people providing all kinds of input.
 
 EDIT 31/08/2018: Chuffed to say these have now passed their PAT testing so we’re free to roll them out and start a pilot!
