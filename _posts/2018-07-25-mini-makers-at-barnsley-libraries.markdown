@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Mini Makers at Barnsley Library"
-categories: #DigitalBarnsley #BarnsleyMakers
+title: Mini Makers at Barnsley Library
 redirect_from:
   - /20180725
 ---
