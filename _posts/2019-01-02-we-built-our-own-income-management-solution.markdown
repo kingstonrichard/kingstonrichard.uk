@@ -2,9 +2,11 @@
 layout: post
 title: "We built our own Income Management solution"
 date: 2019-01-02
-redirect_from: r/ims-build
-categories: work
+categories: #DigitalBarnsley #DigitalFirst #IncomeManagement
 intro: We recently took the decision to develop our own critical software solution, over renewing an incumbent contract. This is how it happened.
+redirect_from: 
+  - /r/ims-build
+  - /20190102
 ---
 Let me start by saying we didn't take the decision to "build over buy" lightly. We were in somewhat of a sticky situation with limited options. Ultimately, it was a good call and we're now enjoying the benefits, but there was a lot of nervousness given how complex a beast the function of income management is.
 
