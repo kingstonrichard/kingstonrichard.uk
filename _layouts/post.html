@@ -8,7 +8,7 @@ comments: true
     <p class="c-page__meta">Posted {{ page.date | date: "%b %-d, %Y" }}</p>
   </header>
   <section>
-    {{ content | remove: post.excerpt }}
+    {{ post.content | remove: post.excerpt }}
   </section>
   <aside>
     <a class="c-page__back" href="/blog/">Back to the blog</a>
