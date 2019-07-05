@@ -4,11 +4,7 @@
     <div class="o-container o-wrapper">
       <h1 class="c-cover__title">{{ post.title }}</h1>
       <div class="c-cover__excerpt">
-        {% if post.intro %} 
-          {{ post.intro }} 
-        {% else %} 
-          {{post.excerpt | remove: "<p>" | remove: "</p>" }} 
-        {% endif %}  
+          {{post.excerpt | remove: "<p>" | remove: "</p>" }}
       </div>
       <nav class="c-cover__nav">
         <ul class="c-cover__nav-list">
