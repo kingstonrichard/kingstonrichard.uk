@@ -2,6 +2,7 @@
 layout: post
 title:  "Council knows what's 'appnin'"
 date:   2017-09-15
+redirect_from: r/newapp, 20170915
 categories: work web app mobile progressive umbraco
 intro: There's nothing quite like delivering customer value that's fit for the future, scalable and miles ahead of the curve ;-)
 ---
