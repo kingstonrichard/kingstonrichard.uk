@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Council knows what's 'appnin'"
-categories: #DigitalBarnsley #DigitalFirst #WebApp
 redirect_from:
   - /webapp
   - /20170915
