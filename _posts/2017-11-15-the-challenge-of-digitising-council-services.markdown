@@ -2,10 +2,10 @@
 layout: post
 title:  "The challenge of digitising council services"
 date:   2017-11-15
-categories: work services interactions eForms digital
+categories: #DigitalBarnsley #DigitalFirst #BarnsleyGovUK
 intro: Council's up and down the country share a common ambition - to offer full and inclusive self-service access channels to their residents, businesses and visitors. But how will they ever achieve it?!
 redirect_from:
-  - /r/digitalchallenge
+  - /digitalchallenge
   - /20171115
 ---
 
