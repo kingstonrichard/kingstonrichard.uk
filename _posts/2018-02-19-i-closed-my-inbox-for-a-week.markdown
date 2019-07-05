@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "I closed my inbox for a week"
-categories: #DigitalBarnsley #WorkLifeBalance
+title: I closed my inbox for a week
 redirect_from:
   - /closedinbox
   - /20180219
