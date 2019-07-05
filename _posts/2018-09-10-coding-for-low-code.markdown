@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Coding for low-code"
-date:   2018-09-10
 categories: #DigitalBarnsley #DigitalFirst #DigitalCustomerServicePlatform
-intro: We're building our own low-code solution and when we're finished, we think we could open it up as a SaaS platform for other council's to use.
 redirect_from: 
   - /r/low-code
   - /20180910
 ---
+We're building our own low-code solution and when we're finished, we think we could open it up as a SaaS platform for other council's to use.
+
 In Barnsley, we're very lucky that we have an in-house web development team. They're the people behind [our website](https://www.barnsley.gov.uk), our eForms and our CRM amongst other things. They're responsible for building accessible, compliant solutions that meet the needs of our citizens and our departmental staff and they do that very well. I manage that team and I'm incredibly proud to say so.
 
 Today our website scores 94/100 for desktop experience and 100/100 on mobiles according to [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?url=barnsley.gov.uk). It was [recently overhauled](https://www.linkedin.com/pulse/new-look-barnsley-council-website-aidan-minton/) with an 80% improvement in response speeds. We gave it [progressive capabilities](../council-knows-whats-appnin/) to function as an app back in November and we have more big plans for its future.
