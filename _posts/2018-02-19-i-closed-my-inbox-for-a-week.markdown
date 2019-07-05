@@ -4,6 +4,9 @@ title:  "I closed my inbox for a week"
 date:   2018-02-19
 categories: work email holiday efficiency productivity spam
 intro: Inbox anxiety is real, especially when returning to work after a holiday. I decided to take action recently and here's how I got on.
+redirect_from:
+  - /r/closedinbox
+  - /20180219
 ---
 It's Monday morning after February half-term and my first day back at work after a week of annual leave. Ordinarily at this time, I'd be sat in the office ploughing through a mountain of emails that had built up while I'd been away, trying to catch up and desperately seeking to reset to [inbox zero](http://whatis.techtarget.com/definition/inbox-zero). I'd be constantly interrupted by phone calls, instant messages, colleagues, my team, meetings, more emails, etc - all wanting information from me that I couldn't give them while I was off. And while it's lovely to be needed, I know I'd be getting gradually more frustrated and wound up as the day wore on. If I was lucky, I might manage to deal with a handful of emails before going home at the end of the day, signing on remotely and then working on them into the night.
 
