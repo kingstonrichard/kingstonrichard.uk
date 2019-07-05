@@ -6,11 +6,11 @@ categories: work
 intro: Today I visited the Home Office, following up on the conversation about rolling out our Income Management System further.
 ---
 
-[Dave](https://twitter.com/davidrob2002) and I met with colleagues from the Local Gov Collaboration Unit (part of the Ministry of Housing, Culture and Local Government) and the Gov.UK Pay Product Team (part of the Government Digital Service) - specifically [Ben Cheetham](https://twitter.com/bforben), [Adam Thoulass](https://twitter.com/AdamThoulass), [Egle Uzkuraityte](https://twitter.com/egle_a_ieva), [Katie Bates](https://uk.linkedin.com/in/katie-bates-a053b236), [Miriam Raines](https://twitter.com/MiriamAliceR) and [Richard Blake](https://uk.linkedin.com/in/richardblake86) joined via Google Hangout. 
+[Dave](https://twitter.com/davidrob2002) and I met with colleagues from the Local Gov Collaboration Unit (part of the Ministry of Housing, Culture and Local Government) and the Gov.UK Pay Product Team (part of the Government Digital Service) today - specifically [Ben Cheetham](https://twitter.com/bforben), [Adam Thoulass](https://twitter.com/AdamThoulass), [Egle Uzkuraityte](https://twitter.com/egle_a_ieva), [Katie Bates](https://uk.linkedin.com/in/katie-bates-a053b236), [Miriam Raines](https://twitter.com/MiriamAliceR) and [Richard Blake](https://uk.linkedin.com/in/richardblake86) joined via Google Hangout.
 
 ![Home Office building](https://upload.wikimedia.org/wikipedia/commons/6/67/Marsham_Street.jpg)
 
-We wanted to discuss our vision for our solution, how a rollout might work and how we might be supported with the collaborative aspects. Essentially we wanted to agree next steps.
+We wanted to discuss our vision for our [Income Management Solution](/blog/council-software-backed-for-national-rollout/), how a rollout might work and how we might be supported with the collaborative aspects. Essentially we wanted to agree next steps.
 
 Right now, the Local Government Collaboration Unit are running the [Local Digital initiative](https://localdigital.gov.uk/) which is a growing community of organisations working together with a shared vision to deliver more user-centred, cost-effective local public services through open, collaborative and reusable work. It was drawn together around the [Local Digital Declaration](https://localdigital.gov.uk/declaration/), which we co-signed in 2018, and it's supported by funding from MHCLG to provide training to all signatories and funding to selected collaborative projects.
 
