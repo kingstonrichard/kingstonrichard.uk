@@ -9,7 +9,7 @@ Our desk occupancy monitor prototypes are built and ready to rollout after only 
 
 There's been a lot of talk at work recently about hotdesking, particularly in the Workforce Mobilisation theme of our Digital First Programme. With that in mind our innovation group has been busy working up a prototype solution that can show where busy / free desks are in real-time, thanks to a great idea from [Paul Bell](https://twitter.com/Paul81708531).
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/_M49EzU3EnU?rel=0&amp;showinfo=0" frameborder="0"></iframe> 
+[![Digital Customer Services Platform](https://img.youtube.com/vi/_M49EzU3EnU/0.jpg)](https://www.youtube.com/watch?v=_M49EzU3EnU)
 
 Since taking that video, [Aidan Minton](https://twitter.com/aidanminton) has sorted us out with some labels for the units, showing that pressing the left button when taking a desk marks it as busy (red light) and hitting the right button when leaving free’s it up again (green light).
 
