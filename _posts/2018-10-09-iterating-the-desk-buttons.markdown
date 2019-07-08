@@ -6,7 +6,7 @@ redirection_from:
 ---
 At the innovation group, in anticipation of seeing results from the workforce mobilisation theme of our Digital First programme, we've been busily beavering away with our Desk Occupancy Monitors - I've [blogged about the first version previously](/20180829).
 
-We've come a long way since then, having:
+We've come a long way since v1.0, having:
 
 * Rolled out the devices on a pilot bank of desks
 * Captured actual usage data and anecdotal evidence
