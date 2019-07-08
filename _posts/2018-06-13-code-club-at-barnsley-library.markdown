@@ -14,7 +14,7 @@ It's all part of the wider [Code Club UK](https://www.codeclub.org.uk/) initiati
 
 The level of skill in such a young room, I have to say was outstanding! I watched as one lad got stuck with a particular piece of code and so started disecting other tutorial examples to see if he could work out his own solution to the problem. He then turned to Google before eventually getting through it. His approach was spot on and to see that from someone so young was just superb.
 
-I originally went along to see how what they do in that club mirrors our own efforts with the new [innovation group](../the-barnsley-innovation-group) and there were striking similarities between the two (aside from the age of our youthful skunkworks membership of course). If nothing else, there was a talent pool in that room that's one to watch for the future. On a very real level, it may even be possible for the Skunkworks to share actual work with them - real world problems needing solutions, that they could solve.
+I originally went along to see how what they do in that club mirrors our own efforts with the new [innovation group](/20180608) and there were striking similarities between the two (aside from the age of our youthful skunkworks membership of course). If nothing else, there was a talent pool in that room that's one to watch for the future. On a very real level, it may even be possible for the Skunkworks to share actual work with them - real world problems needing solutions, that they could solve.
 
 I've said I'll keep in touch with the volunteer organisers about the work we're doing and I'd certainly like to make sure the Code Club is featured in next years Barnsley Future Festival (more on that later).
 
