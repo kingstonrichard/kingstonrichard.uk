@@ -10,7 +10,7 @@ Our Head of IT ([Dave](https://twitter.com/davidrob2002)) and I met with colleag
 
 ![Home Office building](https://upload.wikimedia.org/wikipedia/commons/6/67/Marsham_Street.jpg)
 
-We wanted to discuss our vision for our [Income Management Solution](/blog/council-software-backed-for-national-rollout/), how a rollout might work and how we might be supported with the collaborative aspects of making it happen. We're really proud of our software and we believe very much in the [#FixThePlumbing](https://twitter.com/hashtag/FixThePlumbing) ethos. We just feel we need help to "get it out there".
+We wanted to discuss our vision for our [Income Management Solution](/20190531), how a rollout might work and how we might be supported with the collaborative aspects of making it happen. We're really proud of our software and we believe very much in the [#FixThePlumbing](https://twitter.com/hashtag/FixThePlumbing) ethos. We just feel we need help to "get it out there".
 
 So as the Local Government Collaboration Unit are running the [Local Digital initiative](https://localdigital.gov.uk/) - a growing community of organisations working together with a shared vision to deliver more user-centred, cost-effective local public services through open, collaborative and reusable work - we thought it the best place to start. 
 
