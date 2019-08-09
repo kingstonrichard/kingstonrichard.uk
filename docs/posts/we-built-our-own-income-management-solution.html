@@ -1,0 +1,140 @@
+﻿
+
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Richard Kingston - We built our own Income Management solution</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="/assets/sass/main.css" />
+        <link rel="stylesheet" href="/assets/css/override.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="/assets/sass/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/sass/ie8.css" /><![endif]-->
+        
+
+	</head>
+	<body>
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+				
+				<!-- Header -->
+				<header id="header">
+					<h1><a href="/">Richard Kingston</a></h1>
+					<nav>
+						<a href="#menu">Menu</a>
+					</nav>
+				</header>
+
+				<!-- Menu -->
+				<nav id="menu">
+					<div class="inner">
+						<h2>Menu</h2>
+						<ul class="links">
+							        <li><a href="/posts">Archive</a></li>
+        <li><a href="/tags">Tags</a></li>
+        <li><a href="/about">About Me</a></li>
+
+						</ul>
+						<a href="#" class="close">Close</a>
+					</div>
+				</nav>
+
+
+    
+<section id="banner">
+ <div class="inner">
+    <h2>We built our own Income Management solution</h2>
+            <p><em>Published on 02 January 2019</em></p>
+                    <a role="button" href="/tags/Digital-First" class="button small">Digital First</a>
+                <a role="button" href="/tags/Income-Management" class="button small">Income Management</a>
+  </div>
+</section>
+
+				<!-- Main -->
+				<section id="wrapper">
+					<section class="wrapper style2">
+						<div class="inner">
+							
+
+<p>We recently took the decision to develop our own critical software solution, over renewing an incumbent contract. This is how it happened.</p>
+<p>Let me start by saying we didn't take the decision to &quot;build over buy&quot; lightly. We were in somewhat of a sticky situation with limited options. Ultimately, it was a good call and we're now enjoying the benefits, but there was a lot of nervousness given how complex a beast the function of income management is.</p>
+<p>I suppose I should briefly explain that for those unfamiliar with the inside of local government. It is precisely what it sounds like, but you might not appreciate that it presents a significant challenge in terms of logistics. Monies are continually arriving from a variety of different sources (citizens, businesses, partners, etc.) for many different reasons (taxes, fines, services delivered, etc.) via many different methods (cash, cheque, card, electronic, etc.) and through many different channels (direct debit, standing order, bank transfer, automated telephone service, etc.). Digital transactions happen quickly - immediately even. Physical cash transactions can be recorded immediately but not reconciled until days later. In any given hour on any given day there are potentially hundreds if not thousands of incoming transactions that need to be taken care of.</p>
+<p>Every penny of every single one must be captured, verified and validated to make sure we understand where its come from and why its arrived. Once approved they must be routed off to the right internal account(s) in our SAP system to balance our creditor records and to update other system records that we hold across our technology estate. Mr Smith has paid his parking fine and so it won't be necessary to issue any reminders, for example. It must all happen quickly, efficiently and correctly! Preferably, automated wherever possible. It's a huge coordination effort. The need for (and cost of) human effort should be minimised, as should any opportunity for processing errors to sneak in. With so many individual transactions occurring, even the smallest error carries a potential to cause big issues.</p>
+<p>And so as you might expect, software has a huge part to play in this 24x7x365 carefully choreographed dance. Up until recently, my colleagues at Barnsley Council had been orchestrating the operation very well, with the support of a suite of software products from one of the well-known major system suppliers to local government. My technical team had configured their suite into a streamlined work of art. They'd worked closely with our internal departments to define its various rules of validation, its steps of automation, its channel configurations and they'd fettled the whole thing to within an inch of its life. The situation was good.</p>
+<p>Good, but not perfect! It wasn't an easy task keeping on top of it all. We know that we weren't always using the suite to the best of its abilities. We weren't always squeezing the most out of it's potential. But even so, our experience of it was that the individual products in the suite didn’t necessarily play all that well together and our staff had to do lots of manual input and checking despite our technical efforts. It was often necessary to double key transactional data over several screens. Interfaces were unfriendly, seemingly designed c1995 and staff had to absolutely know their way around the suite in detail to use it safely. Strong training for new and even existing users was crucial and my technical team received a high number of service desk calls to &quot;undo&quot; mistakes on a daily basis.</p>
+<p>That suite though had proven itself to be the best on the market for meeting our income management needs several times over. We'd had it in place for over 10 years, because it kept winning our tenders and being awarded our contracts. We outlined our requirements, we assessed systems against those and it kept coming out on top. The most recent contract it won was for a 3 year term, due to expire on the 31st March 2018. That carried with it a 6 month notice period (October 2017) for the negotiation of any changes, renewals, cancellations, etc. and so as we approached the summer of 2017, giving us time to spare, we instigated the necessary internal and external conversations around what should be our next steps.</p>
+<p>Unfortunately, over the months that followed we were unable to reach an agreement of terms with that incumbent supplier this time around and negotiations broke down. Having suspected that might be the case early on in the process, we acknowledged that we needed to be prepared for a position of either having to a) renew the contract on the supplier's terms or b) replace the entire suite of products with technologies that we already had available in-house! This second option was accepting that running a new tender exercise to bring in a completely new supplier with new software would be near-on impossible in the time available. And so we quickly set to work to see what might be viable.</p>
+<p>Now, I've blogged here before about how in Barnsley we're very lucky to have an outstanding software development team in our IT department - and once again here they were demonstrating their worth! By the end of September 2017 they had unbelievably created a proof of concept that was so good, it not only demonstrated a clear capability with our existing in-house tools but it also, (subject to suitable resourcing and a financial input) could be operational by the end of February 2018 - a whole month before the incumbent software expired! Stakeholder agreements were quickly sought, a business case was organised and suddenly the challenge was set!</p>
+<p><img src="/assets/images/2019-01-02-income-system.png" class="img-fluid" alt="Income Management System - Screenshot of the transactions screen" /></p>
+<p>The end solution was to be an in-house developed web-based product, created using the Microsoft Dot Net Framework, Entity Framework and SQL Server - as an organisation that primarily uses SAP and Microsoft technologies, this made for a great infrastructure fit and ensured it could be supported and maintained going forwards. Given the timescales, it would be a minimum viable product designed only to meet our current needs which were rapidly outlined. Extensions and add-ons would only be considered for inclusion later with the exception of a few key requirements that would enhance the income management function dramatically with relatively little extra effort.</p>
+<p>And so, the council committed £50K (from its 2017/18 budget) to a 'replacement' project in return for what was expected to be a minimum £50K saving year on year from that point forward. And this was after taking into account any additional transactional charges that might result from the change. We cleared a path through some other planned projects and created an agile project team made up of key stakeholders from the IT development team, IT project management team, Internal Audit and Finance departments. Following a familiar Scrum methodology and using Microsoft DevOps (Visual Studio Team Services at the time), the team ran fortnightly sprints with goals defined as follows:</p>
+<ol>
+<li>To develop the outline software infrastructure and get a single self-service web form accepting online payments in a test environment</li>
+<li>To reconfigure the remaining self-service web forms to take payments and route monies to internal accounts in that test environment</li>
+<li>To include all mediated web forms in that test environment and to enable transaction tracking, reconciliation and refund capabilities</li>
+<li>To create reporting functionality, an admin portal for our Finance dept, installation scripts ready for launch and a security context</li>
+<li>To launch to live a small group of self-service web forms and closely monitor, correct errors, tweak performance, etc.</li>
+<li>To create the capability of transferring monies between internal accounts when corrections are required</li>
+<li>To launch remaining self-service web forms to live and begin configuration of &quot;basket&quot; functionality for our contact centre</li>
+<li>To complete and launch the &quot;basket&quot; functionality to live so our contact centre can take 1 payment for multiple services</li>
+<li>To train key users (train the trainer) and rollout the solution to all stakeholders. Also increase coverage of automated testing</li>
+<li>To improve the transferring functionality as per feedback from the now live stakeholder group</li>
+<li>To develop new credit note functionality as per feedback from the stakeholder group</li>
+<li>To develop functionality to allow cash income to be recorded at PoS and accounted for when records arrive from the bank</li>
+<li>To create routines for the migration of historic data from the incumbent system. Resolve minor needs from the stakeholder group</li>
+<li>To launch the cash submissions functionality, migrate historic data and close down the incumbent software suite</li>
+<li>To integrate with key line of business systems to reconcile creditor records and trigger workflows</li>
+</ol>
+<p>All of that took us right up to the wire but by the end of March 2018 we had successfully moved from the previous suite of software products, over to our new single in-house solution. Sure, there were teething issues and since the end of the project we've run some follow up work to add in new features and resolve a few more minor bugs. We now see significantly fewer service desk jobs as a support team. Our staff are using a modern, responsive, well performing product that doesn't require double keying over several outdated interfaces. Every transaction is audited against SSO accounts and key integrations between the solution and SAP are established. We have strong integrations with our hosted Civica Enforcement system for parking, on-premise Northgate Housing system, on-premise Capita Academy system for council tax, non-domestic rates and benefits records and our debtors system which is SAP.</p>
+<p>The solution is loosely coupled with BarclayCard API's (it can be hooked into other payment providers easily) to take self-service and mediated payments and issue full and partial refunds. It transfers monies between internal accounts, manages cash and cheque transactions, processes nightly bank files FTP'd to us, churns through flat files sent to us by various partners including DWP, bailiff companies and AllPay amongst others before posting those to our SAP system. It allows staff in our Finance department to quickly search for transactions using various parameters and re-issue copy receipts either printed or emailed. Several third party websites integrate with it too including ones in our museums service and the national licensing management portal (ELMS) to take online payments. It also handles rejected direct debits files nightly from our bank, updating our various line of business systems as necessary.</p>
+<p>We're absolutely thrilled with it and in the fullness of time would love to open it up for other local authorities to consider using. We are though very conscious of the GovPay offer from the Government Digital Service (which sadly wasn't available to local authorities when all of this started for us - they were piloting with only a few select councils at that time) and we haven't yet decided how best to actually make it available. Should we open source it on GitHub or multi-tenant it and run it as a SaaS offer in the cloud? Perhaps if we open sourced it, others could work with us to turn it into a multi-tenanted SaaS offer? Perhaps other council's would just like to take a copy in return for providing operational feedback?</p>
+<p>The big consideration in all of this is that the risk of failure is now entirely ours. Procuring big software products from big software suppliers provides an element of security. It buys a comfort blanket through the application of penalties on failures. It transfers the costs and risks of ownership away from the organisation - all things we don't have the luxury of doing with our Income Management solution. Over the coming months that will need to be considered fully as a retrospective activity.</p>
+<p>However, and honestly, we're 9 months in now and enjoying the fruits of our efforts. Maintenance is minimal. Support calls are minimal. Change requests are... we haven't had one for 6 months. Transaction counts are up. Licensing costs are gone. Per transaction charges are about the same but I guess we can't win everything.</p>
+<p>What we've done here then is satisfied our business needs without external expense, made significant ongoing savings for the future, and potentially opened up what we see to be an opportunity to share our work collaboratively.</p>
+
+
+
+						</div>
+					</section>
+				
+				</section>
+				
+				<!-- Footer -->
+                <footer id="footer">
+                    <div class="inner">
+    <section>
+            <h2>Feeds</h2>
+            <ul class="actions">
+                <li><a href="/feed.rss" class="button small"><i class="fa fa-rss"></i> RSS Feed</a></li>
+                                <li><a href="/feed.atom" class="button small"><i class="fa fa-rss"></i> Atom Feed</a></li>
+            </ul>
+    </section>
+    <section>
+    </section>
+    <ul class="copyright">
+        <li>Copyright © 2019</li>
+        <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        <li><a href="https://wyam.io">Generated by Wyam</a></li>
+    </ul>
+</div>
+                </footer>
+			</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/skel.min.js"></script>
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/jquery.scrollex.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+            <!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
+            <script src="/assets/js/main.js"></script>
+
+	</body>
+
+</html>
