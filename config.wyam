@@ -1,0 +1,9 @@
+#recipe Blog
+#theme SolidState
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "kingstonrichard.uk";
+Settings[BlogKeys.Title] = "Richard Kingston";
+Settings[BlogKeys.Description] = "IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.";
+
+// Add any pipeline customizations here

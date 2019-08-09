@@ -1,0 +1,11 @@
+<section id="banner">
+  <div class="inner">
+    @foreach(IDocument post in Model.DocumentList(Keys.PageDocuments).Take(1))
+    {
+        string lead = post.String(BlogKeys.Lead);
+        <h2>@post.WithoutSettings.String(BlogKeys.Title)</h2>
+        @Html.Raw(post.String(BlogKeys.Excerpt))
+        <a href="@Context.GetLink(post)" class="special">Read</a>
+    }
+  </div>
+</section>

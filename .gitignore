@@ -1,5 +1,12 @@
-_site
-.sass-cache
-.jekyll-metadata
-.vscode
-node_modules
+
+# Created by https://www.gitignore.io/api/wyam
+# Edit at https://www.gitignore.io/?templates=wyam
+
+### Wyam ###
+# Wyam Ignore - Based on https://wyam.io/docs/advanced/what_to_exclude_from_source_control
+output/*
+config.wyam.dll
+config.wyam.hash
+*packages.xml
+
+# End of https://www.gitignore.io/api/wyam
