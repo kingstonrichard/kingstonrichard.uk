@@ -5,7 +5,7 @@ var buildtarget = Argument("target", "Default");
 Task("Default")
     .Does(() => 
     {
-        StartProcess("git", "push remote origin:master");
+        StartProcess("git", "push origin:master");
         StartProcess("git", "remote add public https://github.com/kingstonrichard/kingstonrichard.github.io");
         StartProcess("git", "subtree split --prefix output -b public");
         StartProcess("git", "push -f public public:master");
