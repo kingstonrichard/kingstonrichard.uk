@@ -3,7 +3,6 @@
     var disqus_config = function () {
         this.page.url = '@Model.FilePath(Keys.RelativeFilePath).FileNameWithoutExtension.FullPath';
         this.page.identifier = '@Context.GetLink(Model, true)';
-        this.disqus_developer = 1
     };
 
     (function() { // DON'T EDIT BELOW THIS LINE
