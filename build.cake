@@ -23,14 +23,13 @@ Task("Deploy")
     .IsDependentOn("Build")
     .Does(() => 
     {
-        StartProcess("git", "push origin master");
-        StartProcess("git", "remote add public https://github.com/kingstonrichard/kingstonrichard.github.io");
+        StartProcess("git", "remote add ghpages https://github.com/kingstonrichard/kingstonrichard.github.io");
         StartProcess("git", "subtree split --prefix output -b public");
         StartProcess("git", "checkout public");
-        StartProcess("git", "push -f public public:master");
+        StartProcess("git", "push -f public ghpages:master");
         StartProcess("git", "checkout master");
         StartProcess("git", "branch -D public");
-        StartProcess("git", "remote remove public");
+        StartProcess("git", "remote remove ghpages");
     });
 
 RunTarget(target);
