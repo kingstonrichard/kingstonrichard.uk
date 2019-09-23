@@ -30,14 +30,14 @@ Task("Deploy")
         StartProcess("git", "commit -m \"Committing prior to publish\"");
         StartProcess("git", "push origin master");
                 
-        /*StartProcess("git", "subtree split --prefix output -b public");
+        StartProcess("git", "subtree split --prefix output -b public");
         StartProcess("git", "checkout public");
         StartProcess("git", "remote add public https://github.com/kingstonrichard/kingstonrichard.github.io");
         StartProcess("git", "push -f public master");
         StartProcess("git", "remote remove public");
         StartProcess("git", "checkout master");
         StartProcess("git", "branch -D public");
-*/
+
     });
 
 RunTarget(target);
