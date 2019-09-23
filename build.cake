@@ -29,11 +29,12 @@ Task("Deploy")
         StartProcess("git", "checkout master");
         StartProcess("git", "add .");
         StartProcess("git", "commit -m \"Checking output in for subtree\"");
+        StartProcess("git", "push origin master");
                 
         StartProcess("git", "remote add public https://github.com/kingstonrichard/kingstonrichard.github.io");
         StartProcess("git", "subtree split --prefix output -b public");
         StartProcess("git", "checkout public");
-        StartProcess("git", "push -f public public:master");
+        StartProcess("git", "push -f public master");
         StartProcess("git", "checkout master");
         StartProcess("git", "branch -D public");
         StartProcess("git", "remote remove public");
