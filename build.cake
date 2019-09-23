@@ -23,21 +23,19 @@ Task("Deploy")
     .IsDependentOn("Build")
     .Does(() => 
     {
-        if(FileExists("./CNAME"))
-            CopyFile("./CNAME", "./output/CNAME");
-
-        StartProcess("git", "add .");
-        StartProcess("git", "commit -m \"Committing prior to publish\"");
-        StartProcess("git", "push origin master");
-                
         StartProcess("git", "subtree split --prefix output -b public");
         StartProcess("git", "checkout public");
+        
+        StartProcess("git", "add .");
+        StartProcess("git", "commit -m \"Publishing output folder to public repository\"");
+        
         StartProcess("git", "remote add public https://github.com/kingstonrichard/kingstonrichard.github.io");
-        StartProcess("git", "push -f public master");
+        StartProcess("git", "push -f public public:master");
+        
         StartProcess("git", "remote remove public");
+        
         StartProcess("git", "checkout master");
         StartProcess("git", "branch -D public");
-
     });
 
 RunTarget(target);
