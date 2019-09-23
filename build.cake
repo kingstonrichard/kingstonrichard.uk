@@ -27,7 +27,7 @@ Task("Deploy")
             CopyFile("./CNAME", "./output/CNAME");
 
         StartProcess("git", "add .");
-        StartProcess("git", "commit -m \"Checking in master prior to publish\"");
+        StartProcess("git", "commit -m \"Committing prior to publish\"");
         StartProcess("git", "push origin master");
                 
         /*StartProcess("git", "subtree split --prefix output -b public");
