@@ -23,13 +23,21 @@ Task("Deploy")
     .IsDependentOn("Build")
     .Does(() => 
     {
-        StartProcess("git", "remote add ghpages https://github.com/kingstonrichard/kingstonrichard.github.io");
+        if(FileExists("./CNAME"))
+            CopyFile("./CNAME", "./output/CNAME");
+        
+        StartProcess("git", "checkout master");
+        StartProcess("git", "add .");
+        StartProcess("git", "commit -m \"Checking output in for subtree\"");
+                
+        StartProcess("git", "remote add public https://github.com/kingstonrichard/kingstonrichard.github.io");
         StartProcess("git", "subtree split --prefix output -b public");
         StartProcess("git", "checkout public");
-        StartProcess("git", "push -f public ghpages:master");
+        StartProcess("git", "push -f public public:master");
         StartProcess("git", "checkout master");
         StartProcess("git", "branch -D public");
-        StartProcess("git", "remote remove ghpages");
+        StartProcess("git", "remote remove public");
+
     });
 
 RunTarget(target);
