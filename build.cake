@@ -6,7 +6,10 @@ var target = Argument("target", "Build");
 Task("Build")
     .Does(() =>
     {
-        Wyam();
+        Wyam(new WyamSettings
+        {
+            NoClean = true
+        });
     });
 
 Task("Preview")
