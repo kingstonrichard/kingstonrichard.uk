@@ -6,10 +6,7 @@ var target = Argument("target", "Build");
 Task("Build")
     .Does(() =>
     {
-        Wyam(new WyamSettings
-        {
-            NoClean = true
-        });
+        Wyam();
     });
 
 Task("Preview")
@@ -22,8 +19,17 @@ Task("Preview")
         });
     });
 
-Task("Deploy")
+Task("CheckIn")
     .IsDependentOn("Build")
+    .Does(() =>
+    {
+        StartProcess("git", "add .");
+        StartProcess("git", "commit -m \"Checking in " + DateTime.Now + "\"");
+        StartProcess("git", "push origin master");
+    });
+
+Task("Deploy")
+    .IsDependentOn("CheckIn")
     .Does(() => 
     {
         // Copy .gitignore so it ends up in the output folder for later
