@@ -25,7 +25,7 @@ Task("Deploy")
     {
         // Copy .gitignore so it ends up in the output folder for later
         if(FileExists("./gitignore"))
-            CopyFile("./gitignore", "input/.gitignore");
+            CopyFile("./gitignore", "output/.gitignore");
 
         
         // Check in the latest copy of the site to the main "origin" repository
