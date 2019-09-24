@@ -24,19 +24,12 @@ Task("Deploy")
     .Does(() => 
     {
         // Copy .gitignore so it ends up in the output folder for later
-        if(FileExists("./gitignore"))
-            CopyFile("./gitignore", "output/.gitignore");
-        
-        // Check in the latest copy of the site to the main "origin" repository
-        StartProcess("git", "add .");
-        StartProcess("git", "commit -m \"Checking in prior to publish\"");
-        StartProcess("git", "push origin master");
-        
+        //if(FileExists("./gitignore"))
+        //    CopyFile("./gitignore", "output/.gitignore");
+            
         // Extract the output folder and check it into a "public" branch
         StartProcess("git", "subtree split --prefix output -b public");
         StartProcess("git", "checkout public");
-        StartProcess("git", "add .");
-        StartProcess("git", "commit -m \"Publishing output folder to public repository\"");
         
         // Push the public branch to the "public" repository
         StartProcess("git", "remote add public https://github.com/kingstonrichard/kingstonrichard.github.io");
