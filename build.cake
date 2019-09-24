@@ -19,23 +19,10 @@ Task("Preview")
         });
     });
 
-Task("CheckIn")
-    .IsDependentOn("Build")
-    .Does(() =>
-    {
-        StartProcess("git", "add .");
-        StartProcess("git", "commit -m \"Checking in " + DateTime.Now + "\"");
-        StartProcess("git", "push origin master");
-    });
-
 Task("Deploy")
-    .IsDependentOn("CheckIn")
+    .IsDependentOn("Build")
     .Does(() => 
     {
-        // Copy .gitignore so it ends up in the output folder for later
-        //if(FileExists("./gitignore"))
-        //    CopyFile("./gitignore", "output/.gitignore");
-            
         // Extract the output folder and check it into a "public" branch
         StartProcess("git", "subtree split --prefix output -b public");
         StartProcess("git", "checkout public");
