@@ -1,7 +1,6 @@
 ---
 title: Meeting Room Screens
 tags:
-  - Digital First
   - DigiMeet
   - Innovation Group
 RedirectFrom:

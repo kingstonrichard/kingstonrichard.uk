@@ -2,7 +2,6 @@
 title: Long live the Income Management System!
 tags:
   - Income Management
-  - Digital First
 RedirectFrom:
   - newims
   - 20180423

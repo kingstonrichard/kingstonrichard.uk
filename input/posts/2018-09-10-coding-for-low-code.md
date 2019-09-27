@@ -1,7 +1,6 @@
 ---
 title: Coding for low-code
 tags:
-  - Digital First
   - Requestry
 RedirectFrom:
   - low-code

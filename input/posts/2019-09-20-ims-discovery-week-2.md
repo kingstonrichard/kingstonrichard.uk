@@ -1,8 +1,8 @@
 ---
-title: IMS Discovery - Week 2 concludes
+title: IMS Discovery - Week 2
 tags: 
-  - Digital First
   - Income Management
+  - Local Digital Fund
 RedirectFrom:
   - 20190920
   - ims-disco-week-2

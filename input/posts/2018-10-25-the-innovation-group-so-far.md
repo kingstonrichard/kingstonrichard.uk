@@ -1,7 +1,6 @@
 ---
 title: The innovation group so far
 tags:
-  - Digital First
   - Innovation Group
 RedirectFrom:
   - 20181025

@@ -1,7 +1,6 @@
 ---
 title: Iterating the desk buttons
 tags:
-  - Digital First
   - DigiDesk
   - Innovation Group
 RedirectionFrom:

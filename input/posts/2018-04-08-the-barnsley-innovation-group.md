@@ -1,7 +1,6 @@
 ---
 title: The Barnsley Innovation Group
 tags:
-  - Digital First
   - Innovation Group
 RedirectFrom:
   - innogroup

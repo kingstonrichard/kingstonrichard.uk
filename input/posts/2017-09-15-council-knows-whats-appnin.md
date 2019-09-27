@@ -1,7 +1,6 @@
 ---
 title: Council knows what's 'appnin'
 tags: 
-  - Digital First
   - Progressive Web App
 RedirectFrom:
   - webapp

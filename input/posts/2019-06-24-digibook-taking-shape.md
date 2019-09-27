@@ -1,7 +1,6 @@
 ---
 title: DigiBook is taking shape
 tags:
-  - Digital First
   - DigiBook
   - Innovation Group
 RedirectFrom:

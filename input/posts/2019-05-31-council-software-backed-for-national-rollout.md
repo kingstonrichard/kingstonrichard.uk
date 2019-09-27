@@ -1,7 +1,6 @@
 ---
 title: Council software backed for national rollout
 tags:
-  - Digital First
   - Income Management
 RedirectFrom:
   - 20190531

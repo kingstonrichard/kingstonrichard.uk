@@ -1,8 +1,8 @@
 ---
 title: £80,000 of Local Digital Funding approved
 tags: 
-  - Digital First
   - Income Management
+  - Local Digital Fund
 RedirectFrom:
   - 20190916
   - ims-disco-go

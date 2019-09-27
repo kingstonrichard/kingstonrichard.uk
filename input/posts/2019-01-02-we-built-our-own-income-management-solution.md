@@ -1,7 +1,6 @@
 ---
 title: We built our own Income Management solution
 tags:
-  - Digital First
   - Income Management
 RedirectFrom: 
   - ims-build

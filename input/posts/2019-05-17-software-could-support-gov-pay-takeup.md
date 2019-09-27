@@ -1,7 +1,6 @@
 ---
 title: Barnsley software could support councils’ take-up of GOV.UK Pay
 tags: 
-  - Digital First
   - Income Management
 RedirectFrom:
   - 20190517

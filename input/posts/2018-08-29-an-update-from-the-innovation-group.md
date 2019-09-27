@@ -1,7 +1,6 @@
 ---
 title: An update from the innovation group
 tags:
-   - Digital First
    - DigiDesk
    - Innovation Group
 RedirectFrom: 

@@ -1,7 +1,6 @@
 ---
 title: Working in the open
 tags:
-  - Digital First
   - Income Management
 RedirectFrom:
   - 20190522

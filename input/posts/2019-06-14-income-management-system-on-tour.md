@@ -1,8 +1,8 @@
 ---
 title: Income Management System on Tour
 tags:
-  - Digital First
   - Income Management
+  - Local Digital Fund
 RedirectFrom:
   - 20190614
 ---

@@ -2,7 +2,6 @@
 title: Success at the Innovation Group
 tags:
   - DigiDesk
-  - Digital First
   - Innovation Group
 RedirectFrom:
   - 20180730

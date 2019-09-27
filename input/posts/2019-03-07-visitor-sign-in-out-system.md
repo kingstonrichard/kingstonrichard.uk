@@ -1,7 +1,6 @@
 ---
 title: Visitor Sign In / Out System
 tags:
-  - Digital First
   - DigiBook
   - Innovation Group
 RedirectFrom:

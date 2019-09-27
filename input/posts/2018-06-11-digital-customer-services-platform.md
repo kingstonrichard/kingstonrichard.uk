@@ -2,7 +2,6 @@
 title: Our Digital Customer Services Platform
 tags:
   - Requestry
-  - Digital First
 RedirectFrom:
   - 20180611
 ---

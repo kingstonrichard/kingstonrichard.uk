@@ -1,7 +1,6 @@
 ---
 title: The Innovation Group and the Commercial Investment Fund
 tags:
-  - Digital First
   - DigiBook
   - DigiDesk
   - DigiMeet
