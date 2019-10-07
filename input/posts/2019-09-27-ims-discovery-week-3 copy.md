@@ -33,6 +33,6 @@ I've also spent some time reviewing the learning I took when I visited the Local
 
 * Are there any significant management structure changes happening in the organisation that could change the key stakeholders in your plan. What about in your partner organisations - does anyone know? Can you prepare for any of that now in advance so you're not caught out and can react if it does happen? Contact your partners - have that conversation.
 
-* Be honest with your stakeholders, especially the people you're carrying out user research with that you appreciate their effort and that (hopefully not) it might come to nothing. Don't give them unrealistic expectations that they're work will individually save £1m for example. Be open.
+* Be honest with your stakeholders, especially the people you're carrying out user research with that you appreciate their effort and that (hopefully not) it might come to nothing. Don't give them unrealistic expectations that their work will individually save £1m for example. Be open.
 
 I'll be acting on all of these advice points next week! In the meantime I've already begun blogging regularly (weekly) both internally within our organisation and [externally](https://kingstonrichard.uk). This should help with a lot of the above and help keep the narrative going with partners as we progress.

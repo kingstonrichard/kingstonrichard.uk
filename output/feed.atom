@@ -4,12 +4,31 @@
 	<title>Richard Kingston</title>
 	<link rel="self" href="http://kingstonrichard.uk/" />
 	<rights>2019</rights>
-	<updated>2019-09-27T08:40:36Z</updated>
+	<updated>2019-10-07T11:41:55Z</updated>
 	<subtitle>IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.</subtitle>
 	<entry>
-		<id>http://kingstonrichard.uk/posts/ims-discovery-week-3</id>
+		<id>http://kingstonrichard.uk/posts/ims-discovery-week-4</id>
+		<title>IMS Discovery - Week 4</title>
+		<link href="http://kingstonrichard.uk/posts/ims-discovery-week-4" />
+		<updated>2019-10-04T00:00:00Z</updated>
+		<content>&lt;p&gt;Week 4 was what I'm going to refer to as procurement week! Having engaged our Contracts &amp;amp; Commissioning Team in &lt;a href="/20190920"&gt;week 2&lt;/a&gt;, they've subsequently involved our Corporate Procurement Team.&lt;/p&gt;
+&lt;p&gt;The reasoning behind that is that the value of the contract we're looking to award will be over £70K and so presumably that hits some sort of internal trigger. So, I've been engaged with Corporate Procurment for most of the week completing various document templates that outline the project and the need for us to bring in support. So far, I've completed and returned:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Procurement Event Approval Document for Research Consultant&lt;/li&gt;
+&lt;li&gt;Officer Decisions Recording Process&lt;/li&gt;
+&lt;li&gt;Data Privacy Impact Assessment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our colleagues in Corporate Procurement are taking the information from those documents to complete their own work and get our requirements uploaded to the Digital Marketplace - I'm hoping that happens really soon as time is ticking away quickly.&lt;/p&gt;
+&lt;p&gt;Aside from that I'm afraid there's been little progress. I mentioned in &lt;a href="/20190927"&gt;last week's lessons&lt;/a&gt; that the day job doesn't just immediately stop and true to that I've been swamped in other business.&lt;/p&gt;
+&lt;p&gt;I spent 2 days in Bridlington at the &lt;a href="https://www.humbercaretech.co.uk"&gt;Humber Care Tech Challenge&lt;/a&gt; with a 5 person team that I'd pulled together, looking at how we could help sufferers of dementia and their carers. That was a really worthwhile event and I hope to attend future ones. I'll blog about that seperately though.&lt;/p&gt;
+&lt;p&gt;On to week 5.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Week 4 was what I'm going to refer to as procurement week! Having engaged our Contracts &amp;amp; Commissioning Team in &lt;a href="/20190920"&gt;week 2&lt;/a&gt;, they've subsequently involved our Corporate Procurement Team.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://kingstonrichard.uk/posts/ims-discovery-week-3%20copy</id>
 		<title>IMS Discovery - Week 3</title>
-		<link href="http://kingstonrichard.uk/posts/ims-discovery-week-3" />
+		<link href="http://kingstonrichard.uk/posts/ims-discovery-week-3%20copy" />
 		<updated>2019-09-27T00:00:00Z</updated>
 		<content>&lt;p&gt;As week three draws to a close we complete &lt;a href="https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4"&gt;our draft requirements for a Digital Outcome&lt;/a&gt; and prepare to publish them.&lt;/p&gt;
 &lt;p&gt;We haven't taken the time to carry out early market engagement simply because there isn't much time available. That might come back to bite us, but we'll see how we get on.&lt;/p&gt;
@@ -35,7 +54,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Are there any significant management structure changes happening in the organisation that could change the key stakeholders in your plan. What about in your partner organisations - does anyone know? Can you prepare for any of that now in advance so you're not caught out and can react if it does happen? Contact your partners - have that conversation.&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Be honest with your stakeholders, especially the people you're carrying out user research with that you appreciate their effort and that (hopefully not) it might come to nothing. Don't give them unrealistic expectations that they're work will individually save £1m for example. Be open.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Be honest with your stakeholders, especially the people you're carrying out user research with that you appreciate their effort and that (hopefully not) it might come to nothing. Don't give them unrealistic expectations that their work will individually save £1m for example. Be open.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I'll be acting on all of these advice points next week! In the meantime I've already begun blogging regularly (weekly) both internally within our organisation and &lt;a href="https://kingstonrichard.uk"&gt;externally&lt;/a&gt;. This should help with a lot of the above and help keep the narrative going with partners as we progress.&lt;/p&gt;
@@ -388,29 +407,5 @@ It was the first meeting we'd had since December but while it's been &amp;quot;q
 &lt;p&gt;I'll be demoing this new version at DLT later this month and we'll see how it goes.&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;At the innovation group, in anticipation of seeing results from the workforce mobilisation theme of our Digital First programme, we've been busily beavering away with our Desk Occupancy Monitors - I've &lt;a href="/20180829"&gt;blogged about the first version previously&lt;/a&gt;.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>http://kingstonrichard.uk/posts/coding-for-low-code</id>
-		<title>Coding for low-code</title>
-		<link href="http://kingstonrichard.uk/posts/coding-for-low-code" />
-		<updated>2018-09-10T00:00:00Z</updated>
-		<content>&lt;p&gt;We're building our own low-code solution and when we're finished, we think we could open it up as a SaaS platform for other council's to use.&lt;/p&gt;
-&lt;p&gt;In Barnsley, we're very lucky that we have an in-house web development team. They're the people behind &lt;a href="https://www.barnsley.gov.uk"&gt;our website&lt;/a&gt;, our eForms and our CRM amongst other things. They're responsible for building accessible, compliant solutions that meet the needs of our citizens and our departmental staff and they do that very well. I manage that team and I'm incredibly proud to say so.&lt;/p&gt;
-&lt;p&gt;Today our website scores 94/100 for desktop experience and 100/100 on mobiles according to &lt;a href="https://developers.google.com/speed/pagespeed/insights/?url=barnsley.gov.uk"&gt;Google PageSpeed&lt;/a&gt;. It was &lt;a href="https://www.linkedin.com/pulse/new-look-barnsley-council-website-aidan-minton/"&gt;recently overhauled&lt;/a&gt; with an 80% improvement in response speeds. We gave it &lt;a href="/20170915"&gt;progressive capabilities&lt;/a&gt; to function as an app back in November and we have more big plans for its future.&lt;/p&gt;
-&lt;p&gt;Right now though we're focussing on our eForms. More than that actually. Our transactional platform. We're calling it our Digital Customer Service Platform (DCSP for short), and it will allow our customers to interact with us, anytime, from anywhere and by any means - beyond them just being able to read information on our web pages.&lt;/p&gt;
-&lt;p&gt;I've blogged before about just how big a task it is to &lt;a href="/20171115"&gt;digitally enable all of our 630+ business processes&lt;/a&gt; and we're very mindful of that. We know that if we're not careful, the more we develop, the more we'll have to maintain and in fact today we have a library of over 250 eForms that we manage individually.&lt;/p&gt;
-&lt;p&gt;When we update our branding styles or tone of voice guidelines, we have to apply them to each eForm seperately. When we take on a new coding technique on a new eForm build, we don't go back and retrofit it to previous builds - who has the time?! When a new eForm is required by our departments, they have to wait until we've finished building an earlier one. And so we recognised last year that we needed a new, more sustainable approach.&lt;/p&gt;
-&lt;p&gt;DCSP to the rescue. It's designed to be a single platform into which eForms can be developed without coding. It can be deployed to our departments such that they can design, set up, test and maintain their own eForms. It controls the presentation of every one that's published to ensure accessibility and usability standards are maintained. It can handle multilingual outputs, validations and integrations with ease.&lt;/p&gt;
-&lt;p&gt;Of course we have to actually code this thing first and that's an activity we started a few months ago. We've made some fantastic progress and already we're able to create new eForms, add fields, remove fields, amend fields, reorder fields, save drafts, publish versions, rollback versions and email submissions to departments.&lt;/p&gt;
-&lt;p&gt;In the fullness of time we'll be able to integrate submissions directly into departmental systems so they don't have to double key entries manually. We'll expand the types of fields that can be used from basic text boxes, textareas, radio buttons, checkboxes and file uploads to map location selectors, GPS locators, calendar date pickers, colour choices, multiple choice selectors, type ahead boxes, data driven fields, etc.&lt;/p&gt;
-&lt;p&gt;Published in the cloud as a resilient SaaS solution, it will use an queuing mechanism to ensure citizens, residents and businesses can make submissions through it 24x7, 365. If any of our departmental systems are unavailable (down for upgrades for example), it will hold onto their entries until it's able to push them in, alerting support staff if a number of retries have failed.&lt;/p&gt;
-&lt;p&gt;It will manage customer profiles, linking in seamlessly with an access portal through which personal details, service accounts (e.g. council tax), passwords, eForm submissions and responses can be managed, monitored and tracked.&lt;/p&gt;
-&lt;p&gt;Submissions are where this gets really interesting though as eForms are only one access channel. DCS will treat them as such. Actually, submissions will be received through webservice hooks - making them available not only to the eForms, but also to IoT devices including the Amazon Echo, Google Home and Apple Pod. But more... our own IoT developments will be able to use them too. Our litter bins can report when they're almost full. Our vehicles can report defects as they arise (or preferably before they happen). Our street lights and traffic lights can report their own issues. Our electronic rat traps can alert us when they've caught something - we don't have to keep checking them.&lt;/p&gt;
-&lt;p&gt;The possibilities are endless. We recently learned that Land Rover Jaguar are working on a vehicle system that will identify potholes as their vehicles approach them and adjust the suspension of any colliding wheel to minimise the impact for the passengers. It will then tell any other nearby vehicles of the potholes location so that they can do the same. With our DCS solution, it could also tell us. It could report the pothole to us!&lt;/p&gt;
-&lt;p&gt;It's a big ambition and one that has the full backing of our Senior Management Team and Digital Leadership Team. I proposed the original idea back in October of last year and secured approval to progress it into business case. With support from colleagues that business case was accepted in July this year and an amount of funding released to secure resources for the 18/19, 19/20 and 20/21 financial years.&lt;/p&gt;
-&lt;p&gt;I'm obviously very excited at the potential of this. I'm also very willing to work with any council's who would like to get involved with us and help make this thing a reality. Our code repository is cloud hosted and open to pull requests from authenticated parties. There's plenty of scope to help speed up the build and plenty of opportunity for other council's to take advantage of the system for their own organisations. Do please get in touch.&lt;/p&gt;
-&lt;p&gt;For now, I'll continue blogging updates as we progress. We're running fortnightly agile sprints with planning sessions held every other Monday and review/retrospectives every other Friday. Our backlog is available within our source code repository and always open to new additions and ideas. I'll also blog about why we've chosen to build our own solution over buying one.&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;We're building our own low-code solution and when we're finished, we think we could open it up as a SaaS platform for other council's to use.&lt;/p&gt;</summary>
 	</entry>
 </feed>
