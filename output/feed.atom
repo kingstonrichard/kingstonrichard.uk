@@ -4,8 +4,32 @@
 	<title>Richard Kingston</title>
 	<link rel="self" href="http://kingstonrichard.uk/" />
 	<rights>2019</rights>
-	<updated>2019-10-07T11:49:34Z</updated>
+	<updated>2019-10-15T08:29:50Z</updated>
 	<subtitle>IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.</subtitle>
+	<entry>
+		<id>http://kingstonrichard.uk/posts/ims-discovery-week-5</id>
+		<title>IMS Discovery - Week 5</title>
+		<link href="http://kingstonrichard.uk/posts/ims-discovery-week-5" />
+		<updated>2019-10-11T00:00:00Z</updated>
+		<content>&lt;p&gt;We revised and published &lt;a href="https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4"&gt;our draft requirements for a Digital Outcome&lt;/a&gt; this week and then promptly withdrew them!&lt;/p&gt;
+&lt;p&gt;Turns out we published our earlier draft requirements that were asking for a Digital Specialist, rather than the latest version that asks for a Digital Outcome. As a result, all of the questions we received seemed irrelevant or confused - in fact, some of them were more statements advising we ask for an outcome, which we thought we had!&lt;/p&gt;
+&lt;p&gt;So, we pulled them again today and we plan to regroup and go out again next week. Apologies to anyone who submitted a question or showed an interest in the work. We do still require support and we will be back shortly.&lt;/p&gt;
+&lt;p&gt;To be clear, we're looking for an organisation to run our Discovery project. To marshall our stakeholders and carry out user research workshops with them. To document findings into a business/benefits case, a user research report, a conclusion and if appropriate, a funding bid to the Local Digital Fund to proceed with an Alpha project.&lt;/p&gt;
+&lt;p&gt;Ideally the succesful organisation will bring at least one: user researcher, service designer, product owner, delivery manager to get us to that point within the timescales set out by the fund - 31st January 2020.&lt;/p&gt;
+&lt;p&gt;We've listed our user stories as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As Barnsley IM Product Owner, I need to understand the changes required to it to meet national user needs so I can develop it such.&lt;/li&gt;
+&lt;li&gt;As an LA Income Manager, I need to know if my needs will be met and the savings I can make, so that I can consider migrating over.&lt;/li&gt;
+&lt;li&gt;As a GOV.UK Pay Product Owner, I need to understand the changes required for integration so I can develop such.&lt;/li&gt;
+&lt;li&gt;As an LA ICT manager, I need to know how the solution will be packaged so that I understand how to implement and support it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There's much more detail in the Google Sheet linked above.&lt;/p&gt;
+&lt;p&gt;To our stakeholders, bear with us please - we'll be out with our requirements again next week and will be looking to shortlist providers very soon after that. I'll be in touch with dates as soon as possible.&lt;/p&gt;
+&lt;p&gt;One final note, to thank Egle at MHCLG for all her support to date, and to Tony Evans for his comments on our requirements as they were being revised. I've found your input extremely useful so thank you for that.&lt;/p&gt;
+&lt;p&gt;I hope next week to be posting less about procurement and more about delivery. Watch this space.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;We revised and published &lt;a href="https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4"&gt;our draft requirements for a Digital Outcome&lt;/a&gt; this week and then promptly withdrew them!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>http://kingstonrichard.uk/posts/ims-discovery-week-4</id>
 		<title>IMS Discovery - Week 4</title>
@@ -384,28 +408,5 @@ It was the first meeting we'd had since December but while it's been &amp;quot;q
 &lt;p&gt;And we have a list of potential future items still to start on. All of this is before we've really promoted the group around the rest of the council. There'll be people outside of IT, in other departments who have ideas they want to prototype and test. We hope to see them at a future session.&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Yesterday I was invited to our Digital Leadership Team to present the progress we've made at the innovation group since it began.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>http://kingstonrichard.uk/posts/iterating-the-desk-buttons</id>
-		<title>Iterating the desk buttons</title>
-		<link href="http://kingstonrichard.uk/posts/iterating-the-desk-buttons" />
-		<updated>2018-10-09T00:00:00Z</updated>
-		<content>&lt;p&gt;At the innovation group, in anticipation of seeing results from the workforce mobilisation theme of our Digital First programme, we've been busily beavering away with our Desk Occupancy Monitors - I've &lt;a href="/20180829"&gt;blogged about the first version previously&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We've come a long way since v1.0, having:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Rolled out the devices on a pilot bank of desks&lt;/li&gt;
-&lt;li&gt;Captured actual usage data and anecdotal evidence&lt;/li&gt;
-&lt;li&gt;Spoken with users and gathered feedback&lt;/li&gt;
-&lt;li&gt;Built version 2.0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Version 2.0 takes into account all of the points we've learned from the above and simplifies the devices further than they already were.&lt;/p&gt;
-&lt;p&gt;&lt;img src="/assets/images/2018-10-09-desk-button-v2.jpg" class="img-fluid" alt="v2.0 of the desk button" /&gt;&lt;/p&gt;
-&lt;p&gt;They now only use one toggle button to change a desks status and have a single light that either blinks green when free or glows solid red when busy.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=movcK6mVciE"&gt;&lt;img src="https://img.youtube.com/vi/movcK6mVciE/0.jpg" class="img-fluid" alt="Desk Occupancy Monitor v2.0" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The flashing of the green light is intended to help those with colour blindness distinguish it from red light. The red light also doesn't blink because it turns out the blinking annoys people. The earlier versions had a blue light that flashed periodically - we've removed that all together.&lt;/p&gt;
-&lt;p&gt;We'll be adding new functionality to the system too so that desks can be booked from 6am each day via a website. The thinking is that you'll be able to sign in with your network account and select where you'd like to sit. This creates an incentive to use the devices on the desks if you haven't booked, to prevent anyone else booking them out from under you. It also creates an ability for us to use these devices for other resources such as meeting rooms, screens, etc. Gives us some flexibility in options.&lt;/p&gt;
-&lt;p&gt;I'll be demoing this new version at DLT later this month and we'll see how it goes.&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;At the innovation group, in anticipation of seeing results from the workforce mobilisation theme of our Digital First programme, we've been busily beavering away with our Desk Occupancy Monitors - I've &lt;a href="/20180829"&gt;blogged about the first version previously&lt;/a&gt;.&lt;/p&gt;</summary>
 	</entry>
 </feed>
