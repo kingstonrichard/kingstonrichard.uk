@@ -5,8 +5,29 @@
 		<link>http://kingstonrichard.uk/</link>
 		<description>IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.</description>
 		<copyright>2019</copyright>
-		<pubDate>Tue, 15 Oct 2019 08:29:50 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Oct 2019 08:29:50 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Oct 2019 11:16:56 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Oct 2019 11:16:56 GMT</lastBuildDate>
+		<item>
+			<title>IMS Discovery - Week 6</title>
+			<link>http://kingstonrichard.uk/posts/ims-discovery-week-6</link>
+			<description>&lt;p&gt;Our requirements are published. Not on the &lt;a href="https://www.digitalmarketplace.service.gov.uk/"&gt;Digital Marketplace&lt;/a&gt; as we first intended, but rather via &lt;a href="https://www.yortender.co.uk/"&gt;YORTender&lt;/a&gt;, our usual route for obtaining quotes and securing suppliers.&lt;/p&gt;</description>
+			<guid>http://kingstonrichard.uk/posts/ims-discovery-week-6</guid>
+			<pubDate>Fri, 18 Oct 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Our requirements are published. Not on the &lt;a href="https://www.digitalmarketplace.service.gov.uk/"&gt;Digital Marketplace&lt;/a&gt; as we first intended, but rather via &lt;a href="https://www.yortender.co.uk/"&gt;YORTender&lt;/a&gt;, our usual route for obtaining quotes and securing suppliers.&lt;/p&gt;
+&lt;p&gt;We've opted to take this route based on guidance from our corporate procurement team - the long and short of it being that our organisation doesn't currently use the Digital Marketplace and we have established processes for working with YORtender already - so it makes the whole thing run a lot more smoothly for us.&lt;/p&gt;
+&lt;p&gt;We'll be out to market from October 16th to October 30th and will have awarded by Friday 8th November 2019. We intend to kick off delivery on Monday, November 11th. That revises our anticipated timeline from &lt;a href="/20190920"&gt;Week 2&lt;/a&gt; to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Week 01-09: Procure delivery partner&lt;/li&gt;
+&lt;li&gt;Week 10-18: Run investigative workshops&lt;/li&gt;
+&lt;li&gt;Week 19-20: Document outputs into reports&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Accepting that w/c 23rd December and 30th December will be cut short by the Christmas and New Year break, our 8 week investigative period is only a little over 6 weeks. We'll need to be a bit more savvy with our procurement activities if we make future bids to the fund as the balance is a little off for my liking. Still, it is our first rodeo and we're learning a lot of lessons here that I hope others will appreciate as I keep blogging.&lt;/p&gt;
+&lt;p&gt;I've setup evaluation, award and project kick off meetings with our internal stakeholders already and I've invited our bid partners to join us in those as of late last night - that can be on site (we love to host) or remotely (which was a major consideration in our bid application - that partners wanted to support remotely wherever possible). They'll get copies of bidders documents on November 4th for review and comment.&lt;/p&gt;
+&lt;p&gt;In the meantime, I'm looking at booking our team onto the Agile for Teams course with the GDS Academy. As a successful bidder to the fund, we're entitled to take up that offer. I've sent invites to our partners and hope to hear back from them shortly for a session November 5th, 6th and 7th if that will work.&lt;/p&gt;
+&lt;p&gt;One thing we do need to do as a team still is figure out how we're going to work together across the duration of the project. For the timebeing, Barnsley are leading these early activities and inviting support and comment wherever practical. We may continue in that way and as such the agile training may not be necessary but I don't want to close the doors on the chance to work more closely together and certainly that's in the sprit of the whole thing.&lt;/p&gt;
+&lt;p&gt;I'll post again next week with more information.&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>IMS Discovery - Week 5</title>
 			<link>http://kingstonrichard.uk/posts/ims-discovery-week-5</link>
@@ -388,26 +409,6 @@ It was the first meeting we'd had since December but while it's been &amp;quot;q
 &lt;p&gt;The big consideration in all of this is that the risk of failure is now entirely ours. Procuring big software products from big software suppliers provides an element of security. It buys a comfort blanket through the application of penalties on failures. It transfers the costs and risks of ownership away from the organisation - all things we don't have the luxury of doing with our Income Management solution. Over the coming months that will need to be considered fully as a retrospective activity.&lt;/p&gt;
 &lt;p&gt;However, and honestly, we're 9 months in now and enjoying the fruits of our efforts. Maintenance is minimal. Support calls are minimal. Change requests are... we haven't had one for 6 months. Transaction counts are up. Licensing costs are gone. Per transaction charges are about the same but I guess we can't win everything.&lt;/p&gt;
 &lt;p&gt;What we've done here then is satisfied our business needs without external expense, made significant ongoing savings for the future, and potentially opened up what we see to be an opportunity to share our work collaboratively.&lt;/p&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>The innovation group so far</title>
-			<link>http://kingstonrichard.uk/posts/the-innovation-group-so-far</link>
-			<description>&lt;p&gt;Yesterday I was invited to our Digital Leadership Team to present the progress we've made at the innovation group since it began.&lt;/p&gt;</description>
-			<guid>http://kingstonrichard.uk/posts/the-innovation-group-so-far</guid>
-			<pubDate>Thu, 25 Oct 2018 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;Yesterday I was invited to our Digital Leadership Team to present the progress we've made at the innovation group since it began.&lt;/p&gt;
-&lt;p&gt;Having set the terms and conditions of the group on June 5th, our first ever meeting was July 26th and we've subsequently then met every fortnight since.&lt;/p&gt;
-&lt;p&gt;To date that's 7 meetings, each one a day-long event and typically we've had between 3 and 5 attendees at them. People tend to drop in through the day as they can make it. Others pitch up early and stay for the duration.&lt;/p&gt;
-&lt;p&gt;At DLT I laid out the timeline of the meetings and details of the prototypes we've produced so far in a brief slideshow (I only had 15 minutes to present).&lt;/p&gt;
-&lt;p&gt;7 sessions, 4 products (see the slideshow for pics):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Covert security camera (Birdbox)&lt;/li&gt;
-&lt;li&gt;Building Access Manager (BAM)&lt;/li&gt;
-&lt;li&gt;Desk Occupancy Monitor (DOM)&lt;/li&gt;
-&lt;li&gt;Meeting Room Screens (MRS)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;And we have a list of potential future items still to start on. All of this is before we've really promoted the group around the rest of the council. There'll be people outside of IT, in other departments who have ideas they want to prototype and test. We hope to see them at a future session.&lt;/p&gt;
 </content:encoded>
 		</item>
 	</channel>
