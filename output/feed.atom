@@ -4,8 +4,34 @@
 	<title>Richard Kingston</title>
 	<link rel="self" href="http://kingstonrichard.uk/" />
 	<rights>2019</rights>
-	<updated>2019-10-18T11:16:56Z</updated>
+	<updated>2019-11-05T10:40:15Z</updated>
 	<subtitle>IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.</subtitle>
+	<entry>
+		<id>http://kingstonrichard.uk/posts/ims-discovery-week-8</id>
+		<title>IMS Discovery - Week 8</title>
+		<link href="http://kingstonrichard.uk/posts/ims-discovery-week-8" />
+		<updated>2019-11-01T00:00:00Z</updated>
+		<content>&lt;p&gt;The submission window on our tender process closed this week and paperwork is being pulled together for review.&lt;/p&gt;
+&lt;p&gt;Next week will see a tender pack delivered to us and the team here in Barnsley will evaluate them. Towards the end of the week, we'll meet suppliers and discuss their submissions in more detail.&lt;/p&gt;
+&lt;p&gt;The invitation for our bid partners to join us at both of those events is open, either to join us on-site here in Barnsley or remotely where we can facilitate it.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;The submission window on our tender process closed this week and paperwork is being pulled together for review.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://kingstonrichard.uk/posts/ims-discovery-week-7</id>
+		<title>IMS Discovery - Week 7</title>
+		<link href="http://kingstonrichard.uk/posts/ims-discovery-week-7" />
+		<updated>2019-10-25T00:00:00Z</updated>
+		<content>&lt;p&gt;Our requirements remain published for a period of 14 days and organisations are invited to submit against them.&lt;/p&gt;
+&lt;p&gt;Our team in Barnsley have held clarification calls with several interested parties so far across the week and we're encouraged by the conversations we've been having. All the questions asked of us have been noted along with our answers and are being shared openly on our YorTender portal. This will help to make sure all the submissions we receive are as appropriate as possible.&lt;/p&gt;
+&lt;p&gt;I can't say too much about how many suppliers we've spoken with, or who they are as the whole process is confidential by nature, but I am keen to be as open as possible, hence still releasing this shorter blog post this week about how we're progressing just generally.&lt;/p&gt;
+&lt;p&gt;I'm on leave next week but I expect to be continuing to receive and answer questions via the  portal throughout. When I return, the tender window will have closed and the team here in Barnsley will be reviewing those submissions w/c 4th November. I've invited our partners to join us in that.&lt;/p&gt;
+&lt;p&gt;Suppliers will visit us to discuss their submissions in more detail on November 8th. Again, I've issued an invite to all partners to join us in that on-site here in Barnsley, or remotely where we can support that - keen to have as much involvement as possible.&lt;/p&gt;
+&lt;p&gt;I'm conscious we still need to figure out how we're going to work together as a bid team. At the moment Barnsley continue to lead these early activities and are inviting support and comment at each stage. To that end the agile training hasn't been organised yet but is on our task list of things to do so isn't lost.&lt;/p&gt;
+&lt;p&gt;Next weeks post may be a few days late as I catch up w/c 4th.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Our requirements remain published for a period of 14 days and organisations are invited to submit against them.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>http://kingstonrichard.uk/posts/ims-discovery-week-6</id>
 		<title>IMS Discovery - Week 6</title>
@@ -46,7 +72,7 @@
 &lt;/ul&gt;
 &lt;p&gt;There's much more detail in the Google Sheet linked above.&lt;/p&gt;
 &lt;p&gt;To our stakeholders, bear with us please - we'll be out with our requirements again next week and will be looking to shortlist providers very soon after that. I'll be in touch with dates as soon as possible.&lt;/p&gt;
-&lt;p&gt;One final note, to thank Egle at MHCLG for all her support to date, and to Tony Evans for his comments on our requirements as they were being revised. I've found your input extremely useful so thank you for that.&lt;/p&gt;
+&lt;p&gt;One final note, to thank Egle at MHCLG for all her support to date, and to Tony Evans for his comments on our requirements as they were being revised. we've found your input extremely useful so thank you for that.&lt;/p&gt;
 &lt;p&gt;I hope next week to be posting less about procurement and more about delivery. Watch this space.&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;We revised and published &lt;a href="https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4"&gt;our draft requirements for a Digital Outcome&lt;/a&gt; this week and then promptly withdrew them!&lt;/p&gt;</summary>
@@ -344,70 +370,5 @@ It was the first meeting we'd had since December but while it's been &amp;quot;q
 &lt;p&gt;I'd love to know what you think.&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;They're a little way off being ready yet, as we have a lot of work to do in finalising the control software and handling the touchscreen interfaces​. But, I'm very pleased with how the #DigitalFirst Meeting Room Screens are turning out.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>http://kingstonrichard.uk/posts/the-innovation-group-commercial-investment-fund</id>
-		<title>The Innovation Group and the Commercial Investment Fund</title>
-		<link href="http://kingstonrichard.uk/posts/the-innovation-group-commercial-investment-fund" />
-		<updated>2019-01-21T00:00:00Z</updated>
-		<content>&lt;p&gt;On Wednesday last week I attended the Commercial Investment Fund board with a view to securing some monies to progress three of our innovation group projects from prototype to product.&lt;/p&gt;
-&lt;p&gt;The Commercial Investment Fund has been made available to support projects that are either innovative or have the potential to generate returns for the council. In the case of our prototypes, they do both in that they're innovative and we can potentially market them to other organisations.&lt;/p&gt;
-&lt;p&gt;Meeting in the afternoon, I had 15 minutes to present our:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Desk Occupancy Monitor&lt;/li&gt;
-&lt;li&gt;Building Access Manager&lt;/li&gt;
-&lt;li&gt;Meeting Room Screens&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;That gave me only 5 minutes for each one and so I quickly briefed the group and took the opportunity to hand around the prototype devices we'd created so far.&lt;/p&gt;
-&lt;p&gt;I'm pleased to say they were all very well received and I secured money for each one along with a couple of stipulations. The Building Access Manager has to be in place in Westgate and Gateway at least by February 25th and the Meeting Room Screens need a little functionality adding to help with our current culture of booking rooms and leaving them empty.&lt;/p&gt;
-&lt;p&gt;These can be easily accomodated and over the next few weeks we'll be rapidly progressing the prototypes and getting them rolled out.&lt;/p&gt;
-&lt;p&gt;On a seperate note, we've also been asked if our Meeting Room Screens can be installed in the Library&amp;#64;TheLightBox to enable their agile approach to booking rooms. We're therefore now also working hard to meet the deadline there of the end of May ready for their June opening.&lt;/p&gt;
-&lt;p&gt;So, there are some great things happening. Three superb solutions developed in only a small number of day long workshops or hackdays as we like to call them.&lt;/p&gt;
-&lt;p&gt;If you'd like to be involved, if you have an idea you'd like to progress, check out the calendar of hack days on the innovation group sharepoint site and come down to the DMC reception at 9am. We'd love to introduce you to the group and get you involved. Obviously organise that with your line manager first.&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;On Wednesday last week I attended the Commercial Investment Fund board with a view to securing some monies to progress three of our innovation group projects from prototype to product.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>http://kingstonrichard.uk/posts/we-built-our-own-income-management-solution</id>
-		<title>We built our own Income Management solution</title>
-		<link href="http://kingstonrichard.uk/posts/we-built-our-own-income-management-solution" />
-		<updated>2019-01-02T00:00:00Z</updated>
-		<content>&lt;p&gt;We recently took the decision to develop our own critical software solution, over renewing an incumbent contract. This is how it happened.&lt;/p&gt;
-&lt;p&gt;Let me start by saying we didn't take the decision to &amp;quot;build over buy&amp;quot; lightly. We were in somewhat of a sticky situation with limited options. Ultimately, it was a good call and we're now enjoying the benefits, but there was a lot of nervousness given how complex a beast the function of income management is.&lt;/p&gt;
-&lt;p&gt;I suppose I should briefly explain that for those unfamiliar with the inside of local government. It is precisely what it sounds like, but you might not appreciate that it presents a significant challenge in terms of logistics. Monies are continually arriving from a variety of different sources (citizens, businesses, partners, etc.) for many different reasons (taxes, fines, services delivered, etc.) via many different methods (cash, cheque, card, electronic, etc.) and through many different channels (direct debit, standing order, bank transfer, automated telephone service, etc.). Digital transactions happen quickly - immediately even. Physical cash transactions can be recorded immediately but not reconciled until days later. In any given hour on any given day there are potentially hundreds if not thousands of incoming transactions that need to be taken care of.&lt;/p&gt;
-&lt;p&gt;Every penny of every single one must be captured, verified and validated to make sure we understand where its come from and why its arrived. Once approved they must be routed off to the right internal account(s) in our SAP system to balance our creditor records and to update other system records that we hold across our technology estate. Mr Smith has paid his parking fine and so it won't be necessary to issue any reminders, for example. It must all happen quickly, efficiently and correctly! Preferably, automated wherever possible. It's a huge coordination effort. The need for (and cost of) human effort should be minimised, as should any opportunity for processing errors to sneak in. With so many individual transactions occurring, even the smallest error carries a potential to cause big issues.&lt;/p&gt;
-&lt;p&gt;And so as you might expect, software has a huge part to play in this 24x7x365 carefully choreographed dance. Up until recently, my colleagues at Barnsley Council had been orchestrating the operation very well, with the support of a suite of software products from one of the well-known major system suppliers to local government. My technical team had configured their suite into a streamlined work of art. They'd worked closely with our internal departments to define its various rules of validation, its steps of automation, its channel configurations and they'd fettled the whole thing to within an inch of its life. The situation was good.&lt;/p&gt;
-&lt;p&gt;Good, but not perfect! It wasn't an easy task keeping on top of it all. We know that we weren't always using the suite to the best of its abilities. We weren't always squeezing the most out of it's potential. But even so, our experience of it was that the individual products in the suite didn’t necessarily play all that well together and our staff had to do lots of manual input and checking despite our technical efforts. It was often necessary to double key transactional data over several screens. Interfaces were unfriendly, seemingly designed c1995 and staff had to absolutely know their way around the suite in detail to use it safely. Strong training for new and even existing users was crucial and my technical team received a high number of service desk calls to &amp;quot;undo&amp;quot; mistakes on a daily basis.&lt;/p&gt;
-&lt;p&gt;That suite though had proven itself to be the best on the market for meeting our income management needs several times over. We'd had it in place for over 10 years, because it kept winning our tenders and being awarded our contracts. We outlined our requirements, we assessed systems against those and it kept coming out on top. The most recent contract it won was for a 3 year term, due to expire on the 31st March 2018. That carried with it a 6 month notice period (October 2017) for the negotiation of any changes, renewals, cancellations, etc. and so as we approached the summer of 2017, giving us time to spare, we instigated the necessary internal and external conversations around what should be our next steps.&lt;/p&gt;
-&lt;p&gt;Unfortunately, over the months that followed we were unable to reach an agreement of terms with that incumbent supplier this time around and negotiations broke down. Having suspected that might be the case early on in the process, we acknowledged that we needed to be prepared for a position of either having to a) renew the contract on the supplier's terms or b) replace the entire suite of products with technologies that we already had available in-house! This second option was accepting that running a new tender exercise to bring in a completely new supplier with new software would be near-on impossible in the time available. And so we quickly set to work to see what might be viable.&lt;/p&gt;
-&lt;p&gt;Now, I've blogged here before about how in Barnsley we're very lucky to have an outstanding software development team in our IT department - and once again here they were demonstrating their worth! By the end of September 2017 they had unbelievably created a proof of concept that was so good, it not only demonstrated a clear capability with our existing in-house tools but it also, (subject to suitable resourcing and a financial input) could be operational by the end of February 2018 - a whole month before the incumbent software expired! Stakeholder agreements were quickly sought, a business case was organised and suddenly the challenge was set!&lt;/p&gt;
-&lt;p&gt;&lt;img src="/assets/images/2019-01-02-income-system.png" class="img-fluid" alt="Income Management System - Screenshot of the transactions screen" /&gt;&lt;/p&gt;
-&lt;p&gt;The end solution was to be an in-house developed web-based product, created using the Microsoft Dot Net Framework, Entity Framework and SQL Server - as an organisation that primarily uses SAP and Microsoft technologies, this made for a great infrastructure fit and ensured it could be supported and maintained going forwards. Given the timescales, it would be a minimum viable product designed only to meet our current needs which were rapidly outlined. Extensions and add-ons would only be considered for inclusion later with the exception of a few key requirements that would enhance the income management function dramatically with relatively little extra effort.&lt;/p&gt;
-&lt;p&gt;And so, the council committed £50K (from its 2017/18 budget) to a 'replacement' project in return for what was expected to be a minimum £50K saving year on year from that point forward. And this was after taking into account any additional transactional charges that might result from the change. We cleared a path through some other planned projects and created an agile project team made up of key stakeholders from the IT development team, IT project management team, Internal Audit and Finance departments. Following a familiar Scrum methodology and using Microsoft DevOps (Visual Studio Team Services at the time), the team ran fortnightly sprints with goals defined as follows:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;To develop the outline software infrastructure and get a single self-service web form accepting online payments in a test environment&lt;/li&gt;
-&lt;li&gt;To reconfigure the remaining self-service web forms to take payments and route monies to internal accounts in that test environment&lt;/li&gt;
-&lt;li&gt;To include all mediated web forms in that test environment and to enable transaction tracking, reconciliation and refund capabilities&lt;/li&gt;
-&lt;li&gt;To create reporting functionality, an admin portal for our Finance dept, installation scripts ready for launch and a security context&lt;/li&gt;
-&lt;li&gt;To launch to live a small group of self-service web forms and closely monitor, correct errors, tweak performance, etc.&lt;/li&gt;
-&lt;li&gt;To create the capability of transferring monies between internal accounts when corrections are required&lt;/li&gt;
-&lt;li&gt;To launch remaining self-service web forms to live and begin configuration of &amp;quot;basket&amp;quot; functionality for our contact centre&lt;/li&gt;
-&lt;li&gt;To complete and launch the &amp;quot;basket&amp;quot; functionality to live so our contact centre can take 1 payment for multiple services&lt;/li&gt;
-&lt;li&gt;To train key users (train the trainer) and rollout the solution to all stakeholders. Also increase coverage of automated testing&lt;/li&gt;
-&lt;li&gt;To improve the transferring functionality as per feedback from the now live stakeholder group&lt;/li&gt;
-&lt;li&gt;To develop new credit note functionality as per feedback from the stakeholder group&lt;/li&gt;
-&lt;li&gt;To develop functionality to allow cash income to be recorded at PoS and accounted for when records arrive from the bank&lt;/li&gt;
-&lt;li&gt;To create routines for the migration of historic data from the incumbent system. Resolve minor needs from the stakeholder group&lt;/li&gt;
-&lt;li&gt;To launch the cash submissions functionality, migrate historic data and close down the incumbent software suite&lt;/li&gt;
-&lt;li&gt;To integrate with key line of business systems to reconcile creditor records and trigger workflows&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;All of that took us right up to the wire but by the end of March 2018 we had successfully moved from the previous suite of software products, over to our new single in-house solution. Sure, there were teething issues and since the end of the project we've run some follow up work to add in new features and resolve a few more minor bugs. We now see significantly fewer service desk jobs as a support team. Our staff are using a modern, responsive, well performing product that doesn't require double keying over several outdated interfaces. Every transaction is audited against SSO accounts and key integrations between the solution and SAP are established. We have strong integrations with our hosted Civica Enforcement system for parking, on-premise Northgate Housing system, on-premise Capita Academy system for council tax, non-domestic rates and benefits records and our debtors system which is SAP.&lt;/p&gt;
-&lt;p&gt;The solution is loosely coupled with BarclayCard API's (it can be hooked into other payment providers easily) to take self-service and mediated payments and issue full and partial refunds. It transfers monies between internal accounts, manages cash and cheque transactions, processes nightly bank files FTP'd to us, churns through flat files sent to us by various partners including DWP, bailiff companies and AllPay amongst others before posting those to our SAP system. It allows staff in our Finance department to quickly search for transactions using various parameters and re-issue copy receipts either printed or emailed. Several third party websites integrate with it too including ones in our museums service and the national licensing management portal (ELMS) to take online payments. It also handles rejected direct debits files nightly from our bank, updating our various line of business systems as necessary.&lt;/p&gt;
-&lt;p&gt;We're absolutely thrilled with it and in the fullness of time would love to open it up for other local authorities to consider using. We are though very conscious of the GovPay offer from the Government Digital Service (which sadly wasn't available to local authorities when all of this started for us - they were piloting with only a few select councils at that time) and we haven't yet decided how best to actually make it available. Should we open source it on GitHub or multi-tenant it and run it as a SaaS offer in the cloud? Perhaps if we open sourced it, others could work with us to turn it into a multi-tenanted SaaS offer? Perhaps other council's would just like to take a copy in return for providing operational feedback?&lt;/p&gt;
-&lt;p&gt;The big consideration in all of this is that the risk of failure is now entirely ours. Procuring big software products from big software suppliers provides an element of security. It buys a comfort blanket through the application of penalties on failures. It transfers the costs and risks of ownership away from the organisation - all things we don't have the luxury of doing with our Income Management solution. Over the coming months that will need to be considered fully as a retrospective activity.&lt;/p&gt;
-&lt;p&gt;However, and honestly, we're 9 months in now and enjoying the fruits of our efforts. Maintenance is minimal. Support calls are minimal. Change requests are... we haven't had one for 6 months. Transaction counts are up. Licensing costs are gone. Per transaction charges are about the same but I guess we can't win everything.&lt;/p&gt;
-&lt;p&gt;What we've done here then is satisfied our business needs without external expense, made significant ongoing savings for the future, and potentially opened up what we see to be an opportunity to share our work collaboratively.&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;We recently took the decision to develop our own critical software solution, over renewing an incumbent contract. This is how it happened.&lt;/p&gt;</summary>
 	</entry>
 </feed>

@@ -28,6 +28,6 @@ There's much more detail in the Google Sheet linked above.
 
 To our stakeholders, bear with us please - we'll be out with our requirements again next week and will be looking to shortlist providers very soon after that. I'll be in touch with dates as soon as possible.
 
-One final note, to thank Egle at MHCLG for all her support to date, and to Tony Evans for his comments on our requirements as they were being revised. I've found your input extremely useful so thank you for that.
+One final note, to thank Egle at MHCLG for all her support to date, and to Tony Evans for his comments on our requirements as they were being revised. we've found your input extremely useful so thank you for that.
 
 I hope next week to be posting less about procurement and more about delivery. Watch this space.
