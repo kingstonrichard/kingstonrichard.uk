@@ -5,8 +5,30 @@
 		<link>http://kingstonrichard.uk/</link>
 		<description>IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.</description>
 		<copyright>2019</copyright>
-		<pubDate>Wed, 06 Nov 2019 10:30:50 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Nov 2019 10:30:50 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Nov 2019 12:24:39 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Nov 2019 12:24:39 GMT</lastBuildDate>
+		<item>
+			<title>IMS Discovery - Week 9</title>
+			<link>http://kingstonrichard.uk/posts/ims-discovery-week-9</link>
+			<description>&lt;p&gt;We spent the majority of this week scoring bids from interested suppliers and I'm pleased to announce we have selected one and we'll award a contract to them first thing next week.&lt;/p&gt;</description>
+			<guid>http://kingstonrichard.uk/posts/ims-discovery-week-9</guid>
+			<pubDate>Fri, 08 Nov 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;We spent the majority of this week scoring bids from interested suppliers and I'm pleased to announce we have selected one and we'll award a contract to them first thing next week.&lt;/p&gt;
+&lt;p&gt;Our evaluation panel met on Monday and reviewed paper submissions which included outline plans for project delivery, details of resources being deployed, pricing and experience of runnning similar projects to equally tight deadlines.&lt;/p&gt;
+&lt;p&gt;We met with each supplier's teams to discuss their proposals both in person and virtually which helped to firm up our evaluations and get an understanding of how their paper submissions translated to real world practical activities.&lt;/p&gt;
+&lt;p&gt;We ended the week with a real sense of confidence that we'll be able to deliver a meaningful discovery over the remaining 9 weeks of the project (accepting that 2 of those weeks are over the Christmas break).&lt;/p&gt;
+&lt;p&gt;In readiness for a project kick off next week, we've secured a collaboration space in our &lt;a href="https://www.barnsleydmc.co.uk"&gt;Digital Media Centre&lt;/a&gt; large enough to seat 7 people comfortably, with media services (Wi-Fi, screens, etc.) and importantly with walls for sticking things to! This is a lockable space that we can set up and leave, to use as we need. Huge thank you to &lt;a href="https://twitter.com/Cr8tveBarnsley"&gt;Tracey Johnson&lt;/a&gt; for that!&lt;/p&gt;
+&lt;p&gt;Looking to next week, we're meeting first thing Monday morning and will look to award the contract to the winning bidder as soon as possible. We'll confirm with them the date for our project kick-off and update the project team about when and where that will take place. We'll also need to confirm the agenda but I suspect that will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A recap of the previous work carried out by NELC and the GOV.UK Pay team&lt;/li&gt;
+&lt;li&gt;A review of our project and it’s vision, goals and risks&lt;/li&gt;
+&lt;li&gt;A look at our timeline and outline project plan to January 31st&lt;/li&gt;
+&lt;li&gt;A discussion about how we can best work together as a project team&lt;/li&gt;
+&lt;li&gt;Next steps – planning for our first sprint&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We're really looking forward to getting into the meat of it now.&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>IMS Discovery - Week 8</title>
 			<link>http://kingstonrichard.uk/posts/ims-discovery-week-8</link>
@@ -348,28 +370,6 @@ It was the first meeting we'd had since December but while it's been &amp;quot;q
 &lt;p&gt;Credit for this goes entirely to the people who attend the fortnightly innovation group sessions and in particular to Dan Roddis who is the mastermind behind the coding on them! Sadly he leaves us shortly to take up a new post in another organisation, but we'll continue where he left off and make sure this solution prospers.&lt;/p&gt;
 &lt;p&gt;If you're interested in working on solutions like this, designing them, testing them, solving problems that you otherwise wouldn't get to in your day job - get in touch. The group is open to new members from across the organisation and meets every other Wednesday at Barnsley DMC. No previous experience is necessary, just a willingness to learn and an aptitude to Google the heck out of how to achieve somethings.&lt;/p&gt;
 &lt;p&gt;I'll post again shortly about our plans for the electronic meeting room screens that took a slight change in direction yesterday.&lt;/p&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>Meeting Room Screens</title>
-			<link>http://kingstonrichard.uk/posts/meeting-room-screens</link>
-			<description>&lt;p&gt;They're a little way off being ready yet, as we have a lot of work to do in finalising the control software and handling the touchscreen interfaces​. But, I'm very pleased with how the #DigitalFirst Meeting Room Screens are turning out.&lt;/p&gt;</description>
-			<guid>http://kingstonrichard.uk/posts/meeting-room-screens</guid>
-			<pubDate>Fri, 25 Jan 2019 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;They're a little way off being ready yet, as we have a lot of work to do in finalising the control software and handling the touchscreen interfaces​. But, I'm very pleased with how the #DigitalFirst Meeting Room Screens are turning out.&lt;/p&gt;
-&lt;p&gt;Yesterday I took delivery of the first draft 3D printed case that I'd designed, thanks to our colleagues down at Central Library and their Ultimaker 3D printer. Many thanks to Paul Bennett for offering it up and to Rory Cooper for printing it for us.&lt;/p&gt;
-&lt;p&gt;&lt;img src="/assets/images/2019-01-25-meeting-room-screen-case.jpg" class="img-fluid" alt="3D printed case" /&gt;&lt;/p&gt;
-&lt;p&gt;This 'base' took around 14 hours to print and has columns to hold the internal circuitry that Andras Revesz is working on and a place to keep a square 9V battery held snug (the type you used to stick on your tongue when you were a kid). Sitting above those on the ledge will be the eInk screen (like in a Kindle) that shows room booking information.&lt;/p&gt;
-&lt;p&gt;&lt;img src="/assets/images/2019-01-25-meeting-room-screen-lid.jpg" class="img-fluid" alt="3D printed lid" /&gt;&lt;/p&gt;
-&lt;p&gt;The lid, which simply snaps on and off, fits perfectly and locks the eInk screen in place. The idea is that will make it easy for FM staff to quickly move the lid and screen out of the way to replace batteries - which incidentally should last between 3-4 months we think. Having said that, we just found a battery that we think might last for 5 years!!&lt;/p&gt;
-&lt;p&gt;You can see the whole thing together here, with the screen in and get a feel for how it might look attached to the glass outside meeting rooms.&lt;/p&gt;
-&lt;p&gt;&lt;img src="/assets/images/2019-01-25-meeting-room-screen-whole.jpg" class="img-fluid" alt="Screen in the case" /&gt;&lt;/p&gt;
-&lt;p&gt;I expect the final version will be black rather than red and ignore the logo... someone (&lt;em&gt;cough&lt;/em&gt; Aidan) thought it would be funny to put that on our test screen!&lt;/p&gt;
-&lt;p&gt;Dan, Dan the website man that can worked up the actual design for how the screens might look when they're completed. The idea is that they'll show details of the current activity in the room, the one that's coming next.&lt;/p&gt;
-&lt;p&gt;&lt;img src="/assets/images/2019-01-25-meeting-room-screen-layout.jpg" class="img-fluid" alt="Screen layout mockup" /&gt;&lt;/p&gt;
-&lt;p&gt;Put that all together and you get this, kindly modelled by said Aidan Minton for us all to enjoy.&lt;/p&gt;
-&lt;p&gt;&lt;img src="/assets/images/2019-01-25-meeting-room-screen-aidan.jpg" class="img-fluid" alt="Aidan modelling our screens" /&gt;&lt;/p&gt;
-&lt;p&gt;I'd love to know what you think.&lt;/p&gt;
 </content:encoded>
 		</item>
 	</channel>

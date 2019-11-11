@@ -1,15 +1,15 @@
 #tool "nuget:?package=Wyam&version=2.2.7"
 #addin "nuget:?package=Cake.Wyam&version=2.2.7"
 
-var target = Argument("target", "Build");
+var target = Argument("target", "build");
 
-Task("Build")
+Task("build")
     .Does(() =>
     {
         Wyam();
     });
 
-Task("Preview")
+Task("preview")
     .Does(() =>
     {
         Wyam(new WyamSettings
@@ -19,7 +19,7 @@ Task("Preview")
         });
     });
 
-Task("Deploy")
+Task("deploy")
     .IsDependentOn("Build")
     .Does(() => 
     {
