@@ -5,8 +5,26 @@
 		<link>http://kingstonrichard.uk/</link>
 		<description>IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.</description>
 		<copyright>2019</copyright>
-		<pubDate>Fri, 15 Nov 2019 15:29:28 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Nov 2019 15:29:28 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Nov 2019 14:23:44 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Nov 2019 14:23:44 GMT</lastBuildDate>
+		<item>
+			<title>Our new apprentice rocks</title>
+			<link>http://kingstonrichard.uk/posts/our-new-apprentice-rocks</link>
+			<description>&lt;p&gt;On September 23rd we took delivery of something very new and very shiny! Our new apprentice - her name is Robyn and if I had to describe her in a word I would say "outstanding"!&lt;/p&gt;</description>
+			<guid>http://kingstonrichard.uk/posts/our-new-apprentice-rocks</guid>
+			<pubDate>Tue, 19 Nov 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;On September 23rd we took delivery of something very new and very shiny! Our new apprentice - her name is Robyn and if I had to describe her in a word I would say &amp;quot;outstanding&amp;quot;!&lt;/p&gt;
+&lt;p&gt;Robyn joins us from &lt;a href="https://barnsley.ac.uk"&gt;Barnsley College&lt;/a&gt;, working 4 days a week split between my web team and our SAP team. On Monday's and Tuesday's she creates SAP programs using ABAP and on Wednesday's and Thursday's she builds websites and digital media tools. She spends her Friday's at college.&lt;/p&gt;
+&lt;p&gt;Before she joined us we'd discovered that she had a talent for developing websites and that she was keen to learn as much as possible during her time with us. As it happened, we needed a new website developing and it was the perfect task for a ground up training exercise. It covered HTML, CSS, JavaScript, design and layout work, familiarisation with &lt;a href="https://umbraco.com"&gt;Umbraco&lt;/a&gt; (our WCM of choice), logo creation and everything in between.&lt;/p&gt;
+&lt;p&gt;Robyn is now in her 8th week with us (so 16 days, or 3 working weeks) and so far she has wireframed her designs, adopted changes in response to critique from our in-house graphic designer, set up an empty Umbraco instance and began building the website in it AND she's developed a logo and brand identity for it.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/assets/images/2019-11-19-blog-design.png" class="img-fluid" alt="Barnsley.Digital website design" /&gt;&lt;/p&gt;
+&lt;p&gt;I'm honestly blown away. Robyn's commitment and enthusiasm is infectious!&lt;/p&gt;
+&lt;p&gt;The website she's working on is a collaborative blog that we hope to use to showcase the digital economy in Barnsley. There are lots of fantastic digital projects happening across the borough and we want to provide an online space that can bring them all together.&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href="https://twitter.com/mwtsn"&gt;Matt Watson&lt;/a&gt; of &lt;a href="https://www.makedo.net/"&gt;Make Do Ltd&lt;/a&gt; who donated to us a very fitting domain name, we're calling it Barnsley.Digital which incidentally mirrors similar concepts in other cities and towns - see &lt;a href="https://croydon.digital"&gt;Croydon Digital&lt;/a&gt; and &lt;a href="https://digital.gateshead.gov.uk"&gt;Gateshead Digital&lt;/a&gt; for example.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/assets/images/2019-11-19-brand-identity.png" class="img-fluid" alt="Barnsley.Digital brand identity" /&gt;&lt;/p&gt;
+&lt;p&gt;Robyn is due to be with us for some time yet and I'm very much looking forward to what else she'll be able to achieve. As her studies progress and her learning with us does too, she'll only improve further and further. Absolutely outstanding! Nice work Robyn!&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>IMS Discovery - Week 10</title>
 			<link>http://kingstonrichard.uk/posts/ims-discovery-week-10</link>
@@ -351,21 +369,6 @@ It was the first meeting we'd had since December but while it's been &amp;quot;q
 &lt;p&gt;The general gist is that as the GOV.UK Pay product team have researched what would be needed to make their solution the tool of choice for taking payments across local government, they discovered that taking money is only a part of the problem. An equally troublesome issue is what to do with money once it's taken. It turns out a lot of council's have difficulties with the processes of managing income.&lt;/p&gt;
 &lt;p&gt;That's where our income management system comes in - potentially offering a solution where one is needed, more cost effectively than the private sector currently offers and at the best possible time.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.ukauthority.com/articles/barnsley-software-could-support-councils-take-up-of-govuk-pay/"&gt;The article&lt;/a&gt; generates some really positive kudos for Barnsley and I'm thrilled with it. Really proud of my excellent team and the fantastic work we’re doing. It’s great to think that our efforts could make a real difference for local gov colleagues and I look forward to continuing those conversations.&lt;/p&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>We need your help!</title>
-			<link>http://kingstonrichard.uk/posts/we-need-your-help</link>
-			<description>&lt;p&gt;​I posted recently about the rollout of our new digital &lt;a href="/20190307"&gt;visitor sign in/out systems&lt;/a&gt; in Westgate, Gateway and the Town Hall.&lt;/p&gt;</description>
-			<guid>http://kingstonrichard.uk/posts/we-need-your-help</guid>
-			<pubDate>Tue, 02 Apr 2019 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;​I posted recently about the rollout of our new digital &lt;a href="/20190307"&gt;visitor sign in/out systems&lt;/a&gt; in Westgate, Gateway and the Town Hall.&lt;/p&gt;
-&lt;p&gt;I'm pleased to report that despite a few teething issues early doors, they're being very well received. So much so that we've started attracting interest from several third party companies looking to buy them from us.&lt;/p&gt;
-&lt;p&gt;This is great news and bodes well with our aspiration to eventually sell them and generate an income once we've squared off our costs, support and maintenance arrangements, etc.&lt;/p&gt;
-&lt;p&gt;The next step then in our process is to make a start on having them become a real-world  products, not just prototypes. That means naming them, branding them, pricing them and more.&lt;/p&gt;
-&lt;p&gt;And it's naming them we'd really like your help with!&lt;/p&gt;
-&lt;p&gt;We'd like to avoid using the word &amp;quot;sign&amp;quot; as a nod back to the non-digital process it replaces and any valid option will need to have a domain name available, but I'll worry about that - you don't need to. And I'm claiming Signy McSignFace now before anyone else does! :)&lt;/p&gt;
-&lt;p&gt;If you've any genuine ideas though for what we might call these things in the outside world, please leave a comment.&lt;/p&gt;
 </content:encoded>
 		</item>
 	</channel>

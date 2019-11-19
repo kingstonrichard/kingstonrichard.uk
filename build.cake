@@ -1,14 +1,12 @@
-#tool "nuget:?package=Wyam&version=2.2.7"
-#addin "nuget:?package=Cake.Wyam&version=2.2.7"
+#tool nuget:?package=Wyam&version=2.2.9
+#addin "nuget:?package=Cake.Wyam&version=2.2.9"
 
 var target = Argument("target", "build");
-
 Task("build")
     .Does(() =>
     {
         Wyam();
     });
-
 Task("preview")
     .Does(() =>
     {
@@ -18,7 +16,6 @@ Task("preview")
             Watch = true
         });
     });
-
 Task("deploy")
     .IsDependentOn("Build")
     .Does(() => 
@@ -40,5 +37,4 @@ Task("deploy")
         StartProcess("git", "checkout master");
         StartProcess("git", "branch -D public");
     });
-
 RunTarget(target);
