@@ -1,5 +1,7 @@
 ---
 title: Our new apprentice rocks!
+tags:
+  - Digital Barnsley
 RedirectFrom:
   - 20191119
 ---
