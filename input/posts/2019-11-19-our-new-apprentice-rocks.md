@@ -1,5 +1,5 @@
 ---
-title: Our new apprentice rocks
+title: Our new apprentice rocks!
 RedirectFrom:
   - 20191119
 ---
