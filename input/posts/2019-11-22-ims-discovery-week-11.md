@@ -30,4 +30,4 @@ Our [Stakeholder Map](https://miro.com/app/board/o9J_kwYo6Ak=/) identifies absol
 
 ![Interest vs Influence Grid](https://miro.medium.com/max/1489/1*0rqkQR7ktS_eM7j7rrm_PQ.png)
 
-As we kick our communication plan into action next week, you might hear from Sharon, Marianne or James at DXW Digital. Please keep an eye out for their messages and respond as quickly as possible to enable us to carry out as much research as is possible in the time we have available. The more we can gather now, the better the outcome overall.
+As we kick our communication plan into action next week, you might hear from Sharon, Marianne or James at DXW Digital. Please keep an eye out for their messages and respond as quickly as possible to enable us to carry out as much research as possible in the time we have available. The more information we can gather now, the better the outcome of the project overall.
