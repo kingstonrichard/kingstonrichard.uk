@@ -31,6 +31,8 @@ Task("deploy")
         
         // Push the public branch to the "public" repository
         // Note: Make sure a remote respository is added named "public"
+        StartProcess("git", "remote remove public");
+        StartProcess("git", "remote add public https://github.com/kingstonrichard/kingstonrichard.github.io");
         StartProcess("git", "push -f public public:master");
         
         // Tidy up by removing the public branch and public repository 
