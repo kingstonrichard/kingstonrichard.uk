@@ -15,7 +15,7 @@ We proposed to spend some money investigating the claim that by allowing other c
 
 The money is effectively awarded to us on a speculate to accumulate basis - the idea that by spending £80K now, we can potentially save hundreds of thousands of pounds from the public purse overall.
 
-And so, over the coming weeks and months we'll be running a Discovery project that will research:
+And so, over the coming weeks and months we'll be running a Discovery project that will answer the following research queries:
 
 * whether there is a market for an alternative Income Management system to those legacy products already out there
 * what are the user needs for a good Income Management product amongst local authorities?

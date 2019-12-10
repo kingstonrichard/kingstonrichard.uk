@@ -13,7 +13,7 @@ We made use of Google Docs, Miro and Slack to do this which have proven to be ex
 
 ![Miro showing collaborators pointers working in the same document](/assets/images/2019-11-22-miro-collaboration.jpg)
 
-Miro in particular has helped us to digitise the post-it notes from our inception week and draw out our key themes which include:
+Miro in particular has helped us to digitise the post-it notes from our inception week and draw out some key themes around our thinking and our ambitions for the project. Understanding these now puts our team on the same clear page and sets out effective markers for the scope of what we're up to: 
 
 * Why we are doing this work?
 * What outcomes are we looking for?
@@ -24,7 +24,7 @@ Miro in particular has helped us to digitise the post-it notes from our inceptio
 * What other work relates to this?
 * What difficulties might we expect along the way?
 
-More on that in a later post. In the meantime, our [Discovery Plan](https://docs.google.com/document/d/1MH5J1GQpceK1ak-hu9DJ-qOOARobZq2vaOS1LwXeSRo/) now more cleanly outlines the background to our project, the research questions we need to answer, the user groups we need support from, the dates we'll be working to and how we'll communicate throughout. Show and tells will be a big part of that and we'll set to work figuring out how to stream those live on YouTube next week for those who want to be involved but can't necessarily attend in person. Our daily standups are likely to use Zoom for the days we're not together too.
+In the meantime, our [Discovery Plan](https://docs.google.com/document/d/1MH5J1GQpceK1ak-hu9DJ-qOOARobZq2vaOS1LwXeSRo/) now more cleanly outlines the background to our project, [the research queries we need to answer](/20190916), the user groups we need support from, the dates we'll be working to and how we'll communicate throughout. Show and tells will be a big part of that and we'll set to work figuring out how to stream those live on YouTube next week for those who want to be involved but can't necessarily attend in person. Our daily standups are likely to use Zoom for the days we're not together too.
 
 Our [Stakeholder Map](https://miro.com/app/board/o9J_kwYo6Ak=/) identifies absolutely everyone we want to engage with throughout the course of our Discovery work and using an interest vs. influence grid, we've put them into 4 key groups to help us manage how we most appropriately communicate with them. Communication tools have been identified to include show & tells, week notes, user research sessions, road mapping exercises, documentation and "other" which gives us a bit of freedom to cover off specific needs as and when they arise.
 
