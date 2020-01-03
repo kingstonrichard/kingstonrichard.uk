@@ -1,5 +1,6 @@
 ---
 Title: We need your help!
+Lead: I'm pleased to report that despite a few teething issues early doors, our new visitor sign in/out system is being well received ​
 Tags: 
   - DigiBook
   - DigiDesk
@@ -8,9 +9,8 @@ Tags:
 RedirectFrom:
   - 20190402
 ---
-​I posted recently about the rollout of our new digital [visitor sign in/out systems](/20190307) in Westgate, Gateway and the Town Hall.
 
-I'm pleased to report that despite a few teething issues early doors, they're being very well received. So much so that we've started attracting interest from several third party companies looking to buy them from us.
+I posted recently [about their rollout] (/20190307) in Westgate, Gateway and the Town Hall which is going so well we've started attracting interest from several third party companies looking to buy them from us.
 
 This is great news and bodes well with our aspiration to eventually sell them and generate an income once we've squared off our costs, support and maintenance arrangements, etc.
 

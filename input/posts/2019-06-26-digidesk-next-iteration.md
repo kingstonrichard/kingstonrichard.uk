@@ -1,12 +1,14 @@
 ---
 Title: DigiDesk - the next iteration (v3)
+Lead: Having received funding from the Commercial Investment Fund for our work on the DigiDesk solution, we're introducing some design changes to create a version 3.
 Tags: 
   -  DigiDesk
   -  Innovation Group
 RedirectFrom:
   - 20190626
 ---
-​Having received funding from the [Commercial Investment Fund](/20190121) for our work on the DigiDesk solution, we're introducing some design changes to create a version 3.
+​
+You can read about [our CIF visit](/20190121) in my earlier post.
 
 Shaun and I spent some time with the Enterprising Barnsley Team, attending their series of Launchpad events. Based at the [Barnsley Digital Media Centre](https://www.barnsleydmc.co.uk) the [Launchpad service](https://www.enterprisingbarnsley.co.uk/start-up/) provides a dedicated team who will support anyone in Barnsley who is looking to start a business, no matter what stage their idea or business is at. For us of course, DigiBook is an early stage prototype that we hope to sell and so we were keen to get a solid understanding of how the commercial aspects would work. They're events provide that.
 

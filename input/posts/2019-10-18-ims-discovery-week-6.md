@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 6
+Lead: Our requirements are published and ready for review. 
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,7 +8,8 @@ RedirectFrom:
   - 20191018
   - ims-disco-week-6
 ---
-Our requirements are published. Not on the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/) as we first intended, but rather via [YORTender](https://www.yortender.co.uk/), our usual route for obtaining quotes and securing suppliers.
+
+Not on the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/) as we first intended, but rather via [YORTender](https://www.yortender.co.uk/), our usual route for obtaining quotes and securing suppliers.
 
 We've opted to take this route based on guidance from our corporate procurement team - the long and short of it being that our organisation doesn't currently use the Digital Marketplace and we have established processes for working with YORtender already - so it makes the whole thing run a lot more smoothly for us.
 

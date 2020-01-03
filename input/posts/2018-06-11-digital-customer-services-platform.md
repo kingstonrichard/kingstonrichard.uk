@@ -1,11 +1,11 @@
 ---
 Title: Our Digital Customer Services Platform
-tags:
+Lead: I gave a presentation about the Digital Customer Services Platform to our Digital Leadership Team on Friday and I'm happy to say it was well received.
+Tags:
   - Requestry
 RedirectFrom:
   - 20180611
 ---
-I gave a presentation about the Digital Customer Services Platform to our Digital Leadership Team on Friday and I'm happy to say it was well received.
 
 The group was supportive of the intention, seemed excited by the opportunity it presents and I look forward to taking the full business case in next month.
 

@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 13
+Lead: Our Local Gov Survey is live and we need your help! 
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,7 +8,6 @@ RedirectFrom:
   - 20191206
   - ims-disco-week-13
 ---
-Our [Local Gov Survey](https://www.surveymonkey.co.uk/r/BMBCIMS12) is live and we need your help! 
 
 If you use or are connected to an income management system in Local Government, please take 15 minutes to [fill it in](https://www.surveymonkey.co.uk/r/BMBCIMS12) so we can better understand your requirements. The data we capture through our survey will supplement the findings from our face to face workshops and ultimately help the project to make a recommendation back to MHCLG in relation to our [key research queries](/20190916). It will be available to complete until some time in early January when we'll need to start processing the information given through it.
 

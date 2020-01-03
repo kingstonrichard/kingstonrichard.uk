@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 9
+Lead: We spent the majority of this week scoring bids from interested suppliers and I'm pleased to announce we have selected one and we'll award a contract to them first thing next week.
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,7 +8,6 @@ RedirectFrom:
   - 20191108
   - ims-disco-week-9
 ---
-We spent the majority of this week scoring bids from interested suppliers and I'm pleased to announce we have selected one and we'll award a contract to them first thing next week.
 
 Our evaluation panel met on Monday and reviewed paper submissions which included outline plans for project delivery, details of resources being deployed, pricing and experience of runnning similar projects to equally tight deadlines.
 

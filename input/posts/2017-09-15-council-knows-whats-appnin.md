@@ -1,12 +1,12 @@
 ---
 Title: Council knows what's 'appnin'
+Lead: There's nothing quite like delivering customer value that's fit for the future, scalable and miles ahead of the curve ;-)
 Tags: 
   - Progressive Web App
 RedirectFrom:
   - webapp
   - 20170915
 ---
-There's nothing quite like delivering customer value that's fit for the future, scalable and miles ahead of the curve ;-)
 
 Today I made it into the local paper with some members of my team. Not all of them could make the photo call but for those that did, we're now immortalised in ink and digital print forever more.
 

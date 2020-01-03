@@ -1,5 +1,6 @@
 ---
 Title: £80,000 of Local Digital Funding approved
+Lead: We've been awarded funding to progress the rollout of our income management system, nationally!
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,7 +8,8 @@ RedirectFrom:
   - 20190916
   - ims-disco-go
 ---
-On Thursday came [the official announcement](https://twitter.com/kingstonrichard/status/1172140492051636224) that we'd been awarded the maximum £80,000 from the [Local Digital Fund](https://localdigital.gov.uk/fund/) to progress the rollout of our income management system, nationally!
+
+On Thursday came [the official announcement](https://twitter.com/kingstonrichard/status/1172140492051636224) that we'd been awarded the maximum £80,000 from the [Local Digital Fund](https://localdigital.gov.uk/fund/).
 
 We made [our bid to the fund](https://docs.google.com/document/d/1I4EPlTWphcculCRcoeXt-2leX4F8AGTL2XGG9sBE9P4) back in August, on the premise that the income management function within council's was uncessarily burdened by legacy software products and that our in-house development could make a real difference as it has done in Barnsley.
 

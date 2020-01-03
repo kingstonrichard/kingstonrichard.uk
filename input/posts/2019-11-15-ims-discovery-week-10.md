@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 10
+Lead: On Monday morning we announced that we'd awarded the contract for our Discovery project. 
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,7 +8,7 @@ RedirectFrom:
   - 20191115
   - ims-disco-week-10
 ---
-On Monday morning we announced that we'd awarded the contract for our Discovery project to [DXW Digital](https://www.dxw.com), a London and Leeds based agency that believe it’s possible for the public sector to become something recognisably, radically better, and want to help make that happen.
+[DXW Digital](https://www.dxw.com) were the succesful party, a London and Leeds based agency that believe it’s possible for the public sector to become something recognisably, radically better, and want to help make that happen.
 
 Having sorted out the formalities through Tuesday, our Barnsley contingent set straight to work on Wednesday visiting their trendy Leeds offices and meeting the team. After a tour and rather tasty coffee (thanks [Poss](https://twitter.com/I_am_poss)), we made ourselves comfortable in their conference space and set out our expectations for the day.
 

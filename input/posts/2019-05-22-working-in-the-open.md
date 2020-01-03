@@ -1,11 +1,11 @@
 ---
 Title: Working in the open
-tags:
+Lead: Yesterday we held our first *external* show and tell session as a product team, demonstrating the features of our in-house developed Income Management System.
+Tags:
   - Income Management
 RedirectFrom:
   - 20190522
 ---
-Yesterday we held our first *external* show and tell session as a product team, demonstrating the features of our in-house developed Income Management System.
 
 I've [blogged about our Income Management System before](/20190102) and how thrilled we are that we took the plunge and invested our energies into creating it. It's a fantastic solution that we're thrilled with and we're always happy to talk about it and sing it's praises.
 

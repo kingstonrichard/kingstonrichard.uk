@@ -1,12 +1,11 @@
 ---
 Title: Launch of Barnsley's TechTown Action Plan
-promo: assets/images/2018-06-21-techtown-slide.jpg
-tags:
+Lead: Yesterday I had the great pleasure of presenting our Skunkworks activity at the launch event for Barnsley's TechTown Action Plan - A Digital Campus down at the DMC.
+Tags:
   - TechTown
 RedirectFrom:
   - 20180621
 ---
-Yesterday I had the great pleasure of presenting our Skunkworks activity at the launch event for Barnsley's TechTown Action Plan - A Digital Campus down at the DMC.
 
 ![TechTown, Digital City Futures presented on a large screen](/assets/images/2018-06-21-techtown-slide.jpg)
 

@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 12
+Lead: Things have kicked into overdrive this week as we aim to run our first user research workshop on December 11th!
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,8 +8,6 @@ RedirectFrom:
   - 20191129
   - ims-disco-week-12
 ---
-
-Things have kicked into overdrive this week as we aim to run our first user research workshop on December 11th!
 
 This will be our "Northern Workshop", designed to engage with individuals from our [Stakeholder Map](https://miro.com/app/board/o9J_kwYo6Ak=/) who are roughly grouped together at the top of the country, closest to where we're based. Our map shows that we're ultimately keen to reach people covering the length and breadth of the country so it's logical to split our research sessions up into geographical areas and run several.
 

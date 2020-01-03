@@ -1,6 +1,7 @@
 ---
 Title: The Innovation Group and the Commercial Investment Fund
-tags:
+Lead: On Wednesday last week I attended the Commercial Investment Fund board with a view to securing some monies to progress three of our innovation group projects from prototype to product.
+Tags:
   - DigiBook
   - DigiDesk
   - DigiMeet
@@ -8,7 +9,6 @@ tags:
 RedirectFrom:
   - 20190121
 ---
-On Wednesday last week I attended the Commercial Investment Fund board with a view to securing some monies to progress three of our innovation group projects from prototype to product.
 
 The Commercial Investment Fund has been made available to support projects that are either innovative or have the potential to generate returns for the council. In the case of our prototypes, they do both in that they're innovative and we can potentially market them to other organisations.
 

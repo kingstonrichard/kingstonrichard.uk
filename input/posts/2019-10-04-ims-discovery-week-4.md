@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 4
+Lead: Week 4 was what I'm going to refer to as procurement week!  
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,7 +8,8 @@ RedirectFrom:
   - 20191004
   - ims-disco-week-4
 ---
-Week 4 was what I'm going to refer to as procurement week! Having engaged our Contracts & Commissioning Team in [week 2](/20190920), they've subsequently involved our Corporate Procurement Team. 
+
+Having engaged our Contracts & Commissioning Team in [week 2](/20190920), they've subsequently involved our Corporate Procurement Team.
 
 The reasoning behind that is that the value of the contract we're looking to award will be over £70K and so presumably that hits some sort of internal trigger. So, I've been engaged with Corporate Procurment for most of the week completing various document templates that outline the project and the need for us to bring in support. So far, I've completed and returned:
 

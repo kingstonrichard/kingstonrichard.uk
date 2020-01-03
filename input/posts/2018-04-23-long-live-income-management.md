@@ -1,12 +1,12 @@
 ---
 Title: Long live the Income Management System!
-tags:
+Lead: This morning, under the expert guidance of Louise Kilner, the final piece of the Income Management puzzle slotted perfectly into place. 
+Tags:
   - Income Management
 RedirectFrom:
   - newims
   - 20180423
 ---
-This morning, under the expert guidance of Louise Kilner, the final piece of the Income Management puzzle slotted perfectly into place.
 
 Over the last 7 months the technical team made up of Zoe Crosby, [Mathew Booth](https://twitter.com/mpb87), [Dan Roddis](https://twitter.com/danroddis) and Dean Swift have been working tirelessly to make the dream a reality – and today they succeeded!
 

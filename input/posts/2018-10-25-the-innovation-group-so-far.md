@@ -1,11 +1,11 @@
 ---
 Title: The innovation group so far
-tags:
+Lead: Yesterday I was invited to our Digital Leadership Team to present the progress we've made at the innovation group since it began.
+Tags:
   - Innovation Group
 RedirectFrom:
   - 20181025
 ---
-Yesterday I was invited to our Digital Leadership Team to present the progress we've made at the innovation group since it began.
 
 Having set the terms and conditions of the group on June 5th, our first ever meeting was July 26th and we've subsequently then met every fortnight since.
 

@@ -1,12 +1,14 @@
 ---
 Title: Iterating the desk buttons
-tags:
+Lead: At the innovation group, in anticipation of seeing results from the workforce mobilisation theme of our Digital First programme, we've been busily beavering away with our Desk Occupancy Monitors.
+Tags:
   - DigiDesk
   - Innovation Group
 RedirectionFrom:
   - 20181009
 ---
-At the innovation group, in anticipation of seeing results from the workforce mobilisation theme of our Digital First programme, we've been busily beavering away with our Desk Occupancy Monitors - I've [blogged about the first version previously](/20180829).
+
+I've [blogged about the first version previously](/20180829).
 
 We've come a long way since v1.0, having:
 

@@ -1,13 +1,13 @@
 ---
 Title: Council software backed for national rollout
-tags:
+Lead: Our local paper published a story about our Income Management system today and the potential for it's future rollout.
+Tags:
   - Income Management
 RedirectFrom:
   - 20190531
 ---
-Our local paper published a story about our [Income Management system](/20190522) today and the potential for it's future rollout.
 
-Continuing the conversation about our Income Management System, the Chronicle released an article today about it and its potential to be rolled out into other local government organisations.
+Continuing the conversation about [our Income Management System](/20190522), the Chronicle released an article today about it and its potential to be rolled out into other local government organisations.
 
 [The article](https://www.barnsleychronicle.com/article/council-software-backed-for-national-roll-out) is a little presumptious in it's title but correctly highlights that conversations are happening to see if we can make that a reality.
 

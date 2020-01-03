@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 3
+Lead: As week three draws to a close we complete our draft requirements for a Digital Outcome and prepare to publish them.
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,7 +8,8 @@ RedirectFrom:
   - 20190927
   - ims-disco-week-3
 ---
-As week three draws to a close we complete [our draft requirements for a Digital Outcome](https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4) and prepare to publish them.
+
+You can read our requirements in full at [https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4](https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4).
 
 We haven't taken the time to carry out early market engagement simply because there isn't much time available. That might come back to bite us, but we'll see how we get on.
 

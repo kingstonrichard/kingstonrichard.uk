@@ -1,13 +1,13 @@
 ---
 Title: An update from the innovation group
-tags:
+Lead: Our desk occupancy monitor prototypes are built and ready to rollout after only three sessions putting them together.
+Tags:
    - DigiDesk
    - Innovation Group
 RedirectFrom: 
    - dom-proto
    - 2180829
 ---
-Our desk occupancy monitor prototypes are built and ready to rollout after only three sessions putting them together.
 
 There's been a lot of talk at work recently about hotdesking, particularly in the Workforce Mobilisation theme of our Digital First Programme. With that in mind our innovation group has been busy working up a prototype solution that can show where busy / free desks are in real-time, thanks to a great idea from [Paul Bell](https://twitter.com/Paul81708531).
 

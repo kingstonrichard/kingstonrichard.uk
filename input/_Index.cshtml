@@ -11,7 +11,7 @@
             <hr>
             @if(!string.IsNullOrWhiteSpace(lead))
             {
-                <p>@lead</p>
+                <p>@Html.Raw(lead)</p>
             }else
             {
                 @Html.Raw(post.String(BlogKeys.Excerpt))

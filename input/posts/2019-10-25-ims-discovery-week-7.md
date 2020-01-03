@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 7
+Lead: Our requirements remain published for a period of 14 days and organisations are invited to submit against them.
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,7 +8,6 @@ RedirectFrom:
   - 20191025
   - ims-disco-week-7
 ---
-Our requirements remain published for a period of 14 days and organisations are invited to submit against them.
 
 Our team in Barnsley have held clarification calls with several interested parties so far across the week and we're encouraged by the conversations we've been having. All the questions asked of us have been noted along with our answers and are being shared openly on our YorTender portal. This will help to make sure all the submissions we receive are as appropriate as possible.
 

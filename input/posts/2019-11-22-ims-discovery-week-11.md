@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 11
+Lead: I think it's fair to describe this week as a consolidation and learning effort. 
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,7 +8,8 @@ RedirectFrom:
   - 20191122
   - ims-disco-week-11
 ---
-This week we've consolidated all the detail from our [LDG funding bid](https://docs.google.com/document/d/1I4EPlTWphcculCRcoeXt-2leX4F8AGTL2XGG9sBE9P4), [tender requirements](https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4), [YouTube show & tell](https://www.youtube.com/watch?v=Mh4wWuZc1ZA), [blog posts](https://kingstonrichard.uk/tags/Income-Management), [Slack channel](https://localdigital.slack.com/archives/CJW65RNAY/) and [inception week](/20191115) into a distilled Discovery Plan and Stakeholder Map.
+
+We've brought together all the detail from our [LDG funding bid](https://docs.google.com/document/d/1I4EPlTWphcculCRcoeXt-2leX4F8AGTL2XGG9sBE9P4), [tender requirements](https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4), [YouTube show & tell](https://www.youtube.com/watch?v=Mh4wWuZc1ZA), [blog posts](https://kingstonrichard.uk/tags/Income-Management), [Slack channel](https://localdigital.slack.com/archives/CJW65RNAY/) and [inception week](/20191115) into a distilled Discovery Plan and Stakeholder Map.
 
 We made use of Google Docs, Miro and Slack to do this which have proven to be extremely useful tools, not only for collaborating remotely, but even to work more openly together when we're sitting in the same room. As [Sharon](https://twitter.com/pixlz) quite nicely put it "Part of the reason for talking [in Slack] rather than via DM [or email] is so that the conversation can be 'overheard'". Both Google Docs and Slack also have fantastic features that allow you to "see" each other working and making changes to documents in real time!
 

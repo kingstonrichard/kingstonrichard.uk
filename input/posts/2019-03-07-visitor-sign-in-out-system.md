@@ -1,12 +1,14 @@
 ---
 Title: Visitor Sign In / Out System
-tags:
+Lead: Following my earlier post about the Innovation Group and the Commercial Investment Fund, we've started rolling out some kit.
+Tags:
   - DigiBook
   - Innovation Group
 RedirectFrom:
   - 20190307
 ---
-Following my earlier post about the Innovation Group and the Commercial Investment Fund, you may might have noticed that in the reception areas of Gateway, Westgate and the Town Hall, these little beauties have appeared:
+
+You may might have noticed that in the reception areas of Gateway, Westgate and the Town Hall, these little beauties have appeared:
 
 ![System situ](/assets/images/2019-03-07-visitor-system.jpg)
 

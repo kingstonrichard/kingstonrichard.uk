@@ -1,12 +1,12 @@
 ---
 Title: We built our own Income Management solution
-tags:
+Lead: We recently took the decision to develop our own critical software solution, over renewing an incumbent contract. This is how it happened.
+Tags:
   - Income Management
 RedirectFrom: 
   - ims-build
   - 20190102
 ---
-We recently took the decision to develop our own critical software solution, over renewing an incumbent contract. This is how it happened.
 
 Let me start by saying we didn't take the decision to "build over buy" lightly. We were in somewhat of a sticky situation with limited options. Ultimately, it was a good call and we're now enjoying the benefits, but there was a lot of nervousness given how complex a beast the function of income management is.
 

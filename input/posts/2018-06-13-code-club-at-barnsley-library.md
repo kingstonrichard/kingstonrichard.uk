@@ -1,13 +1,13 @@
 ---
 Title: Code Club at Barnsley Library
-tags:
+Lead: I gave up some of my Saturday this week to attend something called a Code Club at Barnsley Library. 
+Tags:
   - Code Club
 RedirectFrom:
   - 20180613
 ---
-I gave up some of my Saturday this week to attend something called a Code Club.
 
-I gave up some of my Saturday this week to attend something called a Code Club at Barnsley Library. It's an event that runs weekly for 5-8 year olds, teaching them how to code and work with electronics - I was blown away by what I saw!
+It's an event that runs weekly for 5-8 year olds, teaching them how to code and work with electronics - I was blown away by what I saw!
 
 The sessions run for an hour and a half at Wellington House and give the kids access to Raspberry Pi's on which they can create their own software programs using HTML, CSS, Scratch and straight up Python code. They can also use electronic components on breadboards to read sensors, process their data and affect buzzers, LED's and the likes, courtesy of [CamJam Edu Kits](http://camjam.me/?page_id=618).
 

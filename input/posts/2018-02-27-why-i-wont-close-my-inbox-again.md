@@ -1,12 +1,12 @@
 ---
 Title: Why I won't close my inbox again
-tags:
+Lead: I learned a lot from closing my inbox over the half term week. Not all of it good. Here's what I've ultimately made of it all.
+Tags:
   - Work Life Balance
 RedirectFrom: 
   - openinbox
   - 20180227
 ---
-I learned a lot from closing my inbox over the half term week. Not all of it good. Here's what I've ultimately made of it all.
 
 Not so long ago I wrote about how [I closed my inbox for a week](/20180219) in an attempt to take back control of some of my time. I was inefficiently spending way too much of it dealing with a backlog of emails after holidays, rather than getting things done, as I saw it. I had a great response to that post and I understand that my employers are even now having conversations about how something similar could be used to benefit all staff in the future - which is great! Also, our arms lengths housing management organisation have taken an interest too.
 

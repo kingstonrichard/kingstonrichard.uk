@@ -1,11 +1,11 @@
 ---
 Title: Digital Campus - DMC2 is go!
-tags:
+Lead: Following the launch of Barnsley's TechTown Action Plan - A Digital Campus, it was great to catch up with the working group yesterday morning down at the DMC.​
+Tags:
   - TechTown
 RedirectFrom:
   - 20190705
 ---
-Following the launch of Barnsley's TechTown Action Plan: A Digital Campus, it was great to catch up with the working group yesterday morning down at the DMC.​
 
 ![TechTown Slide](/assets/images/2019-07-05-techtown-slide.png)
 It was the first meeting we'd had since December but while it's been "quiet" for the group as a whole, there has been a whole lot of activity happening behind the scenes with individual parties! 

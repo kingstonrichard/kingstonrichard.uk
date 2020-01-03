@@ -1,12 +1,12 @@
 ---
 Title: Meeting Room Screens
-tags:
+Lead: They're a little way off being ready yet, as we have a lot of work to do in finalising the control software and handling the touchscreen interfaces​ but I'm very pleased with how the Meeting Room Screens are turning out.
+Tags:
   - DigiMeet
   - Innovation Group
 RedirectFrom:
   - 20190125
 ---
-They're a little way off being ready yet, as we have a lot of work to do in finalising the control software and handling the touchscreen interfaces​. But, I'm very pleased with how the #DigitalFirst Meeting Room Screens are turning out.
 
 Yesterday I took delivery of the first draft 3D printed case that I'd designed, thanks to our colleagues down at Central Library and their Ultimaker 3D printer. Many thanks to Paul Bennett for offering it up and to Rory Cooper for printing it for us.
 

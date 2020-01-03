@@ -1,5 +1,6 @@
 ---
 Title: We've branded our "Digi" series
+Lead: Digi"NAME" is the format we ultimately settled on, giving us DigiBook, DigiDesk and DigiMeet so far.
 Tags: 
   - DigiBook
   - DigiDesk
@@ -9,7 +10,8 @@ Tags:
 RedirectFrom:
   - 20190806
 ---
-Thank you to everyone who helped us [name the first three prototypes](/20190402) that we produced in our Innovation Group. Digi"NAME" was the format we ultimately settled on, giving us DigiBook, DigiDesk and DigiMeet so far.
+
+Thank you to everyone who helped us [name the first three prototypes](/20190402) that we produced in our Innovation Group.
 
 This naming format ties in nicely with our Digital First initiative and gives us a nice model to follow in the future. We're already working on a DigiSafe prototype and there are other ideas in the pipeline that suit too.
 

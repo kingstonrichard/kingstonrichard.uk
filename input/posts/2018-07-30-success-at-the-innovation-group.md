@@ -1,12 +1,12 @@
 ---
 Title: Success at the Innovation Group
-tags:
+Lead: Our innovation group held it's first official hackday today and I'm pleased to say it went amazingly well and has already produced the makings of its first prototype.
+Tags:
   - DigiDesk
   - Innovation Group
 RedirectFrom:
   - 20180730
 ---
-Our innovation group held it's first official hackday today and I'm pleased to say it went amazingly well and has already produced the makings of its first prototype.
 
 On Thursday last week, the innovation group group spent seven solid hours, designing, making and prototyping down at the [Barnsley Digital Media Centre](https://www.barnsleydmc.co.uk) into which we took soldering irons, glue guns, electrical components, laptops, eInk screens, Wi-Fi microcontrollers, batteries, and a whole host of other bits and pieces that would be too long to list.
 

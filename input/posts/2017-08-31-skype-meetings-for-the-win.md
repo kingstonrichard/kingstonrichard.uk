@@ -1,11 +1,11 @@
 ---
 Title: Skype meetings for the win!
+Lead: We've been piloting Skype as a video conferencing tool and recently I had a chance to see it earn it's keep. Very much a fan of the opportunities it brings.
 Tags: 
   - Digital First 
 RedirectFrom:
   - 20170831
 ---
-We've been piloting Skype as a video conferencing tool and recently I had a chance to see it earn it's keep. Very much a fan of the opportunities it brings.
 
 So yesterday we held a crisis meeting with one of our technology suppliers.
 

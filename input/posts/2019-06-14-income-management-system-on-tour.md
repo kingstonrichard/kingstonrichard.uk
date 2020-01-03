@@ -1,12 +1,12 @@
 ---
 Title: Income Management System on Tour
-tags:
+Lead: Today we paid a visit to the Home Office, following up on our conversation about the potential of rolling out our Income Management System for use by other organisations.
+Tags:
   - Income Management
   - Local Digital Fund
 RedirectFrom:
   - 20190614
 ---
-Today we paid a visit to the Home Office, following up on our conversation about the potential of rolling out our Income Management System for use by other organisations.
 
 Our Head of IT ([Dave](https://twitter.com/davidrob2002)) and I met with colleagues from the Local Gov Collaboration Unit (part of the Ministry of Housing, Culture and Local Government) and the Gov.UK Pay Product Team (part of the Government Digital Service) today - specifically [Ben Cheetham](https://twitter.com/bforben), [Adam Thoulass](https://twitter.com/AdamThoulass), [Egle Uzkuraityte](https://twitter.com/egle_a_ieva), [Katie Bates](https://uk.linkedin.com/in/katie-bates-a053b236), [Miriam Raines](https://twitter.com/MiriamAliceR) and [Richard Blake](https://uk.linkedin.com/in/richardblake86) joined via Google Hangout.
 

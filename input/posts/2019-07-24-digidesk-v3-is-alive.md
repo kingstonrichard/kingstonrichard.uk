@@ -1,12 +1,12 @@
 ---
 Title: DigiDesk v3 is alive!
+Lead: Today we've completed the breadboard development of DigiDesk v3 and it works an absolute treat!
 Tags: 
   - DigiDesk
   - Innovation Group
 RedirectFrom:
   - 20190724
 ---
-Today we've completed the breadboard development of DigiDesk v3 and it works an absolute treat!
 
 [![Desk Occupancy Monitor v3.0](https://img.youtube.com/vi/EPXpI4ZLL34/0.jpg)](https://www.youtube.com/watch?v=EPXpI4ZLL34)
 

@@ -1,11 +1,11 @@
 ---
 Title: Our new apprentice rocks!
-tags:
+Lead: On September 23rd we took delivery of something very new and very shiny! Our new apprentice - her name is Robyn and if I had to describe her in a word I would say "outstanding"!
+Tags:
   - Digital Barnsley
 RedirectFrom:
   - 20191119
 ---
-On September 23rd we took delivery of something very new and very shiny! Our new apprentice - her name is Robyn and if I had to describe her in a word I would say "outstanding"!
 
 Robyn joins us from [Barnsley College](https://barnsley.ac.uk), working 4 days a week split between my web team and our SAP team. On Monday's and Tuesday's she creates SAP programs using ABAP and on Wednesday's and Thursday's she builds websites and digital media tools. She spends her Friday's at college.
 

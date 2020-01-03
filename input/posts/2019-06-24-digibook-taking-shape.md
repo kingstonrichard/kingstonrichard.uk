@@ -1,12 +1,12 @@
 ---
 Title: DigiBook is taking shape
-tags:
+Lead: Having succesfully trialled our visitor management system in the Town Hall, Gateway Plaza, Westgate Plaza, Smithies and the DMC, we've been working behind the scenes on getting it market ready - that is to say, sell it and generate an income from it.
+Tags:
   - DigiBook
   - Innovation Group
 RedirectFrom:
   - 20190624
 ---
-Having succesfully trialled our visitor management system in the Town Hall, Gateway Plaza, Westgate Plaza, Smithies and the DMC, we've been working behind the scenes on getting it market ready - that is to say, sell it and generate an income from it.
 
 We secured funding from the Commercial Investment board back in January to make that happen and since then we've been refactoring the code to work in a multi-tenanted SaaS (software as a service) environment, we've attended several Launchpad sessions and we've organised the design for its final form factor.
 

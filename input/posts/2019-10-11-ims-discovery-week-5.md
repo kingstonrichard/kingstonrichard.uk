@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 5
+Lead: We revised and published our draft requirements for a Digital Outcome this week and then promptly withdrew them!
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,9 +8,8 @@ RedirectFrom:
   - 20191011
   - ims-disco-week-5
 ---
-We revised and published [our draft requirements for a Digital Outcome](https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4) this week and then promptly withdrew them!
 
-Turns out we published our earlier draft requirements that were asking for a Digital Specialist, rather than the latest version that asks for a Digital Outcome. As a result, all of the questions we received seemed irrelevant or confused - in fact, some of them were more statements advising we ask for an outcome, which we thought we had!
+Turns out we published [our earlier draft requirements](https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4) that were asking for a Digital Specialist, rather than the latest version that asks for a Digital Outcome. As a result, all of the questions we received seemed irrelevant or confused - in fact, some of them were more statements advising we ask for an outcome, which we thought we had!
 
 So, we pulled them again today and we plan to regroup and go out again next week. Apologies to anyone who submitted a question or showed an interest in the work. We do still require support and we will be back shortly.
 
