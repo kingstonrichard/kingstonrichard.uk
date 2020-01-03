@@ -1,6 +1,6 @@
 ---
-title: DigiDesk - the next iteration (v3)
-tags: 
+Title: DigiDesk - the next iteration (v3)
+Tags: 
   -  DigiDesk
   -  Innovation Group
 RedirectFrom:

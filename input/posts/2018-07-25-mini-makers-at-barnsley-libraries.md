@@ -1,5 +1,5 @@
 ---
-title: Mini Makers at Barnsley Library
+Title: Mini Makers at Barnsley Library
 tags:
   - Barnsley Makers
 RedirectFrom:

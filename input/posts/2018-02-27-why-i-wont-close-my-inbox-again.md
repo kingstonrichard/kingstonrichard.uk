@@ -1,5 +1,5 @@
 ---
-title: Why I won't close my inbox again
+Title: Why I won't close my inbox again
 tags:
   - Work Life Balance
 RedirectFrom: 

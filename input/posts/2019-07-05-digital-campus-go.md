@@ -1,5 +1,5 @@
 ---
-title: Digital Campus - DMC2 is go!
+Title: Digital Campus - DMC2 is go!
 tags:
   - TechTown
 RedirectFrom:

@@ -1,6 +1,6 @@
 ---
-title: We've branded our "Digi" series
-tags: 
+Title: We've branded our "Digi" series
+Tags: 
   - DigiBook
   - DigiDesk
   - DigiMeet

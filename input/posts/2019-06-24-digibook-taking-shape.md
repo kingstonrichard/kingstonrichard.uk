@@ -1,5 +1,5 @@
 ---
-title: DigiBook is taking shape
+Title: DigiBook is taking shape
 tags:
   - DigiBook
   - Innovation Group

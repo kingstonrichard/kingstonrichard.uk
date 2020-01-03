@@ -1,5 +1,5 @@
 ---
-title: Code Club at Barnsley Library
+Title: Code Club at Barnsley Library
 tags:
   - Code Club
 RedirectFrom:

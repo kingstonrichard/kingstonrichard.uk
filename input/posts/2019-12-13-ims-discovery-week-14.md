@@ -1,6 +1,6 @@
 ---
-title: IMS Discovery - Week 14
-tags: 
+Title: IMS Discovery - Week 14
+Tags: 
   - Income Management
   - Local Digital Fund
 RedirectFrom:

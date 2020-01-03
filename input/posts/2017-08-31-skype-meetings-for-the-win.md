@@ -1,6 +1,6 @@
 ---
-title: Skype meetings for the win!
-tags: 
+Title: Skype meetings for the win!
+Tags: 
   - Digital First 
 RedirectFrom:
   - 20170831

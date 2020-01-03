@@ -1,5 +1,5 @@
 ---
-title: The challenge of digitising council services
+Title: The challenge of digitising council services
 tags:
   - Digital First
   - Barnsley Council

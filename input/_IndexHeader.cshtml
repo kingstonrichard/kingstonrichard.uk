@@ -4,7 +4,13 @@
     {
         string lead = post.String(BlogKeys.Lead);
         <h2>@post.WithoutSettings.String(BlogKeys.Title)</h2>
-        @Html.Raw(post.String(BlogKeys.Excerpt))
+        @if(!string.IsNullOrWhiteSpace(lead))
+        {
+          <p>@lead</p>
+        }else
+        {
+          @Html.Raw(post.String(BlogKeys.Excerpt))
+        }
         <a href="@Context.GetLink(post)" class="special">Read</a>
     }
   </div>

@@ -1,5 +1,5 @@
 ---
-title: We built our own Income Management solution
+Title: We built our own Income Management solution
 tags:
   - Income Management
 RedirectFrom: 

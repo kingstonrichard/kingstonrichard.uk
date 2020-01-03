@@ -1,5 +1,5 @@
 ---
-title: An update from the innovation group
+Title: An update from the innovation group
 tags:
    - DigiDesk
    - Innovation Group

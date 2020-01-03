@@ -1,6 +1,6 @@
 ---
-title: Post title
-tags: 
+Title: Post title
+Tags: 
   - First Tag
   - Second Tag
 RedirectFrom:

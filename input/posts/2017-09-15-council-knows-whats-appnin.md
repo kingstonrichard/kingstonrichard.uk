@@ -1,6 +1,6 @@
 ---
-title: Council knows what's 'appnin'
-tags: 
+Title: Council knows what's 'appnin'
+Tags: 
   - Progressive Web App
 RedirectFrom:
   - webapp

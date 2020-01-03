@@ -1,5 +1,5 @@
 ---
-title: The Barnsley Innovation Group
+Title: The Barnsley Innovation Group
 tags:
   - Innovation Group
 RedirectFrom:

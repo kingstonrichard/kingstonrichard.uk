@@ -1,5 +1,5 @@
 ---
-title: Working in the open
+Title: Working in the open
 tags:
   - Income Management
 RedirectFrom:

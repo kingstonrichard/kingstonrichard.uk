@@ -1,5 +1,5 @@
 ---
-title: Launch of Barnsley's TechTown Action Plan
+Title: Launch of Barnsley's TechTown Action Plan
 promo: assets/images/2018-06-21-techtown-slide.jpg
 tags:
   - TechTown

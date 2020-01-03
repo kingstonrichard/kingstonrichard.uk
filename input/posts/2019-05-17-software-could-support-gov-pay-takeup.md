@@ -1,6 +1,6 @@
 ---
-title: Barnsley software could support councils’ take-up of GOV.UK Pay
-tags: 
+Title: Barnsley software could support councils’ take-up of GOV.UK Pay
+Tags: 
   - Income Management
 RedirectFrom:
   - 20190517

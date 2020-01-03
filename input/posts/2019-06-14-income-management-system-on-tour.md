@@ -1,5 +1,5 @@
 ---
-title: Income Management System on Tour
+Title: Income Management System on Tour
 tags:
   - Income Management
   - Local Digital Fund

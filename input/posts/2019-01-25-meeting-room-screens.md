@@ -1,5 +1,5 @@
 ---
-title: Meeting Room Screens
+Title: Meeting Room Screens
 tags:
   - DigiMeet
   - Innovation Group

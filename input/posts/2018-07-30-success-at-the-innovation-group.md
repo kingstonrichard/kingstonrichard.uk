@@ -1,5 +1,5 @@
 ---
-title: Success at the Innovation Group
+Title: Success at the Innovation Group
 tags:
   - DigiDesk
   - Innovation Group

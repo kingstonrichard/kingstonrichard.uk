@@ -1,5 +1,5 @@
 ---
-title: Setting up my SX1276 LoRaWAN board
+Title: Setting up my SX1276 LoRaWAN board
 redirect_from:
   - /20171223
 ---

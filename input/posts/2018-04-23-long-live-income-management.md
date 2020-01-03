@@ -1,5 +1,5 @@
 ---
-title: Long live the Income Management System!
+Title: Long live the Income Management System!
 tags:
   - Income Management
 RedirectFrom:

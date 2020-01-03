@@ -1,6 +1,6 @@
 ---
-title: £80,000 of Local Digital Funding approved
-tags: 
+Title: £80,000 of Local Digital Funding approved
+Tags: 
   - Income Management
   - Local Digital Fund
 RedirectFrom:

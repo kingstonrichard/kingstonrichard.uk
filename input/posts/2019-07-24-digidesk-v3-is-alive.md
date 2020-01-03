@@ -1,6 +1,6 @@
 ---
-title: DigiDesk v3 is alive!
-tags: 
+Title: DigiDesk v3 is alive!
+Tags: 
   - DigiDesk
   - Innovation Group
 RedirectFrom:

@@ -1,5 +1,5 @@
 ---
-title: The innovation group so far
+Title: The innovation group so far
 tags:
   - Innovation Group
 RedirectFrom:

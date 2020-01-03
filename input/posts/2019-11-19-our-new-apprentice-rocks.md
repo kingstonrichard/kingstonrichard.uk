@@ -1,5 +1,5 @@
 ---
-title: Our new apprentice rocks!
+Title: Our new apprentice rocks!
 tags:
   - Digital Barnsley
 RedirectFrom:

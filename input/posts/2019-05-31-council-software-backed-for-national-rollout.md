@@ -1,5 +1,5 @@
 ---
-title: Council software backed for national rollout
+Title: Council software backed for national rollout
 tags:
   - Income Management
 RedirectFrom:

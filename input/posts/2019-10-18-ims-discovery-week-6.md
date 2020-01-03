@@ -1,6 +1,6 @@
 ---
-title: IMS Discovery - Week 6
-tags: 
+Title: IMS Discovery - Week 6
+Tags: 
   - Income Management
   - Local Digital Fund
 RedirectFrom:

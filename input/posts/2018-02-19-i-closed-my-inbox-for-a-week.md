@@ -1,5 +1,5 @@
 ---
-title: I closed my inbox for a week
+Title: I closed my inbox for a week
 tags:
   - Work Life Balance
 RedirectFrom:
