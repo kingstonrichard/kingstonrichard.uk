@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 15
+Lead: The main event this week was our user research interview with Huntingdonshire, South Cambridgeshire and Cambridge City Councils down in Huntingdon.
 Tags:
   - Income Management
   - Local Digital Fund
@@ -8,7 +9,6 @@ RedirectFrom:
   - ims-disco-week-15
 ---
 
-The main event this week was our user research interview with Huntingdonshire, South Cambridgeshire and Cambridge City Councils down in Huntingdon.
 
 
 

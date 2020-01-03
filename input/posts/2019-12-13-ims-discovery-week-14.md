@@ -1,5 +1,6 @@
 ---
 Title: IMS Discovery - Week 14
+Lead: Another very busy week and so a long post this time! We've interviewed, we've workshopped, we've reached out, we've analysed survey responses and we've scheduled future activities for all of those things and more.
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -7,8 +8,6 @@ RedirectFrom:
   - 20191213
   - ims-disco-week-14
 ---
-
-Another very busy week and so a long post this time! We've interviewed, we've workshopped, we've reached out, we've analysed survey responses and we've scheduled future activities for all of those things and more.
 
 The week started on December 9th with [Sharon](https://twitter.com/pixlz) and [Saul](https://twitter.com/saulcozens) visiting [North East Lincolnshire Council](https://www.nelincs.gov.uk/) to discuss their requirements of an Income Management System. Zoe, Debbie and I were due to attend remotely but the GoTo Meeting software let us down at the last minute and we unfortunately couldn't take part. We did however review the notes after the meeting and by all accounts it was a really useful session. Thank you so much to everyone there who supported that!
 
