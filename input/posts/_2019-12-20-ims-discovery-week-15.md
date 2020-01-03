@@ -9,27 +9,25 @@ RedirectFrom:
   - ims-disco-week-15
 ---
 
+We hit "Barnsleigh" station (see what they did there?) around 9am and headed out to Meadowhall, before switching to Doncaster, Peterborough and then finally Huntingdon. On that last leg we caught up with Sharon and Marianne from DXW who had been travelling down separately. With all the trains having been on time, the brief walk into the town centre got us there around lunchtime and so we had time to get food & coffee for ourselves and then what Marianne referred to as Sugary Bribes for the session. We then pitched up to Huntingdon CIVIC CENTRE - CHECK THIS - and set up in one of their Civic Rooms.
 
+!PICS OF JOURNEY HERE
 
+The session went really well! Thank you to everyone who took part and engaged as you did! 
 
-Christmas break
-Reflection time
-15 weeks down
-5 to go
+!PICS OF SESSION HERE
 
-Partners - Allerdale, North East Lincs, Huntingdonshire, Cherwell & Sth Northants, Sheffield & GOV.UK Pay
-Will have seen also - Bradford, Cambridge City, South Cambridgeshire, Hackney
+We spent the rest of our week analysing not only our new findings from Huntingdon but also the shape of our user research overall. It's encouraging to see common themes emerging and how they're mapping out into our [Forces framework](https://dxw.slack.com/files/UF8061ZPU/FRCK08E5N/screenshot_2019-12-06_at_08.24.50.png).
 
-So far seen Allerdale, NELC, Bradford, Hunts
-To see Gov.uk Pay, Hackney, Cherwell & Sth Northants, Sheffield
+As we head into the festive break now, there won't be an update over the next 2 weeks as our project takes a pause. We'll reconvene on the afternoon of January 6th in a Sprint Planning session and we're spending January 7th in London with the GOV.UK Pay product team which I'm really looking forward to.
 
-Had 15 survey completions
+Reflecting on progress to date - at this point we've interviewed 3 of our 6 funded partners (Allerdale, North East Lincs and Huntingdonshire) and we have sessions organised in the New Year with the others (Cherwell & South Northants, Sheffield and of course the GOV.UK Pay team). We've also interviewed 3 other council's who have come forward since submitting our funding bid (bradford, ETC) and we've had 15 completions of our Local Gov Survey which will remain open until the middle of January incidentally. Please do share and complete that if you haven't already. We've also delivered 2 live streamed show and tell ceremonies which have been subsequently published on our Barnsley.Digital YouTube channel. 
 
-Delivered 2 live streamed show and tell videos
+We have however been focussed entirely on researching user needs so far though. We also need to make sure we tackle our other lines of enquiry:
 
-Focussed on User Research and needs so far.
+!PIC OF VENN DIAGRAM HERE
 
-Also need to tackle our other queries:
+Looking back at our WHAT DID WE CALL THESE, we asked:
 
 * whether there is a market for an alternative Income Management system to those legacy products already out there
 * what are the user needs for a good Income Management product amongst local authorities?
@@ -45,6 +43,9 @@ Our user stories were:
 * As a GOV.UK Pay Product Owner, I need to understand the changes required for integration so I can develop such.
 * As an LA ICT manager, I need to know how the solution will be packaged so that I understand how to implement and support it.
 
-There won't be an update over the next 2 weeks as our project is taking a pause over the festive period. We reconvene on the afternoon of January 6th in a Sprint Planning session and then spend January 7th in London with the GOV.UK Pay product team which I'm really looking forward to.
+To that end, while we're in London on the 7th we'll be visiting DXW's London office in DSFSDFSDF. There we'll be bringing together software engineers from Barnsley, DXW and Huntingdonshire to disuss HOSTING OPTIONS.
+
+
+
 
 Wishing you a fantastic Christmas and New Year!

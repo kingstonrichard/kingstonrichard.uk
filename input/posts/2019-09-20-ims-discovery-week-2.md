@@ -13,11 +13,12 @@ For [our Discovery project](https://mhclgdigital.blog.gov.uk/2019/09/12/the-6-pr
 
 In parallel to this, some of our internal team attended the [GDS Agile for Teams](https://www.gov.uk/guidance/agile-for-teams-course-description) workshop a couple of weeks ago and we're running a seperate Discovery project with them. Both of these exercises should give us a good handle on how to change the way we work for the future.
 
-I've re-read through the [Local Digital Fund Prospectus 2019/20](https://www.gov.uk/government/publications/local-digital-fund-prospectus-2019-to-2020) and noted the project outputs are due at the end of January 2020. That's 20 weeks from the date of the award. Assuming 4-6 weeks to secure a delivery manager, that leaves us up to 16 weeks for the delivery itself. I'm breaking that down as follows:
+I've re-read through the [Local Digital Fund Prospectus 2019/20](https://www.gov.uk/government/publications/local-digital-fund-prospectus-2019-to-2020) and noted the project outputs are due at the end of January 2020. That's 21 working weeks if we accept that the funding was awarded at the end of week 1. Assuming up to 6 weeks to secure a delivery manager, that leaves us up to 14 weeks for the delivery itself. I'm breaking that down as follows:
 
-* Week 01-06: Procure delivery manager
-* Week 07-15: Run investigative workshops
-* Week 16-20: Document outputs into reports
+* Week 01: Funding awarded
+* Week 02-07: Procure delivery manager
+* Week 08-15: Run investigative workshops
+* Week 16-21: Document outputs into reports
 
 Obviously that will break down into a more granular plan over time, but that's the aspiration.
 

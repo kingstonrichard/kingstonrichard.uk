@@ -9,9 +9,9 @@ RedirectFrom:
   - ims-disco-week-5
 ---
 
-Turns out we published [our earlier draft requirements](https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4) that were asking for a Digital Specialist, rather than the latest version that asks for a Digital Outcome. As a result, all of the questions we received seemed irrelevant or confused - in fact, some of them were more statements advising we ask for an outcome, which we thought we had!
+In our haste, it turns out we mistakenly published an earlier set of draft requirements that were asking for a Digital Specialist, rather than [our latest requirements that are seeking a Digital Outcome](https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4). As a result, all of the questions we received from potential suppliers seemed irrelevant or confused - in fact, some of them were more statements advising we ask for an Outcome, which we thought we had!
 
-So, we pulled them again today and we plan to regroup and go out again next week. Apologies to anyone who submitted a question or showed an interest in the work. We do still require support and we will be back shortly.
+So, we pulled those from the marketplace today and we plan to regroup and go out again next week. Apologies to anyone who submitted a question or showed an interest in the work. We do still require support and we will be back shortly.
 
 To be clear, we're looking for an organisation to run our Discovery project. To marshall our stakeholders and carry out user research workshops with them. To document findings into a business/benefits case, a user research report, a conclusion and if appropriate, a funding bid to the Local Digital Fund to proceed with an Alpha project.
 
