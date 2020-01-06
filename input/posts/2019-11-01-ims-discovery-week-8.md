@@ -1,6 +1,6 @@
 ---
 Title: IMS Discovery - Week 8
-Lead: The submission window on our tender process closed this week and paperwork is being pulled together for review.
+Lead: The submission window on our tender process is now closed and paperwork is being pulled together for review.
 Tags: 
   - Income Management
   - Local Digital Fund
@@ -9,6 +9,8 @@ RedirectFrom:
   - ims-disco-week-8
 ---
 
-Next week will see a tender pack delivered to us and the team here in Barnsley will evaluate them. Towards the end of the week, we'll meet suppliers and discuss their submissions in more detail.
+We'll receive copies of all the tender documentation submitted by interested parties early next week. Our colleagues in the corporate procurement team are currently carrying out their due diligence on them. Once we have them, we will begin our evaluation.
 
-The invitation for our bid partners to join us at both of those events is open, either to join us on-site here in Barnsley or remotely where we can facilitate it.
+Towards the end of the week, we'll then meet suppliers and discuss their submissions in more detail, giving us an opportunity to ask any clarifying questions we might have.
+
+The invitation for our bid partners to join us at both of those events is still open, either to join us on-site here in Barnsley or remotely where we can facilitate it.
