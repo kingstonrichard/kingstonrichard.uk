@@ -9,7 +9,7 @@ RedirectFrom:
   - ims-disco-week-17
 ---
 
-In preperation for us foccusing our efforts on the feasibility and viability considerations of our project, [Saul](https://twitter.com/saulcozens) and [James](https://twitter.com/floppy) have pulled together a number of different documents for us to review when we start back next week:
+In preperation for us focussing our efforts on the feasibility and viability considerations of our project, [Saul](https://twitter.com/saulcozens) and [James](https://twitter.com/floppy) have pulled together a number of different documents for us to review when we start back next week:
 
 * [A mindmap of the model for a software platform](https://miro.com/app/board/o9J_kvxjiRY=/)
 * [A list of openly shared software tools already out in the marketplace](https://docs.google.com/spreadsheets/d/1F91HlWR8X5a8EvEPLfEAGweyi2LzQNSqhORLVoluokk/)
