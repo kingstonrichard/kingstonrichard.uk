@@ -4,7 +4,7 @@
 	<title>Richard Kingston</title>
 	<link rel="self" href="http://kingstonrichard.uk/" />
 	<rights>2020</rights>
-	<updated>2020-01-31T16:09:42Z</updated>
+	<updated>2020-01-31T16:28:48Z</updated>
 	<subtitle>IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.</subtitle>
 	<entry>
 		<id>http://kingstonrichard.uk/posts/ims-discovery-week-21-finale</id>
@@ -276,9 +276,14 @@
 		<title>LGC Awards 2020 Finalist</title>
 		<link href="http://kingstonrichard.uk/posts/iot-award-shortlist" />
 		<updated>2019-11-17T00:00:00Z</updated>
-		<content>&lt;p&gt;&lt;img src="/assets/images/2019-11-17-iot-award.jpg" class="img-fluid" alt="LGC Awards 2020 Finalist" /&gt;&lt;/p&gt;
+		<content>&lt;p&gt;I learned today that a submission made to the LGC Awards 2020 has been shortlisted for an award in the Innovation category.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/assets/images/2019-11-17-iot-award.jpg" class="img-fluid" alt="LGC Awards 2020 Finalist" /&gt;&lt;/p&gt;
+&lt;p&gt;I've been running an Innovation Group for a little over a year now at Barnsley Council in which individuals from around the organisation are invited to prototype technology solutions to problems that aren't being tackled otherwise. One day per fortnight, we open up the doors to our Innovation Lab that contains a variety of useful equipment including 3D printers, soldering irons, voice assistants and more.&lt;/p&gt;
+&lt;p&gt;The problems identified so far have related to inefficiency in council processes and the solutions have been commercial in the sense that they could be made available to other councils. I've &lt;a href="/tags/Innovation-Group"&gt;blogged about them&lt;/a&gt; all previously.&lt;/p&gt;
+&lt;p&gt;The group, we think, is a fairly unusual thing amongst council's and its benefited hugely from new ways of working that are being tried and tested in the organisation. It's these ways of working, these new innovative approaches that are the subject of the submission. Our innovation group is a beneficiary of them - an example of what can and has been achieved. And incidentally the council is then a beneficiary of the group as it implements the solutions that are developed by it.&lt;/p&gt;
+&lt;p&gt;It'll be interesting to see if the judges see the value as we do and I'm looking forward to the results.&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;&lt;img src="/assets/images/2019-11-17-iot-award.jpg" class="img-fluid" alt="LGC Awards 2020 Finalist"&gt;&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;I learned today that a submission made to the LGC Awards 2020 has been shortlisted for an award in the Innovation category.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<id>http://kingstonrichard.uk/posts/ims-discovery-week-10</id>
