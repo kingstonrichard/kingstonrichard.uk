@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 5
 Lead: We've published our requirements for delivery support to the market but had to promptly withdraw them again.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191011

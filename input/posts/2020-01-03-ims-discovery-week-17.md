@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 17
 Lead: We're still paused for Christmas, but despite that some of our team have still been busy.
 Tags:
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20200103

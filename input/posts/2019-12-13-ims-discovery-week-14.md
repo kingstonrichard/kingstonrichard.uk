@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 14
 Lead: We've conducted our first face to face interview, delivered our "Northern" workshop and run the agile ceremonies for our first Sprint.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191213

@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 20
 Lead: Our outputs are taking shape now and we're into final learning, tweaking and getting ready to show and tell.
 Tags:
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20200124

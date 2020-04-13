@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 2
 Lead: We've begun mobilising a team, setting up governance arrangements and planning our Discovery project.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20190920

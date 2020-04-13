@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 19
 Lead: Given the impending project deadline, our efforts have been focussed on setting up our final outputs
 Tags:
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20200117

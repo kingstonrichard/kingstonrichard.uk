@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 10
 Lead: We've awarded the contract for our Discovery project and held our initial delivery meeting. 
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191115

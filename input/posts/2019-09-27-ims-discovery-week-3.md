@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 3
 Lead: We've drafted requirements for delivery support and have taken advice from MHCLG on getting our project started.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20190927

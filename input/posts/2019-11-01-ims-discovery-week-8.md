@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 8
 Lead: The submission window on our tender process is now closed and paperwork is being pulled together for review.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191101

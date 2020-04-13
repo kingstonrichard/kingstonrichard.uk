@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 12
 Lead: We've agreed our research methods for delivery and organised our first face to face workshop. 
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191129

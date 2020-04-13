@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 13
 Lead: Our online survey is live and we've carried out our first remote interview.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191206

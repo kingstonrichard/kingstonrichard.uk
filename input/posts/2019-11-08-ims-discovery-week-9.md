@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 9
 Lead: We've reviewed tender submissions from interested parties and selected a preferred bidder for our delivery support.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191108

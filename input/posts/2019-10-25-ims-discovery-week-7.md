@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 7
 Lead: Our requirements remain published and organisations are invited to submit bids.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191025

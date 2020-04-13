@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 11
 Lead: We've consolidated our shared understanding of the project and made a start on delivery.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191122

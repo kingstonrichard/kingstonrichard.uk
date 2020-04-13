@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 16
 Lead: We're paused for Christmas so are taking reflection on our overall progress this week. Although some work is still happening.
 Tags:
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191227

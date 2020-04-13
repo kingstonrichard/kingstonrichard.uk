@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 6
 Lead: We've republished our requirements for delivery support and they'll be live for 2 weeks.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191018

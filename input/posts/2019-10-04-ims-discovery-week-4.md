@@ -3,6 +3,7 @@ Title: IMS Discovery - Week 4
 Lead: We've engaged with our corporate procurement team to help us buy in the delivery support we need.
 Tags: 
   - Income Management
+  - IMS Discovery
   - Local Digital Fund
 RedirectFrom:
   - 20191004
