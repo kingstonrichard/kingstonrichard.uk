@@ -4,8 +4,41 @@
 	<title>Richard Kingston</title>
 	<link rel="self" href="http://kingstonrichard.uk/" />
 	<rights>2020</rights>
-	<updated>2020-04-13T15:33:48Z</updated>
+	<updated>2020-04-14T09:18:46Z</updated>
 	<subtitle>IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.</subtitle>
+	<entry>
+		<id>http://kingstonrichard.uk/posts/secured-ims-alpha-bid</id>
+		<title>We've secured our IMS Alpha bid!</title>
+		<link href="http://kingstonrichard.uk/posts/secured-ims-alpha-bid" />
+		<updated>2020-03-13T00:00:00Z</updated>
+		<content>&lt;p&gt;We're absolutely thrilled to say that this afternoon we received confirmation that we'd succesfully bid to the &lt;a href="https://localdigital.gov.uk/fund"&gt;Local Digital Fund&lt;/a&gt; and been awarded £100,000 to progress our project!&lt;/p&gt;
+&lt;p&gt;MHCLG announced &lt;a href="https://twitter.com/mhclg/status/1238459366455607296"&gt;the results on Twitter&lt;/a&gt; and you can read more about all of the 6 successful bids at &lt;a href="https://www.gov.uk/government/news/councils-given-1-2-million-for-innovative-digital-projects"&gt;https://www.gov.uk/government/news/councils-given-1-2-million-for-innovative-digital-projects&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We're really pleased with this and keen to get a kick-off meeting in with our partners ASAP.&lt;/p&gt;
+&lt;p&gt;For completeness, here are the documents we submitted:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/document/d/1mJ8Mb2o-f2FdQJgNEcEsaalXpaokD0PutbURlcZldwc"&gt;Application form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/presentation/d/1DYnC0MpF7UOj3yKeJE8Qml9S2bXxOccf4C7H5REJJjg"&gt;Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;We're absolutely thrilled to say that this afternoon we received confirmation that we'd succesfully bid to the &lt;a href="https://localdigital.gov.uk/fund"&gt;Local Digital Fund&lt;/a&gt; and been awarded £100,000 to progress our project!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://kingstonrichard.uk/posts/submitting-our-alpha-bid</id>
+		<title>Submitting our IMS Alpha bid</title>
+		<link href="http://kingstonrichard.uk/posts/submitting-our-alpha-bid" />
+		<updated>2020-02-25T00:00:00Z</updated>
+		<content>&lt;p&gt;We finished up the Discovery phase of our IMS project on January 31st and sent our findings back to MHCLG. In those findings was a recommendation that the project should progress to an alpha phase - to try out different solutions to the problems we'd identified during our discovery.&lt;/p&gt;
+&lt;p&gt;The very next Monday, Feb 3rd, with the application window for the next round of Local Digital Funding already open, we set about drafting &lt;a href="https://docs.google.com/document/d/1mJ8Mb2o-f2FdQJgNEcEsaalXpaokD0PutbURlcZldwc"&gt;our funding application&lt;/a&gt; as an open Google Doc and we invited potential collaborators to contribute.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.huntingdonshire.gov.uk/"&gt;Huntingdonshire District Council&lt;/a&gt;, who had provided signicant knowledge and expertise throughout our Discovery work were quick to engage. Through a shared IT service, they represent the 3 councils of Cambridge City, South Cambridgeshire and Huntingdon, all of whom are interested in taking on the Barnsley IM system should it make it through to a Beta phase in the future.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.dorsetcouncil.gov.uk/"&gt;Dorset Council&lt;/a&gt; contacted us shortly after too and offered to help. Their story is remarkably similar to Barnsley's in that they've developed their own income management system for the same reasons we did. The more we spoke, the more it felt like we'd been going through a lot of the same challenges over the last few years and at the same times, from restructures to changes in political direction, to troublesome contract negotiations.&lt;/p&gt;
+&lt;p&gt;We'd identifed during Discovery that the alpha phase was likely to need a smaller group of collaborators. Between the three of us, and with the support of dxw once again, this felt like a good way forward and so on February 14th, we submitted our bid. Later that same evening, we received an invite to be interviewed - to present our bid and to take questions, feedback and challenge from a panel of experts.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://mhclgdigital.blog.gov.uk/wp-content/uploads/sites/222/2020/03/FundPanelRound4-2-620x346.jpg" class="img-fluid" alt="Dave and I presenting our proposal to the room" /&gt;&lt;/p&gt;
+&lt;p&gt;Dorset weren't available today unfortunately, but Dave and I arranged to meet up with &lt;a href="https://twitter.com/saulcozens"&gt;Saul&lt;/a&gt; from &lt;a href="https://www.dxw.com"&gt;DXW Digital&lt;/a&gt; and Tony from Huntingdonshire to deliver it. . It seemed to go well. There was good engagement in the room, some well thought out questions and challenges and we walked away with an idea of some changes we wanted to make to the bid document. All told, I'd say a very good day.&lt;/p&gt;
+&lt;p&gt;Our &lt;a href="https://docs.google.com/presentation/d/1DYnC0MpF7UOj3yKeJE8Qml9S2bXxOccf4C7H5REJJjg/g"&gt;Google Slides presentation&lt;/a&gt; is available to view here.&lt;/p&gt;
+&lt;p&gt;We wait now to hear the verdict and I'll post here when the results are in.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;We finished up the Discovery phase of our IMS project on January 31st and sent our findings back to MHCLG. In those findings was a recommendation that the project should progress to an alpha phase - to try out different solutions to the problems we'd identified during our discovery.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>http://kingstonrichard.uk/posts/ims-discovery-week-21-finale</id>
 		<title>IMS Discovery - Week 21 finale</title>
@@ -343,58 +376,5 @@
 &lt;p&gt;I'm conscious we still need to figure out how we're going to work together collaboratively as a project team. At the moment Barnsley continue to lead these early activities and are inviting support and comment at each stage. To that end the agile training hasn't been organised yet but is on our task list of things to do so isn't lost.&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Our team in Barnsley have held clarification calls with several interested parties so far this week and we're encouraged by the conversations we've been having. All the questions asked of us have been noted along with our answers and they are being shared openly on our YorTender portal. This means that all suppliers have the benefit of seeing all the same information and will help to make sure all the submissions we receive are as appropriate as possible. We can't say too much about how many suppliers we've spoken with, or who they are as the whole process is confidential by nature, but we are keen to be as open as possible, hence still releasing this shorter blog post this week about how we're progressing.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>http://kingstonrichard.uk/posts/ims-discovery-week-6</id>
-		<title>IMS Discovery - Week 6</title>
-		<link href="http://kingstonrichard.uk/posts/ims-discovery-week-6" />
-		<updated>2019-10-18T00:00:00Z</updated>
-		<content>&lt;p&gt;Our &lt;a href="https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4"&gt;requirements for a Digital Outcome&lt;/a&gt; are published and ready for interested parties to submit their expressions of interest. We haven't used the &lt;a href="https://www.digitalmarketplace.service.gov.uk/"&gt;Digital Marketplace&lt;/a&gt; as we first intended, but rather via &lt;a href="https://www.yortender.co.uk/"&gt;YORTender&lt;/a&gt;, our usual route for obtaining quotes and securing suppliers.&lt;/p&gt;
-&lt;p&gt;We've opted to take this route based on guidance from our corporate procurement team - the long and short of it being that our organisation doesn't currently use the Digital Marketplace and we have established processes for working with YORtender already - so it makes the whole thing run a lot more smoothly for us and importantly, quickly!&lt;/p&gt;
-&lt;p&gt;We'll be out to market on YorTender from October 16th to October 30th and will have awarded a contract by Friday 8th November 2019. We therefore intend to kick off project delivery on Monday, November 11th. That revises our anticipated timeline from &lt;a href="/20190920"&gt;Week 2&lt;/a&gt; to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Week 01: Funding awarded&lt;/li&gt;
-&lt;li&gt;Week 02-09: Procure delivery partner&lt;/li&gt;
-&lt;li&gt;Week 10-17: Run investigative workshops&lt;/li&gt;
-&lt;li&gt;Week 18-21: Document outputs into reports&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Accepting that w/c 23rd December and 30th December will be cut short by the Christmas and New Year break, our 8 week investigative period is only a little over 6 weeks. We'll need to be a bit more savvy with our procurement activities if we make future bids to the fund as the balance is a little off for my liking. Still, it is our first rodeo and we're learning a lot of lessons here that I hope others will appreciate as I keep blogging.&lt;/p&gt;
-&lt;p&gt;I've setup evaluation, award and project kick off meetings with our internal team in plenty of time and I've invited our bid partners to join us in those as of late last night - that can be on site (we love to host) or remotely (which was a major consideration in our bid application initially - that partners wanted to support remotely wherever possible). They'll get copies of bidders documents on November 4th for review and comment.&lt;/p&gt;
-&lt;p&gt;In the meantime, we're looking at booking all of us onto the Agile for Teams course with the GDS Academy. As a successful bidder to the fund, we're entitled to take up that offer. We've sent invites to our partners and hope to hear back from them shortly for a session November 5th, 6th and 7th if that will work. One important thing we need to do as a team still is figure out how we're going to work together collaboratively during this project which is where this course should help. For the timebeing, Barnsley are leading these early activities and inviting support and comment wherever practical. We may continue in that way and as such the agile training may not be necessary but I don't want to close the doors on the chance to work more closely together and certainly that's in the sprit of the whole thing.&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;Our &lt;a href="https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4"&gt;requirements for a Digital Outcome&lt;/a&gt; are published and ready for interested parties to submit their expressions of interest. We haven't used the &lt;a href="https://www.digitalmarketplace.service.gov.uk/"&gt;Digital Marketplace&lt;/a&gt; as we first intended, but rather via &lt;a href="https://www.yortender.co.uk/"&gt;YORTender&lt;/a&gt;, our usual route for obtaining quotes and securing suppliers.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>http://kingstonrichard.uk/posts/ims-discovery-week-5</id>
-		<title>IMS Discovery - Week 5</title>
-		<link href="http://kingstonrichard.uk/posts/ims-discovery-week-5" />
-		<updated>2019-10-11T00:00:00Z</updated>
-		<content>&lt;p&gt;In our haste to bring in some delivery support, we mistakenly published the wrong set of requirements. When we first started drafting them, we went down the road of asking for a Digital Specialist - an individual to come in and support us. However, as we came to understood our needs better, we recognised that we need a Digital Outcome - multiple roles to come together to help us. &lt;a href="https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4"&gt;Our latest set of requirements are seeking a Digital Outcome&lt;/a&gt; but those aren't the ones we published! As a result, all of the questions we received from potential suppliers seemed irrelevant or confused - in fact, some of them were statements advising we ask for an Outcome, which we thought we had!&lt;/p&gt;
-&lt;p&gt;So, we pulled those from the marketplace after a couple of days and we plan to regroup and go out again next week. Apologies to anyone who submitted a question or showed an interest in helping us with this project. We do still require support and we will be back shortly with the right requirements. To be clear about those, we're looking for an organisation:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;To run our Discovery project&lt;/li&gt;
-&lt;li&gt;To marshall our stakeholders&lt;/li&gt;
-&lt;li&gt;To carry out user research workshops&lt;/li&gt;
-&lt;li&gt;To document findings into a business/benefits case, a user research report, a conclusion and if appropriate, a funding bid to the Local Digital Fund to proceed with an Alpha project.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ideally the succesful organisation will bring at least one:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;User Researcher&lt;/li&gt;
-&lt;li&gt;Service Designer&lt;/li&gt;
-&lt;li&gt;Product Owner (although that may be me)&lt;/li&gt;
-&lt;li&gt;Delivery manager&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We've listed our user stories as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;As Barnsley IM Product Owner, I need to understand the changes required to it to meet national user needs so I can develop it such.&lt;/li&gt;
-&lt;li&gt;As an LA Income Manager, I need to know if my needs will be met and the savings I can make, so that I can consider migrating over.&lt;/li&gt;
-&lt;li&gt;As a GOV.UK Pay Product Owner, I need to understand the changes required for integration so I can develop such.&lt;/li&gt;
-&lt;li&gt;As an LA ICT manager, I need to know how the solution will be packaged so that I understand how to implement and support it.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;To our stakeholders, bear with us please - we'll be out with our requirements again next week and will be looking to shortlist providers very soon after that. I'll be in touch with dates as soon as possible.&lt;/p&gt;
-&lt;p&gt;One final note, to thank Egle at MHCLG for all her support to date, and to Tony Evans for his comments on our requirements as they were being revised. we've found your input extremely useful so thank you for that.&lt;/p&gt;
-&lt;p&gt;We hope next week to be posting less about procurement and more about delivery.&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;In our haste to bring in some delivery support, we mistakenly published the wrong set of requirements. When we first started drafting them, we went down the road of asking for a Digital Specialist - an individual to come in and support us. However, as we came to understood our needs better, we recognised that we need a Digital Outcome - multiple roles to come together to help us. &lt;a href="https://docs.google.com/spreadsheets/d/1MkzvoOmTRZtSGT18-xSNxeOWNiPkZG7phRg0BUPJsI4"&gt;Our latest set of requirements are seeking a Digital Outcome&lt;/a&gt; but those aren't the ones we published! As a result, all of the questions we received from potential suppliers seemed irrelevant or confused - in fact, some of them were statements advising we ask for an Outcome, which we thought we had!&lt;/p&gt;</summary>
 	</entry>
 </feed>
