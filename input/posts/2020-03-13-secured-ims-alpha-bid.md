@@ -15,7 +15,7 @@ MHCLG announced [the results on Twitter](https://twitter.com/mhclg/status/123845
 
 We're really pleased with this and keen to get a kick-off meeting in with our partners ASAP.
 
-For completeness, here are the documents we submitted:
+For completeness, here are the documents we submitted: 
 
 * [Application form](https://docs.google.com/document/d/1mJ8Mb2o-f2FdQJgNEcEsaalXpaokD0PutbURlcZldwc)
 * [Presentation](https://docs.google.com/presentation/d/1DYnC0MpF7UOj3yKeJE8Qml9S2bXxOccf4C7H5REJJjg)

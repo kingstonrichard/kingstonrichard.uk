@@ -23,6 +23,6 @@ We'd identifed during Discovery that the alpha phase was likely to need a smalle
 
 Dorset weren't available today unfortunately, but Dave and I arranged to meet up with [Saul](https://twitter.com/saulcozens) from [DXW Digital](https://www.dxw.com) and Tony from Huntingdonshire to deliver it. . It seemed to go well. There was good engagement in the room, some well thought out questions and challenges and we walked away with an idea of some changes we wanted to make to the bid document. All told, I'd say a very good day.
 
-Our [Google Slides presentation](https://docs.google.com/presentation/d/1DYnC0MpF7UOj3yKeJE8Qml9S2bXxOccf4C7H5REJJjg/g) is available to view here.
+Our [Google Slides presentation](https://docs.google.com/presentation/d/1DYnC0MpF7UOj3yKeJE8Qml9S2bXxOccf4C7H5REJJjg) is available to view here.
 
 We wait now to hear the verdict and I'll post here when the results are in.
