@@ -4,7 +4,7 @@
 	<title>Richard Kingston</title>
 	<link rel="self" href="http://kingstonrichard.uk/" />
 	<rights>2020</rights>
-	<updated>2020-07-05T21:49:11Z</updated>
+	<updated>2020-07-05T21:55:00Z</updated>
 	<subtitle>IT Manager at Barnsley Council. Member of BarnsleyIO. Maker. Web. Electronics. MTB rider. Man parent of two.</subtitle>
 	<entry>
 		<id>http://kingstonrichard.uk/posts/secured-ims-alpha-bid</id>
@@ -91,12 +91,6 @@
 &lt;/ul&gt;
 </content>
 		<summary>&lt;p&gt;This page has moved. If you are not redirected automatically, click the link below:&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>http://kingstonrichard.uk/posts/twenty-years-of-service-delivery</id>
-		<title />
-		<link href="http://kingstonrichard.uk/posts/twenty-years-of-service-delivery" />
-		<updated>2020-01-06T00:00:00Z</updated>
 	</entry>
 	<entry>
 		<id>http://kingstonrichard.uk/posts/ims-discovery-week-17</id>
@@ -245,6 +239,18 @@
 		<content>&lt;p&gt;This page has moved. If you are not redirected automatically, click the link below:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a id="redirectUrl" href="https://www.localgovims.digital/blog/ims-discovery-week-8/"&gt;IMS Discovery - Week 8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;This page has moved. If you are not redirected automatically, click the link below:&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://kingstonrichard.uk/posts/ims-discovery-week-7</id>
+		<title>IMS Discovery - Week 7</title>
+		<link href="http://kingstonrichard.uk/posts/ims-discovery-week-7" />
+		<updated>2019-10-25T00:00:00Z</updated>
+		<content>&lt;p&gt;This page has moved. If you are not redirected automatically, click the link below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a id="redirectUrl" href="https://www.localgovims.digital/blog/ims-discovery-week-7/"&gt;IMS Discovery - Week 7&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
 		<summary>&lt;p&gt;This page has moved. If you are not redirected automatically, click the link below:&lt;/p&gt;</summary>
