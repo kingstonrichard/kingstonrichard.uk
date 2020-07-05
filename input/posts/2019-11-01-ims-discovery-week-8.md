@@ -10,8 +10,6 @@ RedirectFrom:
   - ims-disco-week-8
 ---
 
-We'll receive copies of all the tender documentation submitted by interested parties early next week. Our colleagues in the corporate procurement team are currently carrying out their due diligence on them. Once we have them, we will begin our evaluation.
+This page has moved. If you are not redirected automatically, click the link below:
 
-Towards the end of the week, we'll then meet suppliers and discuss their submissions in more detail, giving us an opportunity to ask any clarifying questions we might have.
-
-The invitation for our bid partners to join us at both of those events is still open, either to join us on-site here in Barnsley or remotely where we can facilitate it.
+* <a id="redirectUrl" href="https://www.localgovims.digital/blog/ims-discovery-week-8/">IMS Discovery - Week 8</a>

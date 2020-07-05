@@ -19,6 +19,7 @@
 			gtag('js', new Date());
 			gtag('config', 'UA-72755780-1');
 		</script>
+		<script src="@Context.GetLink("/assets/js/redirectNow.js")"></script>
 		<title>@PageTitle</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -102,6 +103,8 @@
 			<script src="@Context.GetLink("assets/js/util.js")"></script>
             <!--[if lte IE 8]><script src="@Context.GetLink("/assets/js/ie/respond.min.js")"></script><![endif]-->
             <script src="@Context.GetLink("/assets/js/main.js")"></script>
+			<script src="@Context.GetLink("/assets/js/redirectNow.js")"></script>
+			<script type="text/javascript">redirectNow();</script>
 
 	</body>
 
